@@ -9,7 +9,7 @@
             "jpName": "",
             "enName": "",
             "jpText": "種目別競技大会とは、成長や挑戦を促す目的で年に数回行われる\r\n学内レースのこと。それにメイショウドトウは誘われたわけだが――",
-            "enText": "A discipline competition is an intramural race held several times a year to encourage growth and challenge. And that's what Mayshoudtou was invited to do.",
+            "enText": "An interdisciplinary competition is an intramural race held several \ntimes a year for students to challenge themselves and grow. \nAnd that's what Doto was invited to do.",
             "nextBlock": 2,
             "origClipLength": 125,
             "animData": [
@@ -29,7 +29,7 @@
             "jpName": "テイエムオペラオー",
             "enName": "TM Opera O",
             "jpText": "というわけで早速明日、合同稽古を行おう！　場所は芝コース、\r\n時間は13時！　よろしく頼むよ、ドトウ！　ハーッハッハッハッハ！",
-            "enText": "So let's have a joint training tomorrow!　The place is the turf course. The time is 1:00 p.m.!　Good luck, Dotou!　Ha-ha-ha-ha!",
+            "enText": "So let's have a joint training session tomorrow! The place, the lawn course. \nThe time, 1 PM! Good luck, Doto! Ha- ha- ha- ha!",
             "nextBlock": 3,
             "origClipLength": 397,
             "animData": [
@@ -59,9 +59,9 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "…………。\r\n……はぅっ、驚きのあまり、気絶してました……。",
-            "enText": "............. ...... Hah, I was so surprised, I passed out. ......",
+            "enText": "...Haah- I was so surprised, I passed out...",
             "nextBlock": 4,
             "origClipLength": 227,
             "choices": [
@@ -86,9 +86,9 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "ええ、はい、大丈……えっ、おっ、オペオペ、オペラオーさんが\r\nわわわわ私を指名！？　私と激闘！？　ええーっ！！",
-            "enText": "Yes, yes, great length ...... eh, oops, oops, Mr. Opera O nominated me wow!　A fierce battle with me!　Eeeee!!!",
+            "enText": "Ee-, yes, I'm alri-... eh, O-O-Opera O-san n-n-n-n-nominated me!? \nA fierce battle with me! Eeeeeh!?",
             "nextBlock": 5,
             "origClipLength": 395,
             "animData": [
@@ -112,7 +112,7 @@
             "jpName": "",
             "enName": "",
             "jpText": "尋常ではない戸惑いっぷりに、先ほどまでの\r\nテイエムオペラオーを慕っているような態度……もしかすると――",
-            "enText": "The unusual perplexity, and the adoring attitude of the Teemu Operao that he had just ...... perhaps--",
+            "enText": "An unusual state of bewilderment, until a few moments ago, \nto an attitude like adoration towards T.M. Opera O... perhaps--",
             "nextBlock": 6,
             "origClipLength": 112,
             "choices": [
@@ -138,7 +138,7 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "い、いえそんな、私なんかが、めっそうもないですぅ……！\r\nファンではないのですが、つまりその、あ、憧れ、というか……。",
             "enText": "No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no. ......! I'm not a fan, I mean, I, uh, admire, or .......",
             "nextBlock": 7,
@@ -158,7 +158,7 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "えとえと……そのぅ……は……初めて\r\nオペラオーさんを見た時に、ですねぇ……――",
             "enText": "When I first saw ...... Mr. Oprah, you know, the first time I saw ...... Mr. Oprah, you know, ......--",
             "nextBlock": 8,
@@ -202,7 +202,7 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "……あの日、オペラオーさんは目立っていました。列の中で\r\n高笑いしながら新入生の1人として入場し、そして……。",
             "enText": "...... Opera O stood out that day. He entered as one of the new students in the row, smiling broadly, and then ......",
             "nextBlock": 10,
@@ -242,7 +242,7 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "盛大にこけました。",
             "enText": "It was a grand stumble.",
             "nextBlock": 12,
@@ -270,7 +270,7 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "だ、大丈夫ですかぁ……！？",
             "enText": "Hey, are you okay. ......!",
             "nextBlock": 13,
@@ -290,7 +290,7 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "私は焦りました……！　入学早々、全校生徒の目の前でコケる\r\nなんて、私なら1年は悪夢になって苦しみます！　なのに――",
             "enText": "I was impatient: ......!　I would have a nightmare and suffer for a year, mocking in front of the whole school as soon as I started school!　And yet...",
             "nextBlock": 14,
@@ -342,7 +342,7 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "（す、すごい……ぜんぜんへこんでない……。\r\nそれどころか、いっそう堂々としてる……な、なんで……？）",
             "enText": "(Wow, he doesn't look ...... depressed at all. On the contrary, it looks even more magnificent ....... Why ......?)",
             "nextBlock": 16,
@@ -370,7 +370,7 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "（私……この人みたいに、なりたい……！）",
             "enText": "(I ...... want to be like this person, ......!)",
             "nextBlock": 17,
@@ -394,7 +394,7 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "……さっき、オペラオーさんが私を選んでくださったのは……\r\nきっと、いえ多分、いえ確実、いえ絶対に偶然だと思います……。",
             "enText": "I am sure, no, maybe, no, definitely, no, definitely, it is a coincidence that Mr. Operao chose me to ...... just now. ......",
             "nextBlock": 18,
@@ -426,7 +426,7 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "でも、こんな私でも、オペラオーさんのためになれるのなら……\r\nせ、精いっぱいがんばらせて、いただきます……！",
             "enText": "But if I can be of any help to Mr. Opera O, I will do my best ......!",
             "nextBlock": 19,
@@ -514,7 +514,7 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "す、すみませぇ～～ん！！",
             "enText": "I'm sorry!",
             "nextBlock": 23,
@@ -530,7 +530,7 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "ご、ごめんなさい、準備に手間取っちゃってぇ……！\r\nい、今すぐ、ゲートインします！　ごめんなさいごめんなさい……！",
             "enText": "I'm sorry, it took me a while to get ready. ......! Yes, we're gating in right now!　I'm sorry, I'm sorry, I'm sorry. ......!",
             "nextBlock": 24,
@@ -582,7 +582,7 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "ひっ、そそそ、そうですよね……！　ごめ、ごめんなさ――",
             "enText": "Hee, hee, hee, you're right. ......!　Sorry, sorry--",
             "nextBlock": 26,
@@ -630,7 +630,7 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "…………！！！",
             "enText": "............!!!!",
             "nextBlock": 28,
@@ -726,7 +726,7 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "すすすすすす、すみませぇ～～ん！！",
             "enText": "",
             "nextBlock": 33,
@@ -746,7 +746,7 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "ごめんなさいごめんなさい、ほんっとうにごめんなさい……！",
             "enText": "I'm sorry, I'm so sorry, I'm so sorry. ......!",
             "nextBlock": 34,
@@ -786,7 +786,7 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "そのぅ……昨日の夜、張り切ってシューズを磨いて……普段と違う\r\nところにしまっちゃったんです。それで、見つからなくなって……！",
             "enText": "Well,...... last night I was so excited that I polished my shoes and put them in a ...... different place than I normally do. Then I couldn't find them and ......!",
             "nextBlock": 35,
@@ -814,7 +814,7 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "ここにもない、ここにもない、ここにもない、\r\nここにもない、ここにもない！　どこにもないぃ～！？",
             "enText": "It's not here, it's not here, it's not here, it's not here, it's not here!　It's not here, it's not here, it's not here, it's not here, it's not here!",
             "nextBlock": 36,
@@ -842,7 +842,7 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "そして、ようやく見つかったと思ったら――",
             "enText": "And just when you think you've finally found it--",
             "nextBlock": 37,
@@ -858,7 +858,7 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "ててて、蹄鉄が取れちゃったぁ……！\r\nなんでぇ～！？",
             "enText": "Oh, no, my horseshoe came off. ......! Why?",
             "nextBlock": 38,
@@ -874,7 +874,7 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "……はっ、もしかして、完璧な位置に打ちたくて、昨日何度も\r\n打ち直したから、それで穴が……。わ、私のバカァ～！",
             "enText": "......, maybe it's because I wanted to hit it in the perfect position, so I hit it again and again yesterday, and that's why the hole is in ....... Oh, my stupidity!",
             "nextBlock": 39,
@@ -890,7 +890,7 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "そ、それで、新しいシューズを買いに行っていたら、\r\nこんな時間に……！　お待たせしてしまって、ごめんなさい……！",
             "enText": "So, so I was out shopping for new shoes, and here I am at this hour ......!　Sorry to keep you waiting. ......!",
             "nextBlock": 40,
@@ -921,7 +921,7 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "はっ！　た、確かに……！　その手がありましたね……って、\r\nそうじゃなくて、こ、困りましたよね、ごめんなさいぃ……！",
             "enText": "Ha!　You're right, it's ......!　That's the way to do it... ......... I mean, I'm sorry, I'm sorry, .........",
             "nextBlock": 41,
@@ -1012,7 +1012,7 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "お、オペラオーさぁん……！",
             "enText": "Oh, Mr. Opera O. ......!",
             "nextBlock": 44,
@@ -1040,7 +1040,7 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "（せ、せめて、いい併走にしなきゃ……っ！\r\nオペラオーさんの、お役に立てるウマ娘に、ならなきゃ……！）",
             "enText": "（I have to at least make a good run together ......! I have to become a horse girl who can be useful to Opera O. (I have to become a horse girl who can be useful to Opera O. ......!)",
             "nextBlock": 45,
@@ -1092,7 +1092,7 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "……っ！　や、やああ～～っ！",
             "enText": "......!　Ya, Ya~!!!",
             "nextBlock": 47,
@@ -1108,7 +1108,7 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "――はびゃ！？",
             "enText": "--Ha bya!",
             "nextBlock": 48,
@@ -1128,7 +1128,7 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "ご、ごめんなさい～～！　遅刻して、お待たせして、\r\nまともなレースもできなくてぇ～！",
             "enText": "I'm so sorry~!　I was late, I kept you waiting, and I didn't even get a decent race in!",
             "nextBlock": 50,
@@ -1156,7 +1156,7 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "私、私どうすれば、どう謝罪をすれば……！\r\nあっ、そうだ……！　差し入れ、差し入れを持ってきたんです……！",
             "enText": "Me, me how do I, how do I apologize ......! Oh, yes, ......!　I brought you some food, I brought you some food ......!",
             "nextBlock": 51,
@@ -1184,7 +1184,7 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "その用意で、今日は遅刻しちゃったんですけど……。\r\nごめんなさい……。",
             "enText": "In preparation for that, I'm late today. ...... Sorry .......",
             "nextBlock": 52,
@@ -1272,7 +1272,7 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "しょしょ、醤油！？　ご、ごめんなさい！　ええとええと、あの、\r\nアロマを振りかけたタオルも、ご用意したんです！　いい香りで――",
             "enText": "Soy sauce!　I'm sorry!　I, uh, I, uh, I also prepared some towels sprinkled with aroma!　It smells so good!",
             "nextBlock": 55,
@@ -1332,7 +1332,7 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "ひゃああ！？\r\n大丈夫ですか、大丈夫ですかぁ、オペラオーさぁ～～～ん！",
             "enText": "Hiyaaaa! Are you okay, are you okay, Mr. Opera-Oh~!",
             "nextBlock": 57,
@@ -1342,7 +1342,7 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "ぐす……ぐす……っ！\r\nまさか……あのオペラオーさんが、卒倒しちゃうなんてぇ……。",
             "enText": "Gusu...... gusu......! No way...... that Opera Oh is going to have a stroke.......",
             "nextBlock": 58,
@@ -1369,7 +1369,7 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "でも……せっかくがんばろうと思って来たのに……\r\nやっぱりなにもできなくて……迷惑ばかりで……ぐす……。",
             "enText": "But ...... I came here to try my best,...... but I still couldn't do anything,...... and it was just a nuisance,...... and I was just a nuisance,...... and I was just a nuisance,...... and I was just a nuisance,.......",
             "nextBlock": 59,
@@ -1389,7 +1389,7 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "私、私は本当……っ、\r\nダメでドジでグズなウマ娘ですぅ～～～～っ！",
             "enText": "I, I'm really ......, I'm a no good, screwed up and stupid horse girl... ～～～～!",
             "nextBlock": 60,

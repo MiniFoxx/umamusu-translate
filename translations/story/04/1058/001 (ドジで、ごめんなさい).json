@@ -9,7 +9,7 @@
             "jpName": "",
             "enName": "",
             "jpText": "トレセン学園にやってきて、早数日。ウマ娘を\r\nスカウトすべく、グラウンドへ向かって廊下を歩いていると――",
-            "enText": "It's been a few days since I arrived at Toresen Academy. As I was walking down the hallway toward the field to scout for a horse girl...",
+            "enText": "It'd been a few days since I'd arrived at Tracen Academy. As I was \nwalking down the hallway toward the field to scout for a horse girl,...",
             "nextBlock": 2,
             "origClipLength": 112,
             "pathId": -1043597058634999421,
@@ -19,7 +19,7 @@
             "jpName": "",
             "enName": "",
             "jpText": "（スポーン！）",
-            "enText": "(Spawn!)",
+            "enText": "<i>Appear!</i>",
             "nextBlock": 3,
             "origClipLength": 54,
             "pathId": -624273616878874764,
@@ -27,9 +27,9 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "避けてぇー！",
-            "enText": "Avoid!",
+            "enText": "Look ouuut!",
             "nextBlock": 4,
             "origClipLength": 90,
             "pathId": 8110191802090950743,
@@ -45,7 +45,7 @@
             "choices": [
                 {
                     "jpText": "！？",
-                    "enText": "!",
+                    "enText": "!?",
                     "nextBlock": 5
                 }
             ],
@@ -60,9 +60,9 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "だ、大丈夫、ですかぁ……？\r\nごめんなさい、ごめんなさい、ごめんなさいぃ……！",
-            "enText": "Are you okay? ......? I'm sorry, I'm sorry, I'm sorry. ......!",
+            "enText": "Are you okay...? I'm sorry, I'm sorry, I'm sorry...!",
             "nextBlock": 6,
             "origClipLength": 192,
             "animData": [
@@ -82,13 +82,13 @@
             "jpName": "",
             "enName": "",
             "jpText": "声のおかげで間一髪避けられた。\r\nが、そんなことよりも――",
-            "enText": "Thanks to the voice, I was able to avoid it in the nick of time. But that's not the point.",
+            "enText": "Thanks to the shout, I was able to avoid it in the nick of time. \nBut that wasn't the point.",
             "nextBlock": 7,
             "origClipLength": 82,
             "choices": [
                 {
                     "jpText": "なんで机の脚が……？",
-                    "enText": "Why are the legs of the desk ......?",
+                    "enText": "Why are the legs of the desk...?",
                     "nextBlock": 7
                 }
             ],
@@ -107,9 +107,9 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "――は、あ、脚！　机の、脚……！\r\nそうでした、わわわ、私、私私なんてことを……っ！",
-            "enText": "The--oh, the legs!　The legs of the desk. ......! Yes, wow, wow, I, I, I, what a mess ......!",
+            "enText": "The- oh, the legs! The legs of the desk...! \nYes, uhh-, uhh-, I- I- I-, what a mess...!",
             "nextBlock": 8,
             "origClipLength": 333,
             "animData": [
@@ -127,9 +127,9 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "ど、どどどどどど、どうしましょう～～……っ！",
-            "enText": "Do, do, do, do, do, do, do~~~......!",
+            "enText": "Wh-, wh-wh-wh-wh-wh-wh-what are we going to doo~~...!",
             "nextBlock": 9,
             "origClipLength": 131,
             "animData": [
@@ -145,7 +145,7 @@
             "jpName": "",
             "enName": "",
             "jpText": "脚が1本折れている机があった。\r\n半べその彼女をなんとかなだめ、よくよく話を聞いてみると――",
-            "enText": "There was a desk with one broken leg. I managed to coax her out of her half-cocked state and listened carefully.",
+            "enText": "There was a desk with a broken leg. I managed to calm her down \nand listened to her carefully.",
             "nextBlock": 10,
             "origClipLength": 105,
             "animData": [
@@ -159,9 +159,9 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "わ……私、ドジでグズで……な、なんにもできないんです……。\r\nそれで、だから、その……なにか役に立てることないかなって……！",
-            "enText": "I'm a messy ...... and a goof ...... and I can't do anything ....... So, I was wondering if there was anything I could ...... do to help. ......!",
+            "enText": "I'm a mess... and a goof... and I can't do anything... So, I was \nwondering if there was anything I could... do to help...!",
             "nextBlock": 11,
             "origClipLength": 564,
             "animData": [
@@ -179,9 +179,9 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "オペラオーさんの机が、ガタガタしてるって聞いたので……\r\nこっそり、直そうと思ったんです……けど……。",
-            "enText": "I heard that Opera O's desk was rickety, so I thought I'd ...... secretly try to fix it, ...... but .......",
+            "enText": "I heard that Opera O's desk was wobbly, so I thought I'd... \nsecretly try to fix it... but...",
             "nextBlock": 12,
             "origClipLength": 359,
             "animData": [
@@ -199,9 +199,9 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "そしたら……っ、力みすぎて折っちゃい、まして……！\r\n慌てたら脚、手から飛んでっちゃいましてぇ……！",
-            "enText": "Then ......, I was too hard on it and broke it, and moreover ......! I panicked and my leg flew out of my hand. ......",
+            "enText": "Then..., I was too hard on it and broke it, and moreover...! \nI panicked and the leg flew out of my hand...",
             "nextBlock": 13,
             "origClipLength": 347,
             "animData": [
@@ -215,9 +215,9 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "ごめんなさい、出来ないくせに挑戦しちゃってごめんなさい！\r\n通りすがりのトレーナーさんに迷惑かけて、ごめんなさいぃ～！",
-            "enText": "I'm sorry, I'm sorry I tried even though I couldn't do it! I'm sorry I bothered the trainer who was passing by!",
+            "enText": "I'm sorry, I'm sorry I tried even though I couldn't do it! \nI'm sorry I bothered Trainer who was passing by!",
             "nextBlock": 14,
             "origClipLength": 309,
             "animData": [
@@ -235,9 +235,9 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "なんとかしなきゃ……、これ以上誰かに迷惑をかける前に、\r\nなんとか、なんとか――そうだ！　せ、接着剤ならくっつくかも！",
-            "enText": "I've got to do something ......, before I cause any more trouble for anyone else, somehow, someway--yes!　Maybe some glue will stick!",
+            "enText": "I've got to do something..., before I cause any more trouble for \nanyone else, somehow, someway---that's it! Maybe some glue will stick!",
             "nextBlock": 15,
             "origClipLength": 430,
             "animData": [
@@ -255,9 +255,9 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "くっつかないぃ～～～っ！！\r\nべ、ベタベタになっちゃいましたぁ～～っ！",
-            "enText": "I can't stick to it~~! It's sticky, it's sticky~~!",
+            "enText": "It's not sticking~~! I'm all sticky now~~!",
             "nextBlock": 16,
             "origClipLength": 204,
             "animData": [
@@ -275,9 +275,9 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "はっ、そうだ……！\r\nだったら、紐で、こう、縛ったらきっと……！",
-            "enText": "Ha, yes, ......! Then, if you tie it up with a string, like this, I'm sure it'll work ......!",
+            "enText": "Ha, yes...! Then, if you tie it up with a string, like this, I'm sure it'll work ......!",
             "nextBlock": 17,
             "origClipLength": 261,
             "animData": [
@@ -295,7 +295,7 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "縛れないぃ～～～っ！！",
             "enText": "I can't tie it up~!",
             "nextBlock": 18,
@@ -313,7 +313,7 @@
             "jpName": "",
             "enName": "",
             "jpText": "（バキィッ！！）",
-            "enText": "(Boom!!!)",
+            "enText": "<i>CRACK!!</i>",
             "nextBlock": 19,
             "origClipLength": 55,
             "animData": [
@@ -327,15 +327,15 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "へひゃあ！？　折れたぁ！？\r\nは、へ、ど、ど、どうしよぉ～……！",
-            "enText": "Hee-hee!　It's broken! Ha, heh, do, do, do, do~ ......!",
+            "enText": "Hiyaa! It's broken! Haa-, hii-, wh-wh-what do I do~ ......!",
             "nextBlock": 20,
             "origClipLength": 246,
             "choices": [
                 {
                     "jpText": "（つい、見守り続けてしまった……）",
-                    "enText": "(I just had to keep an eye on it. ......)",
+                    "enText": "(I just kept on watching...)",
                     "nextBlock": 20
                 }
             ],
@@ -356,7 +356,7 @@
             "jpName": "",
             "enName": "",
             "jpText": "とはいえ、もう夜も更けてしまった。明日事務員に相談して、\r\n新しい机に変えてもらおう、そう提案しようと口を開いたその時――",
-            "enText": "However, it was already late at night. I opened my mouth to suggest that I would talk to the office staff tomorrow and have them change to a new desk.",
+            "enText": "However, it was already late at night. I was about to suggest that \nI would talk to the office staff tomorrow and have them \nchange to a new desk, when--",
             "nextBlock": 21,
             "origClipLength": 124,
             "animData": [
@@ -396,7 +396,7 @@
             "jpName": "テイエムオペラオー",
             "enName": "TM Opera O",
             "jpText": "大きな音が聞こえてきたと思えば、なんというトラジディー！\r\n麗しきボクの机が、嘆かわしくも破壊されているとは！",
-            "enText": "I thought I heard a loud noise, but what a tragedy! My beautiful desk has been sadly destroyed!",
+            "enText": "I thought I heard a loud noise, what a tragedy! \nMy beautiful desk has been sadly destroyed!",
             "nextBlock": 23,
             "origClipLength": 307,
             "animData": [
@@ -422,9 +422,9 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "オオオ、オペラ、オペオペ、オペラオーさぁんっ！？\r\nご、ごめんなさい、これはえっとその……っ、私が――",
-            "enText": "Oh-oh-oh-opera-opera-oh-opera-oh-oh! I'm sorry, I'm sorry, this is, uh, ......, I'm...",
+            "enText": "O-O-O-Opera, Ope-Ope-, Opera O-san! \nI'm sorry, I'm sorry, this is, uh, ..., I'm...",
             "nextBlock": 24,
             "origClipLength": 342,
             "animData": [
@@ -478,9 +478,9 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "…………へっ。",
-            "enText": "Go to .............",
+            "enText": ".............eh",
             "nextBlock": 26,
             "origClipLength": 38,
             "animData": [
@@ -508,7 +508,7 @@
             "jpName": "テイエムオペラオー",
             "enName": "TM Opera O",
             "jpText": "横たわるつややかなボクの机、散らばる2本の脚……。\r\nそして燦々と降り注ぐ月の光！",
-            "enText": "The glossy Boku desk lying on its side, two scattered legs ....... And the brilliant moonlight!",
+            "enText": "My glossy desk lying on its side, two scattered legs... \nAnd the brilliant moonlight!",
             "nextBlock": 27,
             "origClipLength": 261,
             "animData": [
@@ -536,7 +536,7 @@
             "jpName": "テイエムオペラオー",
             "enName": "TM Opera O",
             "jpText": "哀愁を引き立てるのにこれ以上ないセットだ！\r\nご覧、ドトウ！　美しいだろう！　ここに佇むボクは！",
-            "enText": "What better set to enhance the melancholy! Look, Dotou!　Isn't it beautiful!　Here I am standing!",
+            "enText": "What better set to enhance the melancholy! Look, Doto! \nIsn't it beautiful!? I, standing here!",
             "nextBlock": 28,
             "origClipLength": 275,
             "animData": [
@@ -562,9 +562,9 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "は、はいぃ……！　美しいですぅ……！",
-            "enText": "Yes, yes ......!　Beautiful ......!",
+            "enText": "Yes, yes...! Beautiful...!",
             "nextBlock": 29,
             "origClipLength": 180,
             "animData": [
@@ -588,13 +588,13 @@
             "jpName": "テイエムオペラオー",
             "enName": "TM Opera O",
             "jpText": "写真を撮っても構わないよ！\r\nそこの君、ボクをあおいで、月夜にそよ吹く風を演出したまえ！",
-            "enText": "I don't mind if you take my picture! Hey there, stir me up and make me look like a breeze blowing on a moonlit night!",
+            "enText": "I don't mind if you take my picture! You there, ruffle me up and \nmake me look like a breeze blowing on a moonlit night!",
             "nextBlock": 30,
             "origClipLength": 264,
             "choices": [
                 {
                     "jpText": "えっ",
-                    "enText": "What's up?",
+                    "enText": "Eh?",
                     "nextBlock": 30
                 }
             ],
@@ -623,7 +623,7 @@
             "jpName": "",
             "enName": "",
             "jpText": "そんなこんなで、その後しばらく、\r\n突発のテイエムオペラオー撮影会に巻き込まれ――",
-            "enText": "And so, for a while after that, I was involved in a spur-of-the-moment Teemu Opera O photo session...",
+            "enText": "And so, for a while after that, I was involved in a \nspur-of-the-moment T.M. Opera O photo session...",
             "nextBlock": 31,
             "origClipLength": 98,
             "animData": [
@@ -647,7 +647,7 @@
             "jpName": "テイエムオペラオー",
             "enName": "TM Opera O",
             "jpText": "ふむ……。いい写真だ！\r\n破壊と創造……希望と絶望……そして美しいボク！　ブラボー！",
-            "enText": "Hmmm ....... Great pics! Destruction and creation...... hope and despair...... and beautiful Boku!　Bravo!",
+            "enText": "Fumu... Great pics! Destruction and creation... hope and despair... beautiful me! Bravo!",
             "nextBlock": 32,
             "origClipLength": 341,
             "animData": [
@@ -675,7 +675,7 @@
             "jpName": "テイエムオペラオー",
             "enName": "TM Opera O",
             "jpText": "ドトウ、君にこれほどまでの演出能力があるとは！\r\n見直したよ！",
-            "enText": "Dotou, I had no idea you had so much directing ability! I've got to give you a second look!",
+            "enText": "Doto, I had no idea you were such a capable director! \nI misjudged you!",
             "nextBlock": 33,
             "origClipLength": 192,
             "animData": [
@@ -693,9 +693,9 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "えっ、そ、そんなぁ、私なんか、なにも……！",
-            "enText": "Oh, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no. ......!",
+            "enText": "Oh, n-no I don't think so, I really... didn't...!",
             "nextBlock": 34,
             "origClipLength": 176,
             "animData": [
@@ -719,7 +719,7 @@
             "jpName": "",
             "enName": "",
             "jpText": "萎縮するメイショウドトウに気づいているのかいないのか……。\r\nテイエムオペラオーは彼女をまじまじと見つめ、満足気に頷いた。",
-            "enText": "Whether or not he noticed the atrophied Meishoudou, ....... Teemu Operao stared at her intently and nodded in satisfaction.",
+            "enText": "Whether or not she noticed how Meisho Doto shrunk away from her gaze... \nT.M Opera O looked her in the eye and nodded in satisfaction.",
             "nextBlock": 35,
             "origClipLength": 124,
             "animData": [
@@ -743,7 +743,7 @@
             "jpName": "テイエムオペラオー",
             "enName": "TM Opera O",
             "jpText": "――ふむ。やはりボクの慧眼に間違いはない！\r\n君には特別なオファーをしよう！",
-            "enText": "--Hm. I knew I had the right idea! I have a special offer for you!",
+            "enText": "Fumu. I was right after all! I have a special offer for you!",
             "nextBlock": 36,
             "origClipLength": 224,
             "animData": [
@@ -771,7 +771,7 @@
             "jpName": "テイエムオペラオー",
             "enName": "TM Opera O",
             "jpText": "来たるオペラ・ショウ――俗称、『種目別競技大会』で\r\nボクと激闘を繰り広げ、斬新なストーリーを演出してくれたまえ！",
-            "enText": "You will fight me in the upcoming opera show, or as it is commonly called, the \"competition of the disciplines,\" and tell a new and exciting story!",
+            "enText": "You will fight me in the upcoming opera show, or as it is \ncommonly called, the \"Interdisciplinary Athletic Meet,\" and \ntell a new and exciting story!",
             "nextBlock": 37,
             "origClipLength": 314,
             "animData": [
@@ -797,9 +797,9 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "…………え？\r\nなに、え……げ、げ……げきとう……？",
-            "enText": "What, eh ............? What, e......gee, ge......gee ......gee?",
+            "enText": "....eh? What? A-... a fight...?",
             "nextBlock": 38,
             "origClipLength": 301,
             "animData": [
@@ -827,7 +827,7 @@
             "jpName": "テイエムオペラオー",
             "enName": "TM Opera O",
             "jpText": "つまり、ボクのヴィラン役は……君だ、ドトウ！",
-            "enText": "In other words, my villan role is played by ...... you, Dotou!",
+            "enText": "In other words, the villan role is played by... you, Doto!",
             "nextBlock": 39,
             "origClipLength": 174,
             "animData": [
@@ -853,7 +853,7 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "…………。",
             "enText": ".............",
             "nextBlock": 40,
@@ -881,9 +881,9 @@
         },
         {
             "jpName": "メイショウドトウ",
-            "enName": "Meishodoto",
+            "enName": "Meisho Doto",
             "jpText": "えーーっ！！",
-            "enText": "Eee!!!",
+            "enText": "Ehhh?!",
             "nextBlock": -1,
             "origClipLength": 54,
             "animData": [
