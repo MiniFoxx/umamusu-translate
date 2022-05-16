@@ -9,7 +9,7 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "今年もやって参りましたわね、\r\nこの季節が……！",
-            "enText": "It's that time of year again, when the ......!",
+            "enText": "It's that time of year again, this season ......!",
             "nextBlock": 2,
             "origClipLength": 60,
             "choices": [
@@ -41,7 +41,7 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "ええ、なんといっても『天皇賞（秋）』が\r\n控えておりますので。",
-            "enText": "Yes, after all, the Tennou-sho (autumn) is coming up.",
+            "enText": "Yes, after all, the 'Autumn Tenno-sho' is coming up.",
             "nextBlock": 3,
             "origClipLength": 65,
             "coloredText": [
@@ -134,7 +134,7 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "『天皇賞（秋）』で勝てるトレーニングを\r\nよろしくお願いいたしますわ！",
-            "enText": "Please help me train to win the Tennou-sho (autumn)!",
+            "enText": "Please help me train to win the 'Autumn Tenno-sho'!",
             "nextBlock": 7,
             "origClipLength": 67,
             "animData": [
@@ -154,7 +154,7 @@
             "jpName": "",
             "enName": "",
             "jpText": "――メジロマックイーンとの\r\n最後の夏合宿がスタートした！",
-            "enText": "--The last summer camp with Whitehall McQueen has begun!",
+            "enText": "—The last summer camp with Mejiro McQueen has begun!",
             "nextBlock": -1,
             "origClipLength": 63,
             "animData": [

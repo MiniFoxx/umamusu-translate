@@ -89,7 +89,7 @@
             "jpName": "",
             "enName": "",
             "jpText": "――書かれていた目標は、『菊花賞制覇』",
-            "enText": "--The goal written on the label was \"Kikka-sho victory.",
+            "enText": "—The goal written on the label was 'Kikka-sho victory'.",
             "nextBlock": 6,
             "origClipLength": 57,
             "choices": [
@@ -121,7 +121,7 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "ええ、今年はクラシック級。",
-            "enText": "Yes, classic class this year.",
+            "enText": "Yes, Classic class this year.",
             "nextBlock": 7,
             "origClipLength": 53,
             "animData": [
@@ -189,7 +189,7 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "それに『菊花賞』を勝てば『天皇賞（春）』\r\nの勝利も自ずと見えてくるでしょう。",
-            "enText": "And if he wins the Kikka-sho, he will be able to win the \nTennou-sho (Spring) as well.",
+            "enText": "And if one wins the 'Kikka-sho', they will be able to win the \n'Spring Tenno-sho' as well.",
             "nextBlock": 10,
             "origClipLength": 70,
             "choices": [
@@ -242,7 +242,7 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "さて、そうと決まればすぐに\r\nトレーニングを始めたいところですけれど――",
-            "enText": "Well, I'd like to start training right away, but--",
+            "enText": "Well, I'd like to start training right away, but—",
             "nextBlock": 12,
             "origClipLength": 68,
             "animData": [

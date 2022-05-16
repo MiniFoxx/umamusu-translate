@@ -9,7 +9,7 @@
             "jpName": "",
             "enName": "",
             "jpText": "夏合宿中、メジロマックイーンと\r\nビーチトレーニングをしていたところ――",
-            "enText": "I was at summer camp, doing beach training \nwith a white-tailed McQueen--",
+            "enText": "I was at summer camp, doing beach training \nwith Mejiro McQueen—",
             "nextBlock": 2,
             "origClipLength": 83,
             "animData": [
@@ -73,7 +73,7 @@
             "jpName": "メジロドーベル",
             "enName": "Mejiro Dober",
             "jpText": "――わわっ、球速すぎ！\r\nこんなの無理だって……！",
-            "enText": "--Wow, that's too fast a pitch! You can't do this. ......!",
+            "enText": "—Wow, that's too fast a spike! This is impossible......!",
             "nextBlock": 5,
             "origClipLength": 61,
             "animData": [
@@ -141,7 +141,7 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "あれは……ライアンとドーベル？",
-            "enText": "Is that ...... Ryan and Dobel?",
+            "enText": "Is that ...... Ryan and Dober?",
             "nextBlock": 7,
             "origClipLength": 54,
             "coloredText": [
@@ -283,7 +283,7 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "まあ、アイネスさん！\r\nお2人とご一緒にこちらへ？",
-            "enText": "Well, Mr. Inez! Are you and your wife coming this way?",
+            "enText": "Oh, Ines-san! Will the two of you be playing next?",
             "nextBlock": 11,
             "origClipLength": 61,
             "coloredText": [
@@ -401,7 +401,7 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "ビーチバレーなら足腰が\r\n鍛えられそうですわね……よし。",
-            "enText": "Beach volleyball would be a great way to get your legs and back \nin shape. ...... Okay.",
+            "enText": "Beach volleyball would be a great way to get the legs and back \nin shape. ...... Alright.",
             "nextBlock": 15,
             "origClipLength": 63,
             "animData": [
@@ -429,7 +429,7 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "是非ともよろしくお願いいたしますわ。\r\nトレーナーさん、少々行って参ります。",
-            "enText": "I would very much appreciate it. Mr. \nTrainer, I'll be going in a bit.",
+            "enText": "I would very much appreciate it. Mr. Trainer, I'll be going for a bit.",
             "nextBlock": 16,
             "origClipLength": 69,
             "choices": [
@@ -464,7 +464,7 @@
             "jpName": "",
             "enName": "",
             "jpText": "メジロマックイーン＆メジロドーベル\r\n　　　　　　　対\nメジロライアン＆アイネスフウジン",
-            "enText": "Mejiro McQueen & Mejiro Dobel vs. Mejiro Ryan & Ines Fujin",
+            "enText": "Mejiro McQueen & Mejiro Dober vs. Mejiro Ryan & Ines Fujin",
             "nextBlock": 17,
             "origClipLength": 73,
             "animData": [
@@ -492,7 +492,7 @@
             "jpName": "",
             "enName": "",
             "jpText": "――2組による、アツい戦いが始まった！",
-            "enText": "--The two groups have begun a hot battle!",
+            "enText": "—The two groups have begun a hot battle!",
             "nextBlock": 18,
             "origClipLength": 57,
             "pathId": -4162639280254892768,
@@ -502,7 +502,7 @@
             "jpName": "メジロドーベル",
             "enName": "Mejiro Dober",
             "jpText": "うわぁっ！？\r\nマックイーン、ボールがそっちに……！",
-            "enText": "Wow! McQueen, the ball's in your direction: ......!",
+            "enText": "Uwaa!? \nMcQueen, the ball's in your direction ......!",
             "nextBlock": 19,
             "origClipLength": 61,
             "pathId": -4437785295078293965,
@@ -512,7 +512,7 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "え、あぁっ……！\r\n間に合いませんわ……！",
-            "enText": "Eh, ah ......! You won't make it in time. ......!",
+            "enText": "Eh, aah ......! I won't make it in time. ......!",
             "nextBlock": 20,
             "origClipLength": 58,
             "pathId": 3064930465732158564,
@@ -522,7 +522,7 @@
             "jpName": "メジロライアン",
             "enName": "Mejiro Ryan",
             "jpText": "やったー！　マックイーンとドーベルから\r\nまたまた得点ゲット！",
-            "enText": "Yes!　Another score from McQueen and Dobell!",
+            "enText": "Yes! Another score from McQueen and Dober!",
             "nextBlock": 21,
             "origClipLength": 65,
             "pathId": 7585950056329391417,
@@ -532,7 +532,7 @@
             "jpName": "アイネスフウジン",
             "enName": "Ines Fujin",
             "jpText": "ライアンちゃんってば、すごい……！\r\n1人でいっぱい点取ってるの～！",
-            "enText": "You're so awesome, Ryan-chan! ......! I'm \nscoring so many points all by myself~!",
+            "enText": "You're so awesome, Ryan-chan......! I'm \nscoring so many points all by myself~!",
             "nextBlock": 22,
             "origClipLength": 67,
             "pathId": -8878158524032607511,
@@ -570,7 +570,7 @@
             "jpName": "メジロドーベル",
             "enName": "Mejiro Dober",
             "jpText": "はぁっ、はぁっ……。\r\n結構キツくなってきたね……。",
-            "enText": "Huh, huh. ....... It's getting pretty tight. ......",
+            "enText": "Haa, haa ....... It's getting pretty tight......",
             "nextBlock": 24,
             "origClipLength": 86,
             "animData": [
@@ -602,7 +602,7 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "ええ、暑さで体力が奪われますわ……。",
-            "enText": "Yeah, the heat is killing my energy. ......",
+            "enText": "Yeah, the heat is killing my energy......",
             "nextBlock": 25,
             "origClipLength": 56,
             "animData": [
@@ -662,7 +662,7 @@
             "jpName": "メジロライアン",
             "enName": "Mejiro Ryan",
             "jpText": "はぁっ、はぁっ……。\r\n確かにこれはしんどいね……でも――",
-            "enText": "Hah, hah ....... This is certainly a tough one, ......, but--",
+            "enText": "Hah, hah ....... This is certainly a tough one......, but—",
             "nextBlock": 27,
             "origClipLength": 81,
             "animData": [
@@ -698,7 +698,7 @@
             "jpName": "メジロライアン",
             "enName": "Mejiro Ryan",
             "jpText": "そんな時こそ、\r\nあたしが元気を出してみせる……！",
-            "enText": "That's when I can cheer you up. ......!",
+            "enText": "That's when you need to keep your chin up......!",
             "nextBlock": 28,
             "origClipLength": 61,
             "animData": [
@@ -718,7 +718,7 @@
             "jpName": "メジロライアン",
             "enName": "Mejiro Ryan",
             "jpText": "だって、あたしは――",
-            "enText": "Because I--",
+            "enText": "Because I—",
             "nextBlock": 29,
             "origClipLength": 51,
             "animData": [
@@ -738,7 +738,7 @@
             "jpName": "メジロライアン",
             "enName": "Mejiro Ryan",
             "jpText": "――いつも鍛えてきたんだからっ！！",
-            "enText": "--I've always worked out!",
+            "enText": "—I've always worked out!",
             "nextBlock": 30,
             "origClipLength": 56,
             "animData": [
@@ -758,7 +758,7 @@
             "jpName": "",
             "enName": "",
             "jpText": "（バシィィィィンッ！！）",
-            "enText": "(Bashyyy!!!)",
+            "enText": "<i>SLAM!!</i>",
             "nextBlock": 31,
             "origClipLength": 52,
             "pathId": -9021154611205901570,
@@ -852,7 +852,7 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "はぁ……大変な目に遭いましたわ……。",
-            "enText": "Huh, ...... I'm in a lot of trouble. ......",
+            "enText": "Haa— ...... I've had a rough time......",
             "nextBlock": 35,
             "origClipLength": 56,
             "choices": [
@@ -884,7 +884,7 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "ええ、あのライアンと\r\n球技で勝負したのが間違いでした……。",
-            "enText": "Yeah, it was a mistake to play a ball game with that Ryan. ......",
+            "enText": "Yeah, it was a mistake to play a ball game with that Ryan.....",
             "nextBlock": 36,
             "origClipLength": 64,
             "animData": [
@@ -910,7 +910,7 @@
             "choices": [
                 {
                     "jpText": "体の強さから、とか……？",
-                    "enText": "From the strength of your body or ......?",
+                    "enText": "From the strength of the body or ......?",
                     "nextBlock": 38
                 },
                 {
@@ -1085,7 +1085,7 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "こ、根性……。",
-            "enText": "This is a gut .......",
+            "enText": "Guts, huh.......",
             "nextBlock": 44,
             "origClipLength": 49,
             "animData": [
@@ -1105,7 +1105,7 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "そうですわよね、最終的には\r\nそこに行きつくのですわよね……。",
-            "enText": "Yes, that's where we'll end up. ......",
+            "enText": "Yes, I know, that's what it all comes down to in the end......",
             "nextBlock": 45,
             "origClipLength": 65,
             "animData": [
@@ -1145,7 +1145,7 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "とはいえ、なにから始めたらいいものか……。",
-            "enText": "However, what is the best place to start? ......",
+            "enText": "However, what is the best place to start...?",
             "nextBlock": 47,
             "origClipLength": 58,
             "choices": [
@@ -1172,7 +1172,7 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "なっ、それは……！\r\n確かに忍耐力は付きそうですけれども……！",
-            "enText": "Oh, that's ......! It certainly seems to \nhelp with patience, though: ......!",
+            "enText": "Oh, that's ......! It certainly seems to \nhelp with patience, though....!",
             "nextBlock": 48,
             "origClipLength": 65,
             "animData": [

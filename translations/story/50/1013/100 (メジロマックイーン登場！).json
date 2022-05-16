@@ -9,7 +9,7 @@
             "jpName": "",
             "enName": "",
             "jpText": "いよいよメジロマックイーンと\r\nトゥインクル・シリーズに挑む日々が始まる。",
-            "enText": "Finally, the days are numbered for the Mejiro \nMcQueen and Twinkle Series challenge.",
+            "enText": "Finally, the days are numbered for Mejiro \nMcQueen and Twinkle Series challenge.",
             "nextBlock": 2,
             "origClipLength": 69,
             "coloredText": [
@@ -29,7 +29,7 @@
             "jpName": "",
             "enName": "",
             "jpText": "気合いを入れたのち、まずは食事を取ろうと\r\nカフェテリアを訪れると――",
-            "enText": "After getting into the swing of things, I visited the cafeteria \nto get a bite to eat first.",
+            "enText": "After getting into the swing of things, I visited the cafeteria \nto get a bite to eat.",
             "nextBlock": 3,
             "origClipLength": 67,
             "animData": [
@@ -53,7 +53,7 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "……ふぅ。\r\nよい香りですこと。",
-            "enText": "...... Phew. It smells good.",
+            "enText": "...... Fuu. It smells good.",
             "nextBlock": 4,
             "origClipLength": 55,
             "animData": [
@@ -77,7 +77,7 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "重厚感がありながら、柔らかな口当たり。\r\nミルクとの相性も抜群です。",
-            "enText": "Heavy yet soft mouthfeel. It is also a perfect match with milk.",
+            "enText": "Hearty yet soft mouthfeel. It is also a perfect match with milk.",
             "nextBlock": 5,
             "origClipLength": 67,
             "animData": [
@@ -199,7 +199,7 @@
             "jpName": "",
             "enName": "",
             "jpText": "（メジロドーベル――\r\n同じく名門メジロ家の一員で、\nちょっと気難しいウマ娘だ。）",
-            "enText": "（Mejiro Dobel--also a member of the prestigious Mejiro family and \na bit of a difficult horsewoman.)",
+            "enText": "（Mejiro Dober--also a member of the prestigious Mejiro family and \na bit of a difficult horsewoman.)",
             "nextBlock": 9,
             "origClipLength": 71,
             "coloredText": [
@@ -233,7 +233,7 @@
             "jpName": "ウマ娘A",
             "enName": "Horsegirl A",
             "jpText": "み……みてみて！\r\nメジロ家のウマ娘さんたちだ！",
-            "enText": "Look at ...... look at them! It's \nthe Mejiro family's horse girls!",
+            "enText": "Look...... look at them! It's \nthe Mejiro family's horse girls!",
             "nextBlock": 10,
             "origClipLength": 60,
             "animData": [
@@ -261,7 +261,7 @@
             "jpName": "ウマ娘B",
             "enName": "Horsegirl B",
             "jpText": "お上品な会話してる～！\r\nさすがはメジロ家～……っ！",
-            "enText": "Classy conversation~! That's the Mejiro family~......!",
+            "enText": "Talk about classy~! That's the Mejiro family~......!",
             "nextBlock": 11,
             "origClipLength": 61,
             "choices": [
@@ -301,7 +301,7 @@
             "jpName": "",
             "enName": "",
             "jpText": "担当であるメジロマックイーンは\r\n名門『メジロ家』のウマ娘。",
-            "enText": "Her charge, Mejiro McQueen, is a daughter \nof the famous \"Mejiro Family\".",
+            "enText": "Mejiro McQueen, the daughter in charge \nof the famous \"Mejiro Family\".",
             "nextBlock": 12,
             "origClipLength": 64,
             "animData": [
@@ -357,7 +357,7 @@
             "jpName": "メジロライアン",
             "enName": "Mejiro Ryan",
             "jpText": "でもほんとにいいの、マックイーン。\r\n限定チョコプリンクレープ。",
-            "enText": "But it's really good, McQueen. Limited \nedition chocolate prinkle crepe.",
+            "enText": "But it's really good, McQueen. Limited \nedition chocolate plain crepe.",
             "nextBlock": 14,
             "origClipLength": 65,
             "coloredText": [
@@ -611,7 +611,7 @@
             "jpName": "",
             "enName": "",
             "jpText": "メジロマックイーンの\r\n手元にあるものをよく見ると、\nかつて彼女に教えたレシピの1つだった。",
-            "enText": "A closer look at the item in Medillo McQueen's hand reveals that \nit is one of the recipes he once taught her.",
+            "enText": "A closer look at the item in Mejiro McQueen's hand revealed that \nit was one of the recipes he once taught her.",
             "nextBlock": 22,
             "origClipLength": 75,
             "animData": [
@@ -763,7 +763,7 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "『天皇賞』制覇という目標を掲げる限り、\r\n努力するのは当然のことですわ。",
-            "enText": "As long as you have the goal of winning the Tennou-sho, it's only \nnatural to work hard.",
+            "enText": "As long as one has the goal of winning the 'Tenno-sho', it's only \nnatural to work hard.",
             "nextBlock": 27,
             "origClipLength": 68,
             "coloredText": [
@@ -832,7 +832,7 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "ええ、もちろん。トレーナーさんも\r\nそのつもりでついて来てくださいね。",
-            "enText": "Yes, of course. Please follow me with that intention, trainer.",
+            "enText": "Yes, of course. Please follow me with that conviction, trainer.",
             "nextBlock": 29,
             "origClipLength": 67,
             "animData": [
@@ -860,7 +860,7 @@
             "jpName": "メジロライアン",
             "enName": "Mejiro Ryan",
             "jpText": "でも『天皇賞』に出られるのは\r\nだいぶ先だよね？",
-            "enText": "But it will be a long time before I can \nparticipate in the Tennou-sho, right?",
+            "enText": "But it will be a long time before I can \nparticipate in the 'Tenno-sho', right?",
             "nextBlock": 30,
             "origClipLength": 60,
             "animData": [
@@ -922,7 +922,7 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "ええ、最終目標は『天皇賞』制覇ですが――",
-            "enText": "Yes, the ultimate goal is to win the Tennou-sho, but--",
+            "enText": "Yes, the ultimate goal is to win the Tenno-sho, but—",
             "nextBlock": 32,
             "origClipLength": 58,
             "animData": [
@@ -950,7 +950,7 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "それまでにクラシックで結果を出し、\r\n着実にステップアップして\n『天皇賞』に臨みたいと思っておりますわ。",
-            "enText": "By then, I would like to achieve results in the Classics \nand steadily step up my game. I would like to make \na steady step up to the Tennou-sho.",
+            "enText": "By then, I would like to achieve results in the Classics \nand steadily improve my game. I would like to make \nincremental step-ups to the Tennou-sho.",
             "nextBlock": 33,
             "origClipLength": 78,
             "animData": [
@@ -978,7 +978,7 @@
             "jpName": "メジロライアン",
             "enName": "Mejiro Ryan",
             "jpText": "そっか。じゃあクラシックで\r\nぶつかることになりそうだね！",
-            "enText": "I see. Then I guess we'll be bumping \ninto each other at the Classic!",
+            "enText": "I see. Then I guess we'll be bumping \ninto each other in the Classics!",
             "nextBlock": 34,
             "origClipLength": 63,
             "animData": [
@@ -1094,7 +1094,7 @@
             "jpName": "メジロライアン",
             "enName": "Mejiro Ryan",
             "jpText": "うん、お互いに頑張ろう！\r\n――あ、ドーベルが戻ってきたみたい。",
-            "enText": "Yeah, let's keep each other going! \n-- Ah, looks like Dobel is back.",
+            "enText": "Yeah, let's keep each other going! \n—Ah, looks like Dober is back.",
             "nextBlock": 38,
             "origClipLength": 65,
             "coloredText": [
@@ -1128,7 +1128,7 @@
             "jpName": "メジロライアン",
             "enName": "Mejiro Ryan",
             "jpText": "わあっ、すごい……！　ほんとに\r\nクレープの上にチョコプリンが乗ってる！",
-            "enText": "Wow, great ......!　It's really a crepe \nwith chocolate pudding on top!",
+            "enText": "Wow, awesome ......!　It's really a crepe \nwith chocolate pudding on top!",
             "nextBlock": 39,
             "origClipLength": 68,
             "animData": [
@@ -1160,7 +1160,7 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "なっ、なんですって……！？",
-            "enText": "What the heck is that? ......!",
+            "enText": "What the heck is that ......!?",
             "nextBlock": 40,
             "origClipLength": 53,
             "animData": [
@@ -1192,7 +1192,7 @@
             "jpName": "メジロライアン",
             "enName": "Mejiro Ryan",
             "jpText": "ありがとう、ドーベル！\r\nあたしの分も取ってきてくれて！",
-            "enText": "Thanks, Dobel! You got one for me too!",
+            "enText": "Thanks, Dober! You got one for me too!",
             "nextBlock": 41,
             "origClipLength": 63,
             "animData": [
@@ -1232,7 +1232,7 @@
             "jpName": "メジロドーベル",
             "enName": "Mejiro Dober",
             "jpText": "ううん、意外と空いてたから。\r\nそれじゃ、いただきます。",
-            "enText": "No, it was surprisingly empty. Well then, I'll have some.",
+            "enText": "No, the shop was surprisingly empty. Well then, I'll have some.",
             "nextBlock": 42,
             "origClipLength": 63,
             "animData": [
@@ -1264,7 +1264,7 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "……ごくり。",
-            "enText": "...... gogokuri.",
+            "enText": "...... [gulp].",
             "nextBlock": 43,
             "origClipLength": 48,
             "choices": [
@@ -1316,7 +1316,7 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "あ、いえっ――違います！",
-            "enText": "Oh, yep--no, sir!",
+            "enText": "Oh, ye— no, sir!",
             "nextBlock": 44,
             "origClipLength": 52,
             "animData": [
@@ -1360,7 +1360,7 @@
             "jpName": "",
             "enName": "",
             "jpText": "なにはともあれ、\r\n本格的にメジロマックイーンと\n『天皇賞』制覇を狙う日々が始まった！",
-            "enText": "At any rate, the days of trying to win the Tennou-sho with the \nwhite meat McQueen have begun in earnest!",
+            "enText": "At any rate, the days of trying to win the 'Tenno-sho' with the \nMejiro McQueen have begun in earnest!",
             "nextBlock": -1,
             "origClipLength": 73,
             "animData": [

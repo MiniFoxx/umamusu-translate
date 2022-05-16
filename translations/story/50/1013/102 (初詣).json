@@ -29,7 +29,7 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "今年の目標として掲げることは、\r\nただ1つ――『天皇賞（春）』制覇です。",
-            "enText": "I have only one goal this year: to win the Tennou-sho (Spring).",
+            "enText": "I have only one goal this year: to win the 'Spring Tenno-sho'.",
             "nextBlock": 3,
             "origClipLength": 68,
             "choices": [
@@ -245,7 +245,7 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "いつも通り……ええ、\r\nとても重要なことですわね。",
-            "enText": "As always ...... yeah, it's very important.",
+            "enText": "As always ...... yes, it's very important.",
             "nextBlock": 11,
             "origClipLength": 61,
             "animData": [
@@ -325,7 +325,7 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "ですが、私も少し興味は――",
-            "enText": "But I'm also a little curious--",
+            "enText": "But I'm also a little curious—",
             "nextBlock": 15,
             "origClipLength": 53,
             "animData": [
@@ -345,7 +345,7 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "……コホン。仕方ありませんわ。\r\nトレーナーさんの希望とあらば付き合います。",
-            "enText": "...... Kohon. I don't have a choice. If that's what the trainer \nwants, I'll go along.",
+            "enText": "......<i>cough</i>. I don't have a choice. If that's what the trainer \nwants, I'll go along.",
             "nextBlock": -1,
             "origClipLength": 69,
             "animData": [
