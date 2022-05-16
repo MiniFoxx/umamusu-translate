@@ -7,7 +7,7 @@
     "text": [
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "はぁ……風が気持ちいい。\r\n誘っていただきありがとうございます。",
             "enText": "Huh, ...... wind feels good. Thanks for the invite.",
             "nextBlock": 2,
@@ -27,7 +27,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ちょうど気合いを入れ直すため、\r\n決意表明をしたいと思っていたのです。",
             "enText": "I just wanted to make a resolution to \nget back into the swing of things.",
             "nextBlock": 3,
@@ -54,7 +54,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ええ。\r\n私にとって神社は、覚悟を見せる場所。",
             "enText": "Yes, I do. For me, the shrine is a place to show my resolve.",
             "nextBlock": 4,
@@ -74,7 +74,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "私の夢は願うものではなく、\r\n叶えなければいけない夢ですから。",
             "enText": "My dreams are not wishes, but dreams that must come true.",
             "nextBlock": 5,
@@ -94,7 +94,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ではさっそく、\r\n決意表明といきま――",
             "enText": "Let's begin with a statement of commitment...",
             "nextBlock": 6,
@@ -114,7 +114,7 @@
         },
         {
             "jpName": "ゴールドシップ",
-            "enName": "",
+            "enName": "Gold Ship",
             "jpText": "ウマ娘神十二柱が1人！\r\nエターナルゴルゴル神、降～臨ッ！！",
             "enText": "One of the Twelve Pillars of the Uma Musume Gods! The Eternal \nGolgol God has descended!",
             "nextBlock": 7,
@@ -142,7 +142,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "はぁ……ゴールドシップさん。\r\nまた奇行をなさっているのですか……。",
             "enText": "Huh ...... Mr. Goldship. Are you doing odd jobs again? ......",
             "nextBlock": 8,
@@ -170,7 +170,7 @@
         },
         {
             "jpName": "ゴールドシップ",
-            "enName": "",
+            "enName": "Gold Ship",
             "jpText": "ふぉっふぉっふぉ～。\r\nして迷えるお主、我になにを望むのじゃ～？",
             "enText": "I'm lost. What do you want from me, my lost master?",
             "nextBlock": 9,
@@ -198,7 +198,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "くっ、聞いていませんわね……腹立たしい。\r\nならば私も、決意表明に集中するのみ。",
             "enText": "Damn, I haven't heard about this. ...... It's infuriating. Then \nI'll just concentrate on my resolutions.",
             "nextBlock": 10,
@@ -226,7 +226,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "集中、集中ですわ……私……！",
             "enText": "Focus, focus. ...... me ......!",
             "nextBlock": 11,
@@ -254,7 +254,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ぐぬぬ……ぬぬぬぅ～～っ！",
             "enText": "Gnunu...... \nnoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!",
             "nextBlock": 12,
@@ -286,7 +286,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ふぅ……バッチリ集中できましたわ！\r\n残念でしたわね、ゴールドシップさん？",
             "enText": "Whew... ...... I was able to focus perfectly! \nSorry to hear that, Goldship?",
             "nextBlock": 13,
@@ -318,7 +318,7 @@
         },
         {
             "jpName": "ゴールドシップ",
-            "enName": "",
+            "enName": "Gold Ship",
             "jpText": "おう！　そっちの調子はどうよ、ポッポ丸！\r\nかれこれ5光年ぶりか？",
             "enText": "Hey!　How's it going over there, Poppomaru? \nIt's been what, five light years?",
             "nextBlock": 14,
@@ -382,7 +382,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "って……またしても聞いてませんのー！？",
             "enText": "I mean, ...... again, I haven't heard!",
             "nextBlock": 16,
@@ -410,7 +410,7 @@
         },
         {
             "jpName": "ゴールドシップ",
-            "enName": "",
+            "enName": "Gold Ship",
             "jpText": "あぁ、カラス帝国の勢力は依然強大。\r\n伝説の聖剣を抜く日も近そうだぜ……。",
             "enText": "Ah, the Crow Empire remains powerful. The day when they pull out \nthe legendary Holy Sword is coming soon. ......",
             "nextBlock": 17,
@@ -438,7 +438,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "くうっ……！\r\n集中できたのに、できたのに……。",
             "enText": "Darn it, ......! I could have focused, \nI could have done it. ......",
             "nextBlock": 18,
@@ -466,7 +466,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "なんだかモヤモヤしますわ……！",
             "enText": "It's kind of a blur. ......!",
             "nextBlock": 19,
@@ -522,7 +522,7 @@
         },
         {
             "jpName": "ゴールドシップ",
-            "enName": "",
+            "enName": "Gold Ship",
             "jpText": "ゴルゴルファイアーアローッ！！\r\nうおぉぉぉぉぉ～～～！！",
             "enText": "Golgol Fire Arrow!!!! \nOooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!",
             "nextBlock": 21,
@@ -550,7 +550,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "あ～～、もうっ！\r\nこんな状況じゃ集中できませんわ！！",
             "enText": "Ohhhhh, God! I can't concentrate under these circumstances!",
             "nextBlock": 22,
@@ -582,7 +582,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "というかそれ！\r\n一体なんの神様ですの！！？",
             "enText": "Or rather, that! What kind of god is that!",
             "nextBlock": 23,
@@ -610,7 +610,7 @@
         },
         {
             "jpName": "ゴールドシップ",
-            "enName": "",
+            "enName": "Gold Ship",
             "jpText": "は？　神とかなに言ってんだオマエ。\r\nアタシのことどんだけ好きなんだっつーの。",
             "enText": "Huh?　What are you talking about, God? How much do you love me?",
             "nextBlock": 24,
@@ -638,7 +638,7 @@
         },
         {
             "jpName": "ゴールドシップ",
-            "enName": "",
+            "enName": "Gold Ship",
             "jpText": "仕方ねぇー。遊んでやっか！\r\n人気者はつらいぜ～！",
             "enText": "I don't have a choice. Let's play! It's tough being popular!",
             "nextBlock": 25,
@@ -666,7 +666,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "はぁぁぁぁ～～っ！？",
             "enText": "Huh!",
             "nextBlock": 26,

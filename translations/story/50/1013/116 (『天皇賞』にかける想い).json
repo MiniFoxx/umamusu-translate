@@ -7,7 +7,7 @@
     "text": [
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "メジロマックイーンには、\r\n大切な思い出がある――",
             "enText": "White McQueen has fond memories.",
             "nextBlock": 2,
@@ -57,7 +57,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "メジロ家の大黒柱である“おばあ様”は\r\n優しく微笑んだ。",
             "enText": "Grandmother, the mainstay of the Mejiro family, smiled kindly.",
             "nextBlock": 7,
@@ -67,7 +67,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ふぅ……。",
             "enText": "Phew. .......",
             "nextBlock": 8,
@@ -87,7 +87,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "以前よりも息の乱れが\r\n少なくなってきたように思います。",
             "enText": "My breath seems to be less erratic than it used to be.",
             "nextBlock": 9,
@@ -107,7 +107,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "トレーナーさんから見て、いかがでした？",
             "enText": "How was it from the trainer's point of view?",
             "nextBlock": 10,
@@ -139,7 +139,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "やはりそう思われますか？\r\nよかった……。",
             "enText": "Do you still think so? Good. .......",
             "nextBlock": 11,
@@ -159,7 +159,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "これもひとえにトレーナーさんが\r\n根気強く付き合ってくださったおかげです。",
             "enText": "This was thanks to the trainer's patience with me.",
             "nextBlock": 12,
@@ -179,7 +179,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "このまま『天皇賞（春）』まで、\r\n調子を保っていかなければなりませんね。",
             "enText": "We have to keep up our good form until the Tennou-sho (Spring).",
             "nextBlock": 13,
@@ -199,7 +199,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "トレーニング後、メジロマックイーンを\r\n寮まで送り届けることにした。",
             "enText": "After training, I decided to walk Medillo \nMcQueen back to his dormitory.",
             "nextBlock": 14,
@@ -219,7 +219,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "すると、その途中――",
             "enText": "Then, in the middle of the--",
             "nextBlock": 15,
@@ -239,7 +239,7 @@
         },
         {
             "jpName": "ゴールドシップ",
-            "enName": "",
+            "enName": "Gold Ship",
             "jpText": "お、マックイーンはっけーん！",
             "enText": "Oh, McQueen hackneyed!",
             "nextBlock": 16,
@@ -259,7 +259,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "（ゴールドシップ――\r\n何をしでかすか全く読めない、\n破天荒なウマ娘だ。）",
             "enText": "（Goldship is a wild horse who never \nknows what she's going to do.)",
             "nextBlock": 17,
@@ -285,7 +285,7 @@
         },
         {
             "jpName": "ゴールドシップ",
-            "enName": "",
+            "enName": "Gold Ship",
             "jpText": "ほらよ、ゴルゴル宅配サービスッ！\r\n受け取りやがれっ！",
             "enText": "Here you go, Golgol Delivery Service! Pick it up!",
             "nextBlock": 18,
@@ -305,7 +305,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "――ひゃあっ！？　なんですの！？",
             "enText": "--What is that?　What is it?",
             "nextBlock": 19,
@@ -325,7 +325,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "って、これは……おばあ様からのお手紙？",
             "enText": "So, is this a letter from ...... grandmother?",
             "nextBlock": 20,
@@ -345,7 +345,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ふむふむ、なるほど……。",
             "enText": "Hmmm... I see. ......",
             "nextBlock": 21,
@@ -365,7 +365,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "まあ、おじい様とそんなことが？\r\nふふっ、相変わらず仲睦まじいですこと。",
             "enText": "Well, is that what happened with your grandfather? Phew, you are \nas friendly as ever.",
             "nextBlock": 22,
@@ -397,7 +397,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "そうですわね、お散歩でもしながら\r\nゆっくりお話ししましょうか。",
             "enText": "Yes, let's take a walk and talk slowly.",
             "nextBlock": 23,
@@ -417,7 +417,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "メジロ家の庭園にも、\r\n大きな池がありましたわ。",
             "enText": "There was a large pond in the garden of the Mejiro family.",
             "nextBlock": 24,
@@ -437,7 +437,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "その周りを、よくこうしてお散歩して……。\r\n…………。",
             "enText": "You can often take a walk around it \nlike this: ....... .............",
             "nextBlock": 25,
@@ -469,7 +469,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "……ええ。",
             "enText": "...... yeah.",
             "nextBlock": 26,
@@ -489,7 +489,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "メジロ家の誰もがかけがえのない家族で、\r\n全てが大事な思い出です。",
             "enText": "Everyone in the Mejiro family is an irreplaceable family member, \nand everything is a precious memory.",
             "nextBlock": 27,
@@ -509,7 +509,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "だから、なのでしょうね。",
             "enText": "I guess that's why.",
             "nextBlock": 28,
@@ -529,7 +529,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "メジロ家にとって重要なレース――\r\n『天皇賞』で勝ちたいと思うのは。",
             "enText": "An important race for the Mejiro family \n- who wants to win the \"Tennou-sho\"?",
             "nextBlock": 29,
@@ -549,7 +549,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "（名門と呼ばれるに至った、\r\n誇らしいメジロ家の歴史……）",
             "enText": "(The proud history of the Mejiro family, which has come to be \nknown as a prestigious family: ......)",
             "nextBlock": 30,
@@ -569,7 +569,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "（おじい様やおばあ様をはじめ、\r\nその歴史を創り上げた方々……）",
             "enText": "(Grandfathers and grandmothers and others \nwho created that history: ......)",
             "nextBlock": 31,
@@ -579,7 +579,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "（尊敬する皆さんに、\r\n私はどうしてもお見せしたいのです）",
             "enText": "(I just want to show you all, esteemed \npeople, what I have to show you.)",
             "nextBlock": 32,
@@ -589,7 +589,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "（私が――『天皇賞』を勝つ姿を……！）",
             "enText": "(I -- I'd like to see you win the \"Emperor's Prize\" at ......!)",
             "nextBlock": 33,
@@ -599,7 +599,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "デビューから変わらずに\r\n目指し続けた『天皇賞（春）』",
             "enText": "Tennou-sho (Spring),\" which I have \nbeen aiming for since my debut.",
             "nextBlock": 34,
@@ -609,7 +609,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "――その舞台まで、着実に近づいていた。",
             "enText": "--The stage was steadily approaching.",
             "nextBlock": 35,
@@ -619,7 +619,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "その一方で――",
             "enText": "On the other hand--",
             "nextBlock": 36,
@@ -639,7 +639,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "……ふぅ、ただいま。",
             "enText": "...... Phew, I'm home.",
             "nextBlock": 37,
@@ -667,7 +667,7 @@
         },
         {
             "jpName": "メジロドーベル",
-            "enName": "",
+            "enName": "Mejiro Dober",
             "jpText": "あっ、ライアン……！",
             "enText": "Oh, Ryan ......!",
             "nextBlock": 38,
@@ -695,7 +695,7 @@
         },
         {
             "jpName": "メジロドーベル",
-            "enName": "",
+            "enName": "Mejiro Dober",
             "jpText": "遅いよ、門限ギリギリじゃない。\r\nなにかあったのかと思って心配したんだから。",
             "enText": "You're late, just before curfew. I was \nworried something had happened.",
             "nextBlock": 39,
@@ -723,7 +723,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "ごめんごめん。どうしても\r\nやり込まなきゃ気が済まなくって。",
             "enText": "Sorry, sorry. I just couldn't help myself.",
             "nextBlock": 40,
@@ -751,7 +751,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "……出る以上、\r\n絶対に結果を出したいからさ。",
             "enText": "I'm going to ...... because I want to get results.",
             "nextBlock": 41,
@@ -779,7 +779,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "――春の『天皇賞』では。",
             "enText": "-- in the spring \"Tennou-sho\".",
             "nextBlock": -1,

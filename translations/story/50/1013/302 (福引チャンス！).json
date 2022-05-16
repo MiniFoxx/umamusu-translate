@@ -7,7 +7,7 @@
     "text": [
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "メジロマックイーンと出かけた帰りに、\r\n商店街へと立ち寄った。すると――",
             "enText": "On my way back from a day out with White McQueen, I stopped by \nthe shopping district. And then--",
             "nextBlock": 2,
@@ -27,7 +27,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "あら？　向こうに、\r\n人だかりができていますわね。",
             "enText": "Oh?　There is a crowd of people over there.",
             "nextBlock": 3,
@@ -51,7 +51,7 @@
         },
         {
             "jpName": "商店街の人",
-            "enName": "",
+            "enName": "Market Person",
             "jpText": "さあさ、新春・大福引祭り開催中だよ～！\r\n特賞はなんと『温泉旅行券』！",
             "enText": "The New Year's Big Lucky Draw Festival is underway! The special \nprize is a trip to a hot spring!",
             "nextBlock": 4,
@@ -81,7 +81,7 @@
         },
         {
             "jpName": "商店街の人",
-            "enName": "",
+            "enName": "Market Person",
             "jpText": "1等は『特上にんじんハンバーグ』\r\n2等は『にんじん山盛り』\n3等は『にんじん1本』！",
             "enText": "First prize is a \"Special carrot hamburger steak,\" second prize \nis a \"pile of carrots,\" and third prize is \"a carrot!\"",
             "nextBlock": 5,
@@ -105,7 +105,7 @@
         },
         {
             "jpName": "商店街の人",
-            "enName": "",
+            "enName": "Market Person",
             "jpText": "さあさ、楽しい楽しい福引だよ！\r\nどなたでもどうぞ～！",
             "enText": "Come on, it's a fun, fun, fun lucky draw! Anyone is welcome~!",
             "nextBlock": 6,
@@ -129,7 +129,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "福引……なにやら楽しそうですわね。\r\n必勝法のようなものはあるのでしょうか？",
             "enText": "FUKUHIKI ...... sounds like something I would enjoy. Is there any \nkind of winning method?",
             "nextBlock": 7,
@@ -160,7 +160,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "運だけ……！\r\nそれは迷いがなくていいですわね。",
             "enText": "Just my luck ......! That's a no-brainer.",
             "nextBlock": 8,
@@ -180,7 +180,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "貴賎も積み重ねもなく、\r\n持っているか、いないかのみ。",
             "enText": "There is no nobility, no accumulation, \njust have it or don't have it.",
             "nextBlock": 9,
@@ -200,7 +200,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "そういうひいき目なしの場所で\r\nぜひ輝いてみたいですわ！",
             "enText": "I'd love to shine in a place without that kind of favoritism!",
             "nextBlock": 10,
@@ -220,7 +220,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "早速、福引券を手に入れましょう。\r\nいくつかリボンなどを買って……。",
             "enText": "Get your gift certificate as soon as possible. Buy some ribbons \nand other items at .......",
             "nextBlock": 11,
@@ -240,7 +240,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "……ということで、福引券1枚をゲットした。",
             "enText": "I got one goody bag ticket from .......",
             "nextBlock": 12,
@@ -260,7 +260,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "さあ、チャンスは1度きりですわ。\r\n集中してまいりましょう、トレーナーさん。",
             "enText": "Come on, we only have one chance. Let's focus, trainer.",
             "nextBlock": 13,
@@ -280,7 +280,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "2人で祈りながら、\r\n一緒にレバーを握って抽選器を回した。",
             "enText": "Praying together, they gripped the lever \nand turned the lottery wheel together.",
             "nextBlock": 14,
@@ -300,7 +300,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "結果は――",
             "enText": "The result is--",
             "nextBlock": 15,
@@ -310,7 +310,7 @@
         },
         {
             "jpName": "商店街の人",
-            "enName": "",
+            "enName": "Market Person",
             "jpText": "なんとっ！　おめでとうございまぁぁぁす！！\r\n特賞『温泉旅行券』、出ましたぁ～～～～！！",
             "enText": "What a surprise!　Congratulations! The special prize, \"Hot Spring \nTrip Voucher\", is now available at ～～～～!",
             "nextBlock": 16,
@@ -330,7 +330,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "『<itemname>』を獲得した",
             "enText": "I got \"<itemname>\".",
             "nextBlock": 17,
@@ -356,7 +356,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ええっ、本当ですの！？",
             "enText": "Oh, my God, it's true!",
             "nextBlock": 18,
@@ -376,7 +376,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "トレーナーさん、やりましたわ！\r\n特賞ですわよ、特賞！",
             "enText": "Trainer, you did it! Special prize, special prize!",
             "nextBlock": 19,
@@ -396,7 +396,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "2人で温泉旅行……\r\nなんと素晴らしいのでしょう！",
             "enText": "A spa trip for two: ...... How wonderful!",
             "nextBlock": 20,
@@ -416,7 +416,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "紅葉を見て、美味しいものを食べて、\r\nいいお湯をいただいて、そして……！",
             "enText": "See the fall foliage, eat good food, \nenjoy good hot water, and ......!",
             "nextBlock": 21,
@@ -436,7 +436,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ぇ……ちょ、ちょっと待って！",
             "enText": "Hey, ......, wait a minute!",
             "nextBlock": 22,
@@ -456,7 +456,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "（もしや、とんでもないものを\r\n引いてしまったのでは……？\n温泉旅行！？）",
             "enText": "(If you've pulled off something crazy, you might want to check \nout ......? A trip to the spa!)",
             "nextBlock": 23,
@@ -476,7 +476,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "（1人で先走るなんて、品性に欠けるわね。\r\nそう、ここは相手にゆだねれば……！）",
             "enText": "(It's so out of character for one person to \nget ahead of themselves. Yes, you can leave \nit to the other party here: ......!)",
             "nextBlock": 24,
@@ -496,7 +496,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "……コホン。考えてみたら、\r\nこの券の使い道は限定されている\nわけではありませんわ。",
             "enText": "....... Come to think of it, the use \nof this certificate is not limited.",
             "nextBlock": 25,
@@ -516,7 +516,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "トレーナーさん、どうぞ。\r\n貴方が好きに使っていいですわ。",
             "enText": "Come on in, trainer. You can use it as you like.",
             "nextBlock": 26,
@@ -536,7 +536,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "（これがベスト……！　こうすれば\r\nトレーナーさんがいいように……）",
             "enText": "(This is the best ......!　(This is how to \ndo it so the trainer is good ......)",
             "nextBlock": 27,
@@ -563,7 +563,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "えっ！？　ちょっ、困りますわ！\r\nせっかく逃げ……いや、ええっ……！？",
             "enText": "What?　Wait, I'm in trouble! I've been trying \nto escape ...... no, eh ......!",
             "nextBlock": 28,
@@ -583,7 +583,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "（ばかばかっ！　どうして打ち返すの！？\r\nこれでは私1人が望んでいるみたいに……）",
             "enText": "(Stupid, stupid, stupid!　Why are you hitting \nback! This is like I alone want ......)",
             "nextBlock": 29,
@@ -603,7 +603,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "（かくなる上は――！）",
             "enText": "（I'm not sure how that's going to work.)",
             "nextBlock": 30,
@@ -623,7 +623,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "――保留ですわ。",
             "enText": "--I'm going to put it on hold.",
             "nextBlock": 31,
@@ -650,7 +650,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ええ。公平を期すため、やはり\r\nトレーナーさんが預かっていてくださいませ。",
             "enText": "Yes. To be fair, the trainer should still keep it.",
             "nextBlock": 32,
@@ -670,7 +670,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "使い道は熟慮に熟慮を重ねて決めますわ。\r\n大変な権利ですから。",
             "enText": "I will decide how to use it after much deliberation. \nIt is a very important right.",
             "nextBlock": 33,
@@ -690,7 +690,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "ずいぶん大げさな話になってしまったが、\r\n特賞の券は結局預かることになったのだった。",
             "enText": "It was a bit of an exaggeration, but I ended up keeping the \nspecial prize ticket.",
             "nextBlock": -1,
@@ -710,7 +710,7 @@
         },
         {
             "jpName": "商店街の人",
-            "enName": "",
+            "enName": "Market Person",
             "jpText": "おめでとうございます、1等賞～！\r\n賞品は『特上にんじんハンバーグ』です！",
             "enText": "Congratulations, first prize~! The prize \nis a \"Special Carrot Hamburger\"!",
             "nextBlock": 35,
@@ -730,7 +730,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "『<itemname>』を獲得した",
             "enText": "I got \"<itemname>\".",
             "nextBlock": 36,
@@ -756,7 +756,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "まあ、にんじんハンバーグ！　これは\r\n美味しそうなものをいただきましたわ。",
             "enText": "Well, carrot hamburger!　This looks like something I would enjoy.",
             "nextBlock": 37,
@@ -776,7 +776,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "で、でも……。",
             "enText": "And but .......",
             "nextBlock": 38,
@@ -808,7 +808,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "これは……差し上げますわ。私が食べて\r\nしまっては、太……申し訳ありませんもの。",
             "enText": "I will ...... give it to you. I would \nbe sorry if I ate it, Tai .......",
             "nextBlock": 39,
@@ -828,7 +828,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "トレーナーさんが食べたいんじゃ\r\nありません？　無理しないでいいですわ。",
             "enText": "I'm sure your trainer would love to \neat it.　You don't have to do it.",
             "nextBlock": 40,
@@ -855,7 +855,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "食べたいって言ってください！\r\nじゃないと私がもらってしまいますわよ？",
             "enText": "Please tell me you want some! Otherwise, I'll take it, won't I?",
             "nextBlock": 41,
@@ -882,7 +882,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "どうぞじゃありませんわ！\r\n貴方という人は～！",
             "enText": "Not \"please\"! You're the one!",
             "nextBlock": 42,
@@ -902,7 +902,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "こうなったら一緒に食べましょう。\r\n半分ずつなら、美味しさそのまま、\nカロリー半分ですわ。",
             "enText": "Let's eat together. If we eat half each, we get half the calories \nand half the flavor.",
             "nextBlock": 43,
@@ -922,7 +922,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "いえ、一緒なら美味しさ2倍かも……。\r\n美味しさというより……嬉しさ？",
             "enText": "No, together they may be twice as delicious ....... Not so much \ndelicious as ...... happy?",
             "nextBlock": 44,
@@ -942,7 +942,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "な、なんでもありません……。\r\nいいのを引いて、少し興奮しただけですわ。",
             "enText": "Oh, it's nothing. ....... I just got a little \nexcited when I pulled a good one.",
             "nextBlock": 45,
@@ -962,7 +962,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "結局、2人で仲良くハンバーグを\r\n分け合って食べたのだった。",
             "enText": "In the end, the two of us shared a hamburger steak.",
             "nextBlock": -1,
@@ -982,7 +982,7 @@
         },
         {
             "jpName": "商店街の人",
-            "enName": "",
+            "enName": "Market Person",
             "jpText": "2等賞～！！\r\n賞品は『にんじん山盛り』です！",
             "enText": "Second prize~! The prize is a pile of carrots!",
             "nextBlock": 47,
@@ -1002,7 +1002,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "『<itemname>』を獲得した",
             "enText": "I got \"<itemname>\".",
             "nextBlock": 48,
@@ -1028,7 +1028,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "2等……。そこそこな結果ですけれど、\r\n不思議と達成感がありますわ。",
             "enText": "Second prize: ....... It's a modest result, but strangely I feel \na sense of accomplishment.",
             "nextBlock": 49,
@@ -1048,7 +1048,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "たった1枚の紙が、山盛りに増えるだなんて。\r\nこれはこれで成果なのでは？",
             "enText": "I can't believe that just one sheet of paper adds up to a pile of \npaper. Isn't this an achievement?",
             "nextBlock": 50,
@@ -1068,7 +1068,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "私としては納得ですわ。\r\nでは行きましょう。",
             "enText": "That makes sense to me. Let's go.",
             "nextBlock": 51,
@@ -1095,7 +1095,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "え？　あ、そうでしたわね。\r\nいただけるのでしたっけ。",
             "enText": "Huh?　Oh, that's right. I was wondering if I could have one.",
             "nextBlock": 52,
@@ -1115,7 +1115,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "でも私、賞品のために引いたのでは\r\nありませんから。",
             "enText": "But I didn't draw for the prize.",
             "nextBlock": 53,
@@ -1135,7 +1135,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ただ1度の機会で輝きを示したかった。\r\nただ、それだけ……。",
             "enText": "I just wanted to show brilliance on \none occasion. Just that. ......",
             "nextBlock": 54,
@@ -1155,7 +1155,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "というわけで、もらっても困るのです。\r\nこんなにたくさん……。",
             "enText": "This is why we don't want to receive So many .......",
             "nextBlock": 55,
@@ -1175,7 +1175,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "結果、山盛りのにんじんはメジロ家に\r\n送られることとなり……\n後日『にんじん晩餐会』の招待状が届いた。",
             "enText": "As a result, a pile of carrots was sent to the Mejiro family \n...... Later, an invitation to a \"Carrot Dinner Party\" was sent \nto the Mejiro family.",
             "nextBlock": -1,
@@ -1195,7 +1195,7 @@
         },
         {
             "jpName": "商店街の人",
-            "enName": "",
+            "enName": "Market Person",
             "jpText": "3等賞～！\r\n賞品は『にんじん1本』です！",
             "enText": "Third prize~! The prize is a carrot!",
             "nextBlock": 57,
@@ -1215,7 +1215,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "『<itemname>』を獲得した",
             "enText": "I got \"<itemname>\".",
             "nextBlock": 58,
@@ -1241,7 +1241,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "3等……。1本だけ……。\r\nなんだか、とってもモヤモヤしますわ。",
             "enText": "Third prize ....... Only one ....... It's all very bewildering.",
             "nextBlock": 59,
@@ -1261,7 +1261,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "これが私の身の丈の限界……。\r\nたった1本だなんて……。",
             "enText": "This is the limit of my height ....... \nI can't believe it's only one. ......",
             "nextBlock": 60,
@@ -1281,7 +1281,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "――時にトレーナーさん、\r\n冬の次の季節はなにか、ご存じ？",
             "enText": "--Do you know what the next season after winter is, Mr. Trainer?",
             "nextBlock": 61,
@@ -1313,7 +1313,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "あら、ちょうどいいところにブティックが。\r\nあそこでお洋服を買えば、望まずして\n福引券が手に入りますわね。",
             "enText": "Oh, there's a boutique just around the corner. If you buy clothes \nthere, you'll hopefully get You'll hopefully get a goody bag.",
             "nextBlock": 62,
@@ -1337,7 +1337,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "となれば不本意ながら、もう1度\r\n引くしか……。では失礼して。",
             "enText": "Then, unwillingly, I have no choice but to pull it again. ...... \nNow, if you'll excuse me.",
             "nextBlock": 63,
@@ -1373,7 +1373,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "見え見えの無駄遣いをやめさせた。\r\nよほど悔しかったようだ。",
             "enText": "I made him stop wasting money that I could \nsee. He seemed to be very frustrated.",
             "nextBlock": -1,
@@ -1393,7 +1393,7 @@
         },
         {
             "jpName": "商店街の人",
-            "enName": "",
+            "enName": "Market Person",
             "jpText": "残念、はずれ！\r\n参加賞は『ティッシュ』だよ～。",
             "enText": "Too bad! The participation prize is \"tissues\"!",
             "nextBlock": 65,
@@ -1413,7 +1413,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "『<itemname>』を獲得した",
             "enText": "I got \"<itemname>\".",
             "nextBlock": 66,
@@ -1439,7 +1439,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ティッシュ……。ふふ、ふ……ちょうど\r\nいいですわ。欲しかったんですの。",
             "enText": "Tissue ....... Hmmm, hmmm... ...... just \nwhat I wanted. I've been wanting some.",
             "nextBlock": 67,
@@ -1471,7 +1471,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "悔し涙を拭くためにですわ。\r\nううう、満を持して引いたのに……。",
             "enText": "I'm just trying to wipe away the tears of frustration. Ugh, I \npulled a full load and now I'm at .......",
             "nextBlock": 68,
@@ -1498,7 +1498,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "いりませんわ～！　私は、\r\n私はティッシュが好きなんですの！",
             "enText": "I don't want any!　I, I like tissues!",
             "nextBlock": 69,
@@ -1518,7 +1518,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "ポケットティッシュ1個で足りるだろうか？\r\nそう思わせるほど、メジロマックイーンの\n落ち込みようはすごかった……。",
             "enText": "Would one pocket tissue suffice? That's what I thought. \nThe depression was so great that it made me think so. ......",
             "nextBlock": -1,

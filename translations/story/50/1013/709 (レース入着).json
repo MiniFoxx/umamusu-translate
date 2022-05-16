@@ -7,7 +7,7 @@
     "text": [
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "これでひと安心、とはいきませんわね。\r\n入着しただけでは、満足できませんもの。",
             "enText": "This is not a relief. I am not satisfied \nwith just getting in and out.",
             "nextBlock": 2,
@@ -27,7 +27,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "欲しいのは、完璧な勝利です。\r\nでなければ……自分を認められませんわ。",
             "enText": "What I want is a perfect victory. Otherwise I won't be able to \n...... recognize myself.",
             "nextBlock": 3,
@@ -63,7 +63,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ご期待くださっていますのね。\r\nええ、必ず上がってみせますわ。",
             "enText": "You have high expectations of me, don't you? \nYes, I'll make sure I get up there.",
             "nextBlock": 4,
@@ -87,7 +87,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "私はメジロのウマ娘ですもの。\r\n完璧な勝利を、宿命づけられている。",
             "enText": "I am a horse girl from Mejiro. I am \ndestined for a perfect victory.",
             "nextBlock": 5,
@@ -107,7 +107,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "そのためにも、更に実力をつけなければ！",
             "enText": "And for that, I need to get even more competent!",
             "nextBlock": -1,
@@ -131,7 +131,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "はい、自覚しておりますわ。\r\nこのままでは、使命を果たせません。",
             "enText": "Yes, I am aware of that. We cannot fulfill our mission as it is.",
             "nextBlock": 7,
@@ -155,7 +155,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ですからトレーナーさん、私をもっと\r\n鍛えてくださいまし。",
             "enText": "So, trainer, please train me more.",
             "nextBlock": 8,
@@ -175,7 +175,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "そして完璧な勝利を、\r\nともに掴みましょう！",
             "enText": "Let's work together to achieve the perfect victory!",
             "nextBlock": -1,

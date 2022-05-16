@@ -7,7 +7,7 @@
     "text": [
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "『菊花賞』の栄光は、\r\nメジロマックイーンの手に収まった。",
             "enText": "The glory of the \"Kikka-sho\" was in the \nhands of the white horse McQueen.",
             "nextBlock": 2,
@@ -35,7 +35,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "メジロライアンは悔しさをにじませながらも、\r\n勝者であるメジロマックイーンに\n祝福の言葉を送り――",
             "enText": "Whitehall Ryan, with a hint of frustration, congratulates the \nwinner, Whitehall McQueen. and congratulated him on his victory.",
             "nextBlock": 3,
@@ -63,7 +63,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "2人は、次のレースでもまた\r\n真剣勝負をしようと約束を交わした。",
             "enText": "The two promised to compete seriously again in the next race.",
             "nextBlock": 4,
@@ -91,7 +91,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "そして……次なる目標は『天皇賞（春）』。\r\n集大成を見せると意気込む\nメジロマックイーンだった。",
             "enText": "And ...... next target is \"Tennou-sho (Spring)\". He is determined \nto show the culmination of his efforts. Mejiro McQueen, who is \ndetermined to show the culmination of his efforts.",
             "nextBlock": -1,

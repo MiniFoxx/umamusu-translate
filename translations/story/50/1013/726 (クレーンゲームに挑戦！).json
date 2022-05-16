@@ -7,7 +7,7 @@
     "text": [
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "ある日、\r\nメジロマックイーンと出かけた先で――",
             "enText": "One day, while out with the white-coated McQueen...",
             "nextBlock": 2,
@@ -27,7 +27,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "……あら、見てくださいトレーナーさん。\n可愛らしいぬいぐるみがありますわ。",
             "enText": "...... Oh, look at that trainer. There's \nan adorable stuffed animal.",
             "nextBlock": 3,
@@ -51,7 +51,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "メジロマックイーンの見つめる先には、\nウマ娘を模したぬいぐるみが\nクレーンゲームの景品として陳列していた。",
             "enText": "A stuffed animal in the shape of Uma Musume was on display as a \nprize in a crane game. displayed as a prize in a crane game.",
             "nextBlock": 4,
@@ -75,7 +75,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ふふ……。",
             "enText": "Heh. .......",
             "nextBlock": 5,
@@ -99,7 +99,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "メジロマックイーンはぬいぐるみが\n気に入ったのか、じーっと見つめている……。",
             "enText": "The Mejiro McQueen is staring at the stuffed \nanimal as if he likes it. ......",
             "nextBlock": 6,
@@ -135,7 +135,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "い、いえ。そういうわけでは。\n少し気になっただけですので……。",
             "enText": "No, no. That's not what I meant. I \nwas just a little curious. ......",
             "nextBlock": 7,
@@ -159,7 +159,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "それに、このゲームは難しそうですもの。\n私にあのぬいぐるみは取れませんわ。",
             "enText": "Besides, this game looks too difficult. \nI can't get that stuffed animal.",
             "nextBlock": 8,
@@ -191,7 +191,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ええっ！？　トレーナーさんが……？\nよ、よろしいのですか！？",
             "enText": "What?　Your trainer is ......? May I?",
             "nextBlock": 9,
@@ -215,7 +215,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "――このゲーム、負けられない！！",
             "enText": "--This game, you can't lose!",
             "nextBlock": -1,

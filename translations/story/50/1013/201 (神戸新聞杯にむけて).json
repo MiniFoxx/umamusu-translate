@@ -7,7 +7,7 @@
     "text": [
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "序盤の坂で、\r\nきちんと位置取りを確認して……。",
             "enText": "Check your position properly at the beginning of the hill. ......",
             "nextBlock": 2,
@@ -39,7 +39,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "……ええ。イメージができてきましたわ。",
             "enText": "...... Yeah. I'm starting to get the picture.",
             "nextBlock": 3,
@@ -59,7 +59,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "今回の『神戸新聞杯』は\r\n芝2400mのコース。",
             "enText": "The Kobe Shinbun Cup will be held on \na turf course of 2,400 meters.",
             "nextBlock": 4,
@@ -79,7 +79,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "今までのトレーニングを思い出せば\r\n問題ありませんわ。",
             "enText": "Remember your previous training and you'll be fine.",
             "nextBlock": 5,
@@ -103,7 +103,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "気を抜かず、しっかりと\r\n勝利を掴んで参ります！",
             "enText": "We will not slacken off, and we will get the victory!",
             "nextBlock": -1,

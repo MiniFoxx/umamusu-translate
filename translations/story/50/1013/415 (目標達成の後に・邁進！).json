@@ -7,7 +7,7 @@
     "text": [
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "着実に実力をつけていく\r\nメジロマックイーン。",
             "enText": "Steadily improving his ability.",
             "nextBlock": 2,
@@ -27,7 +27,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "来年のクラシックでは、ステイヤーとして\r\n『菊花賞』とその前哨戦、『神戸新聞杯』に\n狙いを定めるとし――",
             "enText": "In next year's Classic, as a stayer, he will be aiming \nfor the Kikka-sho and the Kobe Shinbun Cup, the preliminary \nrace for the Kikka-sho. Kobe Shimbun Cup, the race \nthat precedes the Kikka Sho.",
             "nextBlock": 3,
@@ -57,7 +57,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "気を抜かずに\r\nこの調子を維持したいと話すのだった。",
             "enText": "He said he would like to keep up the good \nwork and not let his guard down.",
             "nextBlock": -1,

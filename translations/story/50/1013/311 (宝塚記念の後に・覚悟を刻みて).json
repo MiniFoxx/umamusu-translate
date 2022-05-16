@@ -7,7 +7,7 @@
     "text": [
         {
             "jpName": "観客A",
-            "enName": "",
+            "enName": "Spectator A",
             "jpText": "おめでとう、ライアン！！",
             "enText": "Congratulations, Ryan!",
             "nextBlock": 2,
@@ -17,7 +17,7 @@
         },
         {
             "jpName": "観客B",
-            "enName": "",
+            "enName": "Spectator B",
             "jpText": "メジロマックイーンも、\r\nすっごく良かったよーーっ！！",
             "enText": "The white meat McQueen was soooo good!",
             "nextBlock": 3,
@@ -27,7 +27,7 @@
         },
         {
             "jpName": "観客C",
-            "enName": "",
+            "enName": "Spectator C",
             "jpText": "うおおおおおーーっ！！\r\n2人とも、よく頑張ったーーっ！！",
             "enText": "Woooooooooooooooooooo!!! You two did a great job!!!!",
             "nextBlock": 4,
@@ -37,7 +37,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "メジロライアンには敗れたものの、\r\n『宝塚記念』という大舞台で、\n見事な成績を収めることができた――",
             "enText": "Although he was beaten by Mejiro Ryan, he still managed to \nachieve an impressive result on the big stage of the Takarazuka \nKinen. Takarazuka Kinen,\" a big stage for the race, and he \nachieved an outstanding result.",
             "nextBlock": 5,
@@ -47,7 +47,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "……ねぇ、マックイーン。",
             "enText": "...... Hey, McQueen.",
             "nextBlock": 6,
@@ -79,7 +79,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "ありがとう、\r\nあたしとまた真剣勝負をしてくれて。",
             "enText": "Thank you for having another serious competition with me.",
             "nextBlock": 7,
@@ -111,7 +111,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "これでちょっとは\r\nお姉ちゃんっぽいところ……見せられたかな？",
             "enText": "I hope I've shown you a little bit of \nmy big sisterly ...... side now.",
             "nextBlock": 8,
@@ -147,7 +147,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ライアン……。",
             "enText": "Ryan. .......",
             "nextBlock": 9,
@@ -183,7 +183,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "貴方は昔からいつだって\r\n私の尊敬すべき姉ですわ。それに――",
             "enText": "You've always been my sister and I've \nalways looked up to you. And--",
             "nextBlock": 10,
@@ -215,7 +215,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "お礼を言うのはこちらの方です。\r\n貴方と再戦しなければ、気づけませんでした。\n私自身の……覚悟の甘さに。",
             "enText": "I am the one who should thank you. I would not have realized it \nhad I not had a rematch with you. My own ...... unpreparedness.",
             "nextBlock": 11,
@@ -247,7 +247,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "感謝しています。\r\nありがとうライアン、本当に。",
             "enText": "I appreciate it. Thanks Ryan, really.",
             "nextBlock": 12,
@@ -279,7 +279,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "（貴方のお蔭でわかった気がします……\r\nメジロ家として、自分がどうあるべきなのか）",
             "enText": "(I think I know, thanks to you, ...... what I should be as a \nmember of the Mejiro family)",
             "nextBlock": 13,
@@ -311,7 +311,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "さて、無事に『宝塚記念』を\r\n終えることができましたが――",
             "enText": "Well, we have successfully completed the Takarazuka Kinen.",
             "nextBlock": 14,
@@ -331,7 +331,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ライアンと戦ったことで、\r\n次の目標も見えて参りました。",
             "enText": "Fighting with Ryan has given me a clear idea of my next goal.",
             "nextBlock": 15,
@@ -363,7 +363,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "次の目標は秋の『天皇賞』、\r\nすなわち春秋連覇です。",
             "enText": "The next goal is to win the Tennou-sho in the fall, i.e., \nconsecutive victories in spring and fall.",
             "nextBlock": 16,
@@ -383,7 +383,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "メジロ家でもまだ\r\n誰も成し遂げたことのない偉業ですが――",
             "enText": "A feat no one in the Mejiro family has yet accomplished.",
             "nextBlock": 17,
@@ -403,7 +403,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "おばあ様から託された今、\r\n私は新たな道を示したいのです。",
             "enText": "Now that my grandmother has entrusted me with this task, I want \nto show you a new path.",
             "nextBlock": 18,
@@ -423,7 +423,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "おばあ様に……メジロ家の皆さんに。",
             "enText": "To my grandmother ...... and to the Mejiro family.",
             "nextBlock": 19,
@@ -450,7 +450,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "……ええ、必ず！",
             "enText": "...... Yeah, for sure!",
             "nextBlock": 20,
@@ -470,7 +470,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "『天皇賞』の春秋連覇。新たな目標に向けて、\r\nメジロマックイーンの瞳には炎が灯っていた。",
             "enText": "The fire in the eyes of White Queen was lit as she set her sights \non a new goal: winning the Tennou-sho in the spring and fall \nagain. The fire in the eyes of the white horse McQueen was lit up \nas he set his sights on a new goal.",
             "nextBlock": -1,

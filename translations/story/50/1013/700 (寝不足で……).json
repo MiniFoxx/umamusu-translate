@@ -7,7 +7,7 @@
     "text": [
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ふわぁ……。",
             "enText": "Wow. .......",
             "nextBlock": 2,
@@ -27,7 +27,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "あ……す、すみません。\r\nトレーニング中に欠伸だなんて。",
             "enText": "Oh ......, I'm so sorry. I can't believe \nI'm missing during training.",
             "nextBlock": 3,
@@ -47,7 +47,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "きちんとお布団には入ったのですが、\r\n少し夢見が悪くて。",
             "enText": "I got into bed properly, but I had a little trouble dreaming.",
             "nextBlock": 4,
@@ -74,7 +74,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "それが、ゴールドシップさんが\r\n私をロケットに押し込んで……。",
             "enText": "That's why Mr. Goldship pushed me into the rocket .......",
             "nextBlock": 5,
@@ -94,7 +94,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "うっ……すみません、これ以上は。\r\n思い出しただけで悪寒がしますわ。",
             "enText": "Ugh ...... sorry, no more. I get chills just remembering it.",
             "nextBlock": 6,
@@ -114,7 +114,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "はぁ……せっかくのお休み明けなのに。\r\n気が重いですわ。",
             "enText": "Sigh. ...... I'm just coming off a vacation. I'm so depressed.",
             "nextBlock": -1,

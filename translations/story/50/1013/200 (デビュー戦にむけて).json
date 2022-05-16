@@ -27,7 +27,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "すぅ……はぁ……。",
             "enText": "Soooo ...... haha .......",
             "nextBlock": 3,
@@ -59,7 +59,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ええ、大丈夫ですわ。\r\n少しだけ緊張してはおりますが――",
             "enText": "Yes, I'm fine. I'm a little nervous, but--",
             "nextBlock": 4,
@@ -79,7 +79,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ここから目標へ向かっていくと思うと、\r\n高揚する気持ちもあるのです。",
             "enText": "I feel elated at the thought of moving toward my goal from here.",
             "nextBlock": 5,
@@ -99,7 +99,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "『天皇賞』制覇への第一歩。\r\n……いざ、踏み出して参りますわ！",
             "enText": "The first step to conquer \"The Emperor's \nAward\". ......We're off to the races!",
             "nextBlock": -1,

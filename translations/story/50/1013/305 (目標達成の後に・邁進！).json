@@ -7,7 +7,7 @@
     "text": [
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "最近、なかなか\r\nいい結果が出せているように思いますわ。",
             "enText": "I think we've been getting pretty good results lately.",
             "nextBlock": 2,
@@ -39,7 +39,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ええ。何度も出走して\r\n経験を積んだおかげです。",
             "enText": "Yes, I did. It's all thanks to the experience I've gained from \nrunning the race so many times.",
             "nextBlock": 3,
@@ -59,7 +59,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "来年はクラシックに挑戦できる\r\n年でもありますから――",
             "enText": "Next year is my year to try out for the Classic.",
             "nextBlock": 4,
@@ -79,7 +79,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ステイヤーとして、『菊花賞』や\r\nその前哨戦である『神戸新聞杯』は\n確実に勝利したいですわね。",
             "enText": "As a stayer, I want to win \"Kikka-sho\" and \"Kobe Shinbun Cup,\" \nwhich is a prelude to \"Kikka-sho\" and \"Kobe Shinbun Cup\" for \nsure. I want to win the \"Kikka-sho\" and the \"Kobe Shinbun Cup,\" \nthe preliminary race for the Kikka-sho.",
             "nextBlock": 5,
@@ -116,7 +116,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "はい、クラシックで結果を出すため、\r\n油断せず調子を維持して参りますわ！",
             "enText": "Yes, I will keep my guard up and stay in good shape to get \nresults in the Classic!",
             "nextBlock": -1,

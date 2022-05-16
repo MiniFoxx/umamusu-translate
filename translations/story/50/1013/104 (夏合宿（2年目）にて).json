@@ -27,7 +27,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "……ふう。水分補給がてら、\r\n休憩をいたしましょうか。",
             "enText": "....... Shall we take a break to rehydrate?",
             "nextBlock": 3,
@@ -47,7 +47,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "ふっ……はあぁぁっ！！",
             "enText": "Phew ...... haaaa!",
             "nextBlock": 4,
@@ -71,7 +71,7 @@
         },
         {
             "jpName": "メジロドーベル",
-            "enName": "",
+            "enName": "Mejiro Dober",
             "jpText": "――わわっ、球速すぎ！\r\nこんなの無理だって……！",
             "enText": "--Wow, that's too fast a pitch! You can't do this. ......!",
             "nextBlock": 5,
@@ -111,7 +111,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "えへへっ、得点ゲット！\r\nこのままどんどん行っちゃうよー！",
             "enText": "Hehehe, I got a score! I'll keep going and going and going!",
             "nextBlock": 6,
@@ -139,7 +139,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "あれは……ライアンとドーベル？",
             "enText": "Is that ...... Ryan and Dobel?",
             "nextBlock": 7,
@@ -189,7 +189,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ビーチバレーをやっていますのね。\r\n楽しそうですこと。",
             "enText": "I see you are playing beach volleyball. It looks like fun.",
             "nextBlock": 8,
@@ -213,7 +213,7 @@
         },
         {
             "jpName": "アイネスフウジン",
-            "enName": "",
+            "enName": "Ines Fujin",
             "jpText": "えっ、ほんと！？\r\nマックイーンちゃんも興味あるの？",
             "enText": "What, really! McQueen-chan is interested too?",
             "nextBlock": 9,
@@ -281,7 +281,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "まあ、アイネスさん！\r\nお2人とご一緒にこちらへ？",
             "enText": "Well, Mr. Inez! Are you and your wife coming this way?",
             "nextBlock": 11,
@@ -315,7 +315,7 @@
         },
         {
             "jpName": "アイネスフウジン",
-            "enName": "",
+            "enName": "Ines Fujin",
             "jpText": "そうなの。次はあたしがライアンちゃんと\r\n対戦しようと思ってたんだけど――",
             "enText": "Oh, yeah. I was going to play Ryan next, but...",
             "nextBlock": 12,
@@ -343,7 +343,7 @@
         },
         {
             "jpName": "アイネスフウジン",
-            "enName": "",
+            "enName": "Ines Fujin",
             "jpText": "せっかくならマックイーンちゃんも入って\r\n2対2で対戦しない？",
             "enText": "If we're going to go that extra mile, why don't we have McQueen \njoin us and play two-on-two?",
             "nextBlock": 13,
@@ -371,7 +371,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "よろしいのですか？",
             "enText": "Are you sure?",
             "nextBlock": 14,
@@ -399,7 +399,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ビーチバレーなら足腰が\r\n鍛えられそうですわね……よし。",
             "enText": "Beach volleyball would be a great way to get your legs and back \nin shape. ...... Okay.",
             "nextBlock": 15,
@@ -427,7 +427,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "是非ともよろしくお願いいたしますわ。\r\nトレーナーさん、少々行って参ります。",
             "enText": "I would very much appreciate it. Mr. \nTrainer, I'll be going in a bit.",
             "nextBlock": 16,
@@ -500,7 +500,7 @@
         },
         {
             "jpName": "メジロドーベル",
-            "enName": "",
+            "enName": "Mejiro Dober",
             "jpText": "うわぁっ！？\r\nマックイーン、ボールがそっちに……！",
             "enText": "Wow! McQueen, the ball's in your direction: ......!",
             "nextBlock": 19,
@@ -510,7 +510,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "え、あぁっ……！\r\n間に合いませんわ……！",
             "enText": "Eh, ah ......! You won't make it in time. ......!",
             "nextBlock": 20,
@@ -520,7 +520,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "やったー！　マックイーンとドーベルから\r\nまたまた得点ゲット！",
             "enText": "Yes!　Another score from McQueen and Dobell!",
             "nextBlock": 21,
@@ -530,7 +530,7 @@
         },
         {
             "jpName": "アイネスフウジン",
-            "enName": "",
+            "enName": "Ines Fujin",
             "jpText": "ライアンちゃんってば、すごい……！\r\n1人でいっぱい点取ってるの～！",
             "enText": "You're so awesome, Ryan-chan! ......! I'm \nscoring so many points all by myself~!",
             "nextBlock": 22,
@@ -568,7 +568,7 @@
         },
         {
             "jpName": "メジロドーベル",
-            "enName": "",
+            "enName": "Mejiro Dober",
             "jpText": "はぁっ、はぁっ……。\r\n結構キツくなってきたね……。",
             "enText": "Huh, huh. ....... It's getting pretty tight. ......",
             "nextBlock": 24,
@@ -600,7 +600,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ええ、暑さで体力が奪われますわ……。",
             "enText": "Yeah, the heat is killing my energy. ......",
             "nextBlock": 25,
@@ -632,7 +632,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "それに、バレーボール特有の\r\n姿勢もなかなか……。",
             "enText": "Besides, the unique posture of volleyball is also quite .......",
             "nextBlock": 26,
@@ -660,7 +660,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "はぁっ、はぁっ……。\r\n確かにこれはしんどいね……でも――",
             "enText": "Hah, hah ....... This is certainly a tough one, ......, but--",
             "nextBlock": 27,
@@ -696,7 +696,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "そんな時こそ、\r\nあたしが元気を出してみせる……！",
             "enText": "That's when I can cheer you up. ......!",
             "nextBlock": 28,
@@ -716,7 +716,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "だって、あたしは――",
             "enText": "Because I--",
             "nextBlock": 29,
@@ -736,7 +736,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "――いつも鍛えてきたんだからっ！！",
             "enText": "--I've always worked out!",
             "nextBlock": 30,
@@ -766,7 +766,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "……よしっ、またまた1点ゲット！！",
             "enText": "...... Okay, we got another one!",
             "nextBlock": 32,
@@ -794,7 +794,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "そんな……！　この状態でも\r\nへこたれていないなんて……！",
             "enText": "Oh, no. ......!　I can't believe you haven't been humbled by this \nstate of affairs. ......!",
             "nextBlock": 33,
@@ -850,7 +850,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "はぁ……大変な目に遭いましたわ……。",
             "enText": "Huh, ...... I'm in a lot of trouble. ......",
             "nextBlock": 35,
@@ -882,7 +882,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ええ、あのライアンと\r\n球技で勝負したのが間違いでした……。",
             "enText": "Yeah, it was a mistake to play a ball game with that Ryan. ......",
             "nextBlock": 36,
@@ -902,7 +902,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "それにしても、彼女のあの勝負強さは\r\n一体どこから湧いてくるのでしょう？",
             "enText": "But where in the world does she get her competitive spirit?",
             "nextBlock": 37,
@@ -939,7 +939,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "それにしても、彼女のあの勝負強さは\r\n一体どこから湧いてくるのでしょう？",
             "enText": "But where in the world does she get her competitive spirit?",
             "nextBlock": 38,
@@ -976,7 +976,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "体の強さ、ですか……。\r\n確かに……。",
             "enText": "Strength of body, is it? ....... Certainly .......",
             "nextBlock": 39,
@@ -996,7 +996,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ライアンの筋トレメニューは\r\n尋常ではありませんものね……。",
             "enText": "Ryan's strength training menu is nothing \nout of the ordinary. ......",
             "nextBlock": 40,
@@ -1016,7 +1016,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ですがそういうことなら、体を鍛えれば\r\n私にも勝負強さが身につくのでしょうか？",
             "enText": "But if that's the case, will training \nmy body make me more competitive?",
             "nextBlock": 41,
@@ -1043,7 +1043,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ええ、ものは試しですわね。\r\nやってみましょう、さっそく明日から！",
             "enText": "Yeah, let's give it a try. Let's give \nit a try, starting tomorrow!",
             "nextBlock": 42,
@@ -1083,7 +1083,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "こ、根性……。",
             "enText": "This is a gut .......",
             "nextBlock": 44,
@@ -1103,7 +1103,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "そうですわよね、最終的には\r\nそこに行きつくのですわよね……。",
             "enText": "Yes, that's where we'll end up. ......",
             "nextBlock": 45,
@@ -1123,7 +1123,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "……よし、ならば私も見習って\r\n根性を付けてみますわ。",
             "enText": "...... Okay, then I'll learn from you and put some guts into it.",
             "nextBlock": 46,
@@ -1143,7 +1143,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "とはいえ、なにから始めたらいいものか……。",
             "enText": "However, what is the best place to start? ......",
             "nextBlock": 47,
@@ -1170,7 +1170,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "なっ、それは……！\r\n確かに忍耐力は付きそうですけれども……！",
             "enText": "Oh, that's ......! It certainly seems to \nhelp with patience, though: ......!",
             "nextBlock": 48,
@@ -1190,7 +1190,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ですが……\r\n少しだけ考えさせてくださいませ！",
             "enText": "But ...... let me think about it for a minute!",
             "nextBlock": -1,

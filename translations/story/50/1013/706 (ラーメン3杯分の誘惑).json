@@ -27,7 +27,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "さすが話題店……。\r\n30分並んで、ようやく先頭に。",
             "enText": "This is indeed the hottest restaurant ....... After standing in \nline for 30 minutes, we finally got to the front of the line.",
             "nextBlock": 3,
@@ -59,7 +59,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ええ、数量限定の大人気ケーキですもの！\r\n私もここを通る度、胸を焦がす程――",
             "enText": "Yes, it's a very popular cake with limited quantities! I get so \nexcited every time I pass by here...",
             "nextBlock": 4,
@@ -79,7 +79,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "――コホン。いえ、少しだけ。\r\n本当に、ちょっぴりだけ気になってましたの。",
             "enText": "--cohon. No, just a little bit. Really, \nI was just a little bit curious.",
             "nextBlock": 5,
@@ -139,7 +139,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "んな……！？",
             "enText": "What the ......!",
             "nextBlock": 8,
@@ -159,7 +159,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ど、ど、ど、どうしましょう……！\r\n私、そのような準備などまったく……！",
             "enText": "Do, do, do, do... ......! I, no such preparation at all ......!",
             "nextBlock": 9,
@@ -196,7 +196,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ど、ど、ど、どうしましょう……！\r\n私、そのような準備などまったく……！",
             "enText": "Do, do, do, do... ......! I, no such preparation at all ......!",
             "nextBlock": 10,
@@ -233,7 +233,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "トレーナーさん……！",
             "enText": "Trainer: ......!",
             "nextBlock": 11,
@@ -253,7 +253,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "さすがですわ！\r\n私の体重をしっかり把握しているだなんて――",
             "enText": "I'm impressed! I can't believe you know exactly how much I weigh.",
             "nextBlock": 12,
@@ -273,7 +273,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "い、今更ながら……\r\nそれはそれで恥ずかしい、ような……。",
             "enText": "Yes, after all this time, ...... it's still embarrassing, \nlike ...... it's still embarrassing, like ...... \nit's still embarrassing.",
             "nextBlock": 13,
@@ -293,7 +293,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "あっ！　な、なんでもありませんわ。\r\nこちらの話です。",
             "enText": "Ah!　Oh, it's nothing. I'm talking about here.",
             "nextBlock": 14,
@@ -313,7 +313,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ともかく、これで安心して堪能できますわね。\r\nふふっ♪　待ち遠しいですわ！",
             "enText": "Anyway, now I can enjoy it in peace. Phew... I can't wait!",
             "nextBlock": 15,
@@ -353,7 +353,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ハッ！　……た、たしかに。\r\n食べた後でも十分間に合うはず……！",
             "enText": "Ha!　.........you're right. It should be \nenough time after you eat. ......!",
             "nextBlock": 17,
@@ -373,7 +373,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "麺3玉分はたしか、約1030キロカロリー。\r\nということは2時間ほど走れば……？",
             "enText": "I believe 3 bowls of noodles is about 1030 calories. So, if you \nrun for about 2 hours, you can get ......?",
             "nextBlock": 18,
@@ -393,7 +393,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "いえ……スープのことを考え、\r\n坂路ダッシュを追加いたしましょう。",
             "enText": "No, ...... we will add a hill dash for soup.",
             "nextBlock": 19,
@@ -413,7 +413,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "そして、チャーシュー3枚分のジョギングで\r\nクールダウン……！　完璧ですわっ！",
             "enText": "And cool down with a jog for 3 chars: ......!　Perfect!",
             "nextBlock": 20,
@@ -433,7 +433,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "これで安心して堪能できるというもの。\r\nしっかり味わい、きっちり実行\nいたしましょう。",
             "enText": "Now you can enjoy it with peace of mind. \nLet's savor it and do it right.",
             "nextBlock": 21,
@@ -453,7 +453,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ラーメン3杯分ランニングを……！",
             "enText": "I'll be running three ramen noodles at ......!",
             "nextBlock": 22,

@@ -7,7 +7,7 @@
     "text": [
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "まだまだ未熟ですわね……。\nケガをしてしまうだなんて……はあ。",
             "enText": "It's still so immature. ...... I can't \nbelieve you got hurt. ...... haha.",
             "nextBlock": 2,
@@ -27,7 +27,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "トレーナーさんにも迷惑をおかけしてしまい、\r\n申し訳ございませんでしたわ。",
             "enText": "I apologize for any inconvenience this \nmay have caused to your trainer.",
             "nextBlock": 3,
@@ -59,7 +59,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "トレーナーさんにも迷惑をおかけしてしまい、\r\n申し訳ございませんでしたわ。",
             "enText": "I apologize for any inconvenience this \nmay have caused to your trainer.",
             "nextBlock": 4,
@@ -91,7 +91,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ええっ！？　そ、そこまででは……！\n軽く手当てすれば十分です！",
             "enText": "Eh!　That's not that bad. ......! A light \ntouch up is all that is needed!",
             "nextBlock": 5,
@@ -111,7 +111,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "もう……トレーニングにケガはつきもの。\nこの程度で心配していては、\n心休まる時がありませんわよ？",
             "enText": "I'm already on ...... training and injuries are a part of it. If \nyou're worried about this level of injury. You will never have a \nmoment to rest, if you are worried about this.",
             "nextBlock": 6,
@@ -143,7 +143,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "……それでは私が困りますわ。",
             "enText": "...... that would get me in trouble.",
             "nextBlock": 7,
@@ -163,7 +163,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "はぁ……心配してくださる\n気持ちは充分に伝わりました。",
             "enText": "I am glad to hear that you are concerned about our company.",
             "nextBlock": 8,
@@ -183,7 +183,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "そこまで仰るのなら、\r\n今日は休養に専念することといたします。",
             "enText": "If you insist, I will concentrate on resting today.",
             "nextBlock": 9,
@@ -203,7 +203,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "手当てを終えた後、メジロマックイーンを\n寮へ送り届けることにした。",
             "enText": "After finishing his treatment, he decided to send Medillo McQueen \nback to his dormitory.",
             "nextBlock": -1,
@@ -223,7 +223,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "そうですわね……。集中するあまり、\n周りが見えなくなってしまってはいけません。",
             "enText": "That's right. ...... We must not be so focused that we lose sight \nof what is going on around us.",
             "nextBlock": 11,
@@ -243,7 +243,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "しかし……このような初歩的な部分で、\n失態を犯してしまうとは……。",
             "enText": "But ...... how could we blunder in such a rudimentary area?",
             "nextBlock": 12,
@@ -263,7 +263,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "はぁ……改めて申し訳ない\n気持ちになってきましたわ……。",
             "enText": "Huh, ...... I'm starting to feel sorry again .......",
             "nextBlock": 13,
@@ -283,7 +283,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "手当てを終えた後、\nその日は休養させることにした。",
             "enText": "After the patient was treated, the decision \nwas made to let him rest for the day.",
             "nextBlock": -1,
@@ -303,7 +303,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "そうですわね。集中するあまり、周りが\n見えなくなってもいけません。とはいえ――",
             "enText": "That's right. You can't be so focused that you can't see what's \ngoing on around you. However--",
             "nextBlock": 15,
@@ -327,7 +327,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "集中していたということは、裏を返せば\n効率的にトレーニングできたということ。",
             "enText": "The fact that I was concentrated means \nthat I was able to train efficiently.",
             "nextBlock": 16,
@@ -347,7 +347,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ならばこの集中力も、\n育てていけば役立つことでしょう。",
             "enText": "Then this ability to concentrate will also be useful if nurtured.",
             "nextBlock": 17,
@@ -367,7 +367,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "さあ、集中が途切れないうちに、\nトレーニングに戻るといたしましょうか。",
             "enText": "Now, let's get back to our training \nbefore we lose our concentration.",
             "nextBlock": 18,
@@ -387,7 +387,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "手当てを終えた後、メジロマックイーンの\n希望でトレーニングを再開することにした。",
             "enText": "After being patched up, he decided to resume training at the \nrequest of Medillo McQueen.",
             "nextBlock": -1,

@@ -7,7 +7,7 @@
     "text": [
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ついにレース本番。\r\n心の準備はよろしいですか？",
             "enText": "The race is finally on. Are you ready?",
             "nextBlock": 2,
@@ -34,7 +34,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ええ。それでこそ私の……\r\nメジロのウマ娘のトレーナーというもの。",
             "enText": "Yes, I am. That's what I call my ...... \ntrainer of horsegirls in Mejiro.",
             "nextBlock": 3,
@@ -54,7 +54,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "フフッ！　ほどよい緊張感。\r\n体が熱くなってきましたわ……！",
             "enText": "Phew!　Just the right amount of tension. \nMy body is getting hot. ......!",
             "nextBlock": 4,
@@ -74,7 +74,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "では、トレーナーさん。\r\n果たすべき夢のため……行って参ります！",
             "enText": "Well then, trainer. I'm off to ...... to \nfulfill the dream I have to fulfill!",
             "nextBlock": -1,

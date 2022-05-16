@@ -7,7 +7,7 @@
     "text": [
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "まあ……いつの間にこんなところへ\r\n来てしまったのでしょうか。",
             "enText": "Well, ...... when did I get here?",
             "nextBlock": 2,
@@ -27,7 +27,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "私としたことがボーっとして――",
             "enText": "I'm sorry. I'm just a little fuzzy about what I did.",
             "nextBlock": 3,
@@ -47,7 +47,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "……あら？",
             "enText": "...... Oh?",
             "nextBlock": 4,
@@ -71,7 +71,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "三女神様の像……雰囲気が\r\nいつもと違うような……？",
             "enText": "The statues of the three goddesses ...... seem to have a \ndifferent atmosphere ...... than usual?",
             "nextBlock": -1,

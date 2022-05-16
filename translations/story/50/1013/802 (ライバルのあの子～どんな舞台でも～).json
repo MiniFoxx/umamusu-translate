@@ -7,7 +7,7 @@
     "text": [
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "ある日、メジロマックイーンから\n『ライブパフォーマンスの練習をしたい』と\n言われたので、トレーナー室へ行くと――",
             "enText": "One day, White-Tailed McQueen said, \"I want to practice my live \nperformance. I went to the trainer's office.",
             "nextBlock": 2,
@@ -17,7 +17,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "お待ちしておりましたわ、トレーナーさん。",
             "enText": "We've been waiting for you, trainer.",
             "nextBlock": 3,
@@ -44,7 +44,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ええ、功績が認められ、\n新しくいただいた勝負服ですわ。",
             "enText": "Yes, it's the new uniform I received in \nrecognition of my accomplishments.",
             "nextBlock": 4,
@@ -71,7 +71,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "もちろん、それもあるのですが――",
             "enText": "Of course, there's also--",
             "nextBlock": 5,
@@ -91,7 +91,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "……ほら、新しい勝負服を手に入れたのは\n私だけではないでしょう？",
             "enText": "...... See, I'm not the only one who \ngot a new competitive outfit, am I?",
             "nextBlock": 6,
@@ -111,7 +111,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "そういえば、トウカイテイオーも\n時期を同じくして功績を認められ、\n新たな勝負服を手に入れていた。",
             "enText": "Come to think of it, Tokai Teio was also recognized for his \nachievements at the same time, and and got a new uniform.",
             "nextBlock": 7,
@@ -131,7 +131,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "彼女には、誰にも負けない\nステップがあります。",
             "enText": "She has steps that are second to none.",
             "nextBlock": 8,
@@ -155,7 +155,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ならば、並び立った場合に\n遜色がないようにしなければなりません。",
             "enText": "Then we must make sure that they are comparable \nwhen placed side by side.",
             "nextBlock": 9,
@@ -179,7 +179,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "……この衣装のためにも。\n応援してくださる方々のためにも。",
             "enText": "...... for this outfit. And for the people who support me.",
             "nextBlock": 10,
@@ -199,7 +199,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "強い使命感があるようだ。それならばと、\nすぐさまステージに移動することにした。",
             "enText": "He seemed to have a strong sense of mission. With that in mind, I \ndecided to immediately move to the stage.",
             "nextBlock": 11,
@@ -219,7 +219,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "が――",
             "enText": "is--",
             "nextBlock": 12,
@@ -239,7 +239,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "あら、あれは……？",
             "enText": "Oh, is that ......?",
             "nextBlock": 13,
@@ -259,7 +259,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "ステージには先客がいた。\n……トウカイテイオー本人だ。",
             "enText": "There was a guest ahead of me on stage. \nIt was ...... Tokai Teio himself.",
             "nextBlock": 14,
@@ -279,7 +279,7 @@
         },
         {
             "jpName": "トウカイテイオー",
-            "enName": "",
+            "enName": "Tokai Teio",
             "jpText": "やぁ、みんな元気？\nボクはまだまだ盛り上がっていっちゃうよ～！",
             "enText": "Hey, how are you guys doing? I'm still going strong!",
             "nextBlock": 15,
@@ -307,7 +307,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "はじける笑顔、弾むステップ――\nしばしの間、メジロマックイーンと共に\n見入ってしまった。",
             "enText": "I watched the show for a while with the white-haired McQueen, his \nsmile bursting with joy and his steps bouncing.",
             "nextBlock": 16,
@@ -327,7 +327,7 @@
         },
         {
             "jpName": "トウカイテイオー",
-            "enName": "",
+            "enName": "Tokai Teio",
             "jpText": "……あ、マックイーン！",
             "enText": "...... Ah, McQueen!",
             "nextBlock": 17,
@@ -351,7 +351,7 @@
         },
         {
             "jpName": "トウカイテイオー",
-            "enName": "",
+            "enName": "Tokai Teio",
             "jpText": "なーんだ、いたならすぐ声かけてくれれば\nよかったのに～！",
             "enText": "Oh, my God, if you were there, you should \nhave called out to me right away~!",
             "nextBlock": 18,
@@ -383,7 +383,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ああ……すみません、\n少し驚いたものですから。",
             "enText": "Oh ...... sorry, I was a little surprised.",
             "nextBlock": 19,
@@ -411,7 +411,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "新しい勝負服を手にした者同士、\n考えることは同じ……と。",
             "enText": "Those of us who have new competitive clothing \nare thinking the same .......",
             "nextBlock": 20,
@@ -439,7 +439,7 @@
         },
         {
             "jpName": "トウカイテイオー",
-            "enName": "",
+            "enName": "Tokai Teio",
             "jpText": "あはは、たしかに！　勝負服をもらった\nからにはステージでもぜーったい\n1番になりたいって思ったからね！",
             "enText": "Ha-ha-ha.　I got a suit of armor and I wanted to be number one on \nstage! I wanted to be number one on stage!",
             "nextBlock": 21,
@@ -467,7 +467,7 @@
         },
         {
             "jpName": "トウカイテイオー",
-            "enName": "",
+            "enName": "Tokai Teio",
             "jpText": "マックイーンの新しい勝負服も\nよく似合ってると思うけど――",
             "enText": "I think McQueen's new winners outfit looks great on him, too.",
             "nextBlock": 22,
@@ -495,7 +495,7 @@
         },
         {
             "jpName": "トウカイテイオー",
-            "enName": "",
+            "enName": "Tokai Teio",
             "jpText": "ボクの勝負服だってカッコいいんだから！\n誰より熱く目立ってみせちゃうよ～！",
             "enText": "I'm even wearing my coolest uniform! I'll \nstand out hotter than anyone else!",
             "nextBlock": 23,
@@ -523,7 +523,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ええ、受けて立ちます。コースでも\nステージでも……絶対に負けませんから。",
             "enText": "Yes, I'll take it. On the course and on \nthe stage, ......, I will never lose.",
             "nextBlock": 24,
@@ -551,7 +551,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "やがてトウカイテイオーは練習を終えて\n去って行き――",
             "enText": "Soon after, the Toukai Tao finished practicing, and left.",
             "nextBlock": 25,
@@ -579,7 +579,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "メジロマックイーンはしばらく\n去っていく後ろ姿を見つめていた。\n――その瞳は、いつになく真剣だ。",
             "enText": "Whitehall McQueen stared for a moment at the back of the \ndeparting figure. -his eyes are more serious than ever.",
             "nextBlock": 26,
@@ -621,7 +621,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "メジロマックイーンはしばらく\n去っていく後ろ姿を見つめていた。\n――その瞳は、いつになく真剣だ。",
             "enText": "Whitehall McQueen stared for a moment at the back of the \ndeparting figure. -his eyes are more serious than ever.",
             "nextBlock": 27,
@@ -663,7 +663,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "……ええ。",
             "enText": "...... yeah.",
             "nextBlock": 28,
@@ -683,7 +683,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "先ほどのステップだけではありません。\n明るさ、積極性――",
             "enText": "It is not just the steps mentioned \nearlier. Brightness, positivity--",
             "nextBlock": 29,
@@ -707,7 +707,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "そして、決してくじけない闘志。\n彼女からは学ぶことがたくさんあります。",
             "enText": "And a fighting spirit that never falters. \nThere is much to learn from her.",
             "nextBlock": 30,
@@ -738,7 +738,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "はい、本人の前で誓ったばかりですもの。\nステージでも負けないと。",
             "enText": "Yes, I just swore in front of him. \nI'm not going to lose on stage.",
             "nextBlock": 31,
@@ -758,7 +758,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "さあ、今度は私のステップをご覧ください。\n誰より優雅に舞ってみせると約束しますわ。",
             "enText": "Now watch my steps. I promise you I will \ndance more gracefully than anyone else.",
             "nextBlock": 32,
@@ -778,7 +778,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "闘志を燃やしてステージ上で舞う彼女は、\n宣言通り誰よりも優雅で、気品に溢れていた。",
             "enText": "She danced on stage with fighting spirit, and as she declared, \nshe was more graceful and graceful than anyone else.",
             "nextBlock": -1,
@@ -798,7 +798,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "……そうですか？\nふふ、嬉しいですわね。",
             "enText": "...... Is that so? Phew, I'm glad to hear that.",
             "nextBlock": 34,
@@ -818,7 +818,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ですが具体的には、どのようなところを\n良いと思ってくださっているのでしょう？",
             "enText": "But what exactly do you think is good about it?",
             "nextBlock": 35,
@@ -845,7 +845,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ええ。",
             "enText": "Yes.",
             "nextBlock": 36,
@@ -876,7 +876,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "なっ、最後の最後で……！\nそれは、褒めていますの……！？",
             "enText": "Hey, at the end of the day, ......! That's a compliment ......!",
             "nextBlock": 37,
@@ -896,7 +896,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "……まあいいですわ。否定もできませんし。\nトレーナーさんにはご面倒を\nおかけしていますから。",
             "enText": "...... Well, okay. I can't even deny it. I'm sorry for the \ntrouble I'm sorry for the trouble I've caused you.",
             "nextBlock": 38,
@@ -920,7 +920,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "その後、ステージでの練習を見守った。\n……優雅に舞おうと集中しすぎる彼女を、\n適度に休憩させながら。",
             "enText": "Later, I watched her practice on stage. ...... her too much \nconcentration to dance gracefully, while giving her a While \ngiving her a moderate break.",
             "nextBlock": -1,

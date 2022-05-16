@@ -97,7 +97,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "――んん……夢……？",
             "enText": "-- nn...... dream......?",
             "nextBlock": 11,
@@ -107,7 +107,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "（懐かしい……幼い頃の夢だなんて、\r\n久しぶりに見ましたわ）",
             "enText": "(I haven't seen that in a long time. ...... I haven't seen that \nin my childhood dreams in a long time.)",
             "nextBlock": 12,
@@ -117,7 +117,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "（もしかして、\r\n今日彼女と会うからでしょうか……？）",
             "enText": "(Maybe it's because I'm meeting her today ......?)",
             "nextBlock": 13,
@@ -127,7 +127,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "――っと、ぼんやりしている場合では\r\nありませんわね。早く支度をしなくては。",
             "enText": "--I can't afford to dilly-dally. I have to get ready soon.",
             "nextBlock": 14,
@@ -157,7 +157,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "さすがはＧⅠレース、人が多い……。\r\n彼女は一体どこに――",
             "enText": "It's a GI race, indeed, and there are a lot of people ....... \nWhere the hell is she--?",
             "nextBlock": 16,
@@ -183,7 +183,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "――マックイーン！　こっちこっち！\r\nこっちだよーっ！",
             "enText": "--McQueen!　Over here, over here! Over here!",
             "nextBlock": 17,
@@ -215,7 +215,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "あっ、ライアン！　すぐに行きますわ！",
             "enText": "Oh, Ryan!　I'll be right there!",
             "nextBlock": 18,
@@ -239,7 +239,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "さすがですわね、ライアン。\r\n最前列を取っているだなんて。",
             "enText": "That's great, Ryan. I can't believe you got the front row.",
             "nextBlock": 19,
@@ -271,7 +271,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "前と後ろじゃ迫力が全然違うからね。\r\nほら、マックイーンも野球の時は――",
             "enText": "There's a big difference in power between the front and the back. \nYou see, even McQueen, when he plays baseball--",
             "nextBlock": 20,
@@ -303,7 +303,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "っと、ごめん！　これ内緒だったっけ。",
             "enText": "Oops, sorry!　Did I not tell you about this?",
             "nextBlock": 21,
@@ -335,7 +335,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ふふっ、この盛り上がりなら\r\nきっと誰にも聞こえていませんわ。",
             "enText": "Phew, with all this excitement, I'm sure no one can hear us.",
             "nextBlock": 22,
@@ -363,7 +363,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "今日は我々も観客の1人。\r\n思いきりレース観戦を楽しみましょう！",
             "enText": "Today we are one of the spectators. Let's enjoy \nwatching the race as much as we can!",
             "nextBlock": 23,
@@ -391,7 +391,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "そうだね。\r\nよーし、思いっきり声出すぞー！",
             "enText": "Yes, that's right. All right, let's go out with a bang!",
             "nextBlock": 24,
@@ -487,7 +487,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "いけえぇーーっ！\r\nレースはここからですわーーっ！",
             "enText": "Let's go! The race starts here!",
             "nextBlock": 30,
@@ -515,7 +515,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "皆さん、今のうちにいい位置に\r\n付きますのよーーっ！！",
             "enText": "Gentlemen, get in good position while you still can!",
             "nextBlock": 31,
@@ -550,7 +550,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "まあっ、トレーナーさん！？",
             "enText": "Maaah, trainer!",
             "nextBlock": 32,
@@ -578,7 +578,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ごめんなさい、今はレースに集中してますの！\r\nお話なら後にしてくださいませ！",
             "enText": "Sorry, I'm concentrating on the race right now! If you want to \ntalk about it, please come back later!",
             "nextBlock": 33,
@@ -644,7 +644,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "いいレースでしたわね。\r\n最後の最後まで、皆で競り合って。",
             "enText": "That was a great race. Everyone competed until the very end.",
             "nextBlock": 36,
@@ -672,7 +672,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "決して負けたくはないという\r\n強い意志と気迫が感じられましたわ。",
             "enText": "I could feel their strong will and spirit \nthat they never want to lose.",
             "nextBlock": 37,
@@ -704,7 +704,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "うん……ライバルには絶対負けたくないとか、\r\nこのレースだけは落とせないとか――",
             "enText": "Yeah. ...... you don't want to lose to your \nrivals, you don't want to lose this one race, \nyou don't want to lose this one race...",
             "nextBlock": 38,
@@ -732,7 +732,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "みんなそれぞれ、\r\n強い想いがあるんだろうね。",
             "enText": "Everyone must have their own strong feelings.",
             "nextBlock": 39,
@@ -760,7 +760,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "でも、びっくりしました。マックイーンの\r\nトレーナーさんも来てたなんて。",
             "enText": "But I was surprised. I didn't know that \nMcQueen's trainer was also there.",
             "nextBlock": 40,
@@ -800,7 +800,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "あはは、そうですよね。",
             "enText": "Haha, that's right.",
             "nextBlock": 41,
@@ -828,7 +828,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "実は今日、あたしからマックイーンを\r\n誘ったんです。ＧⅠレースを観に行こうって。",
             "enText": "Actually, today I invited McQueen to go watch a G1 race.",
             "nextBlock": 42,
@@ -856,7 +856,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "これから戦う舞台を、自分たちの目で\r\n確かめようということになりましたの。",
             "enText": "We decided to see for ourselves the stage \non which we would be competing.",
             "nextBlock": 43,
@@ -896,7 +896,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ええ。ウマ娘なら誰もが夢見るのが、\r\n歴史あるクラシックの大舞台。",
             "enText": "Yes, I know. Every Uma Musume dreams of being on the big stage of \nthe historic Classics.",
             "nextBlock": 44,
@@ -924,7 +924,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "『天皇賞』が最終的な目標とはいえ、\r\n憧れる気持ちは私にもありますわ。",
             "enText": "I have my own yearning for the Tennou-sho, \neven if it is not the ultimate goal.",
             "nextBlock": 45,
@@ -959,7 +959,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "はい、結果を出せるよう\r\n身を引き締めて参ります。",
             "enText": "Yes, I will be working hard to achieve results.",
             "nextBlock": 46,
@@ -987,7 +987,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "――さあ、レースも終わったことですし\r\nそろそろ出ましょうか。",
             "enText": "--Now that the race is over, it's time to get out of here.",
             "nextBlock": 47,
@@ -1015,7 +1015,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "もしよろしければこの後、\r\n皆さんでご一緒にお茶でもいかがです？",
             "enText": "If you would like to join us for tea \nafterwards, please let me know.",
             "nextBlock": 48,
@@ -1043,7 +1043,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "あっ、ごめん……！\r\nあたし、これからトレーニングなんだ！",
             "enText": "Oh, sorry, ......! I have to train now!",
             "nextBlock": 49,
@@ -1071,7 +1071,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "まあ、そうでしたの。",
             "enText": "Well, it was.",
             "nextBlock": 50,
@@ -1103,7 +1103,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "でしたらお気になさらず、\r\n行ってらっしゃいませ。",
             "enText": "If so, don't worry about it.",
             "nextBlock": 51,
@@ -1135,7 +1135,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "うん、またねマックイーン！\r\nトレーナーさんも！",
             "enText": "Yeah, see you later McQueen! And the trainer!",
             "nextBlock": 52,
@@ -1167,7 +1167,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "…………。",
             "enText": ".............",
             "nextBlock": 53,
@@ -1206,7 +1206,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "……ああ、いえ。",
             "enText": "...... Oh, no.",
             "nextBlock": 54,
@@ -1230,7 +1230,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "やはりライアンはクラシックに\r\n懸ける想いが強いのだろうと思いまして。",
             "enText": "I thought that Ryan must have a strong passion for the Classic.",
             "nextBlock": 55,
@@ -1250,7 +1250,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "メジロ家の中でも、私は『天皇賞』を。\r\nそして彼女は――",
             "enText": "Of the Mejiro family, I am the \"Emperor's Prize\". And she--",
             "nextBlock": 56,
@@ -1270,7 +1270,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "――クラシックでの三冠を\r\n期待されておりましたから。",
             "enText": "--The Triple Crown was expected to be won in the Classic.",
             "nextBlock": 57,
@@ -1330,7 +1330,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "（……小さい頃からあたしは、いつだって\r\nマックイーンの背中ばかり見てた）",
             "enText": "(......) Ever since I was a little girl, I've \nalways had my eye on McQueen's back.",
             "nextBlock": 61,
@@ -1340,7 +1340,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "（それが当然のようになってしまったけど、\r\n思えばあの頃からずっと……）",
             "enText": "(It's taken for granted, but looking \nback, it's been ...... ever since.)",
             "nextBlock": 62,
@@ -1350,7 +1350,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "（――ずっとあたしは、君に追いつけてない）",
             "enText": "（I've never been able to catch up with you.)",
             "nextBlock": -1,

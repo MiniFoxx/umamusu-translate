@@ -7,7 +7,7 @@
     "text": [
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "夏合宿はこれで終わりますが、\r\n私の闘志はよりいっそう燃えておりますわ。",
             "enText": "This is the end of the summer camp, but \nmy fighting spirit is still burning.",
             "nextBlock": 2,
@@ -27,7 +27,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "『天皇賞（秋）』に向けて、\r\n確実に力が付きましたもの。",
             "enText": "I am sure that he is getting stronger \nfor the Tennou-sho (Autumn).",
             "nextBlock": 3,
@@ -59,7 +59,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ええ、今の調子を維持できれば、\r\nきっと勝つことができるでしょう。",
             "enText": "Yes, if we can keep up our current form, I am sure we will win.",
             "nextBlock": 4,
@@ -79,7 +79,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "学園に帰っても気を抜かず、\r\nトレーニングに励んで参りますわ！",
             "enText": "I will continue to train hard even after I return to school!",
             "nextBlock": -1,

@@ -7,7 +7,7 @@
     "text": [
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ありがとうございます、トレーナーさん！\r\n大事に飾らせていただきますわ！",
             "enText": "Thank you, trainer! I will keep it on display for all to see!",
             "nextBlock": 2,
@@ -34,7 +34,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "いえいえ、実家から持ってきた\r\n特大サイズのぬいぐるみに\n比べればかわいいものです。",
             "enText": "No, it's cute compared to the oversized stuffed animal I brought \nfrom my parents' house.",
             "nextBlock": 3,
@@ -58,7 +58,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "むしろ、このくらいの大きさの方が、\r\n抱きしめて眠りやすそう……。",
             "enText": "Rather, this size would be easier to hug and sleep. ......",
             "nextBlock": 4,
@@ -82,7 +82,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "……コホン！\r\nな、なんでもありませんわ。",
             "enText": "...... Kohon! Oh, it's nothing.",
             "nextBlock": 5,
@@ -106,7 +106,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ともかく、私のために取っていただいた\r\nぬいぐるみですもの。\nずっと、大切にさせていただきます！",
             "enText": "Anyway, it is a stuffed animal that you took for me. \nI will treasure it forever!",
             "nextBlock": 6,

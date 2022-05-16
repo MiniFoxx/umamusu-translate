@@ -7,7 +7,7 @@
     "text": [
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "ファン感謝祭でメジロマックイーンが\r\nある催しに出るというので見に来たが――",
             "enText": "I came here to see if there was any chance of seeing the white \nmeat McQueen at some sort of fan appreciation event.",
             "nextBlock": 2,
@@ -17,7 +17,7 @@
         },
         {
             "jpName": "ゴールドシップ",
-            "enName": "",
+            "enName": "Gold Ship",
             "jpText": "――大好評！　『箱の中身はなんでしょう』！\r\n次の挑戦者は……コイツだあっ！！",
             "enText": "--BIG PRIZE!　What's in the Box? The next \nchallenger is ...... this guy!",
             "nextBlock": 3,
@@ -37,7 +37,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "どうも皆さん、ご機嫌よう。",
             "enText": "Hi all, have a nice day.",
             "nextBlock": 4,
@@ -65,7 +65,7 @@
         },
         {
             "jpName": "ゴールドシップ",
-            "enName": "",
+            "enName": "Gold Ship",
             "jpText": "メジロ家のご令嬢、メジロマックイーン！",
             "enText": "The daughter of the Mejiro family, Mejiro McQueen!",
             "nextBlock": 5,
@@ -93,7 +93,7 @@
         },
         {
             "jpName": "ゴールドシップ",
-            "enName": "",
+            "enName": "Gold Ship",
             "jpText": "『お嬢様な反応を見てみたい』って意見が\r\n多かったぜ！　期待に応えられるか～！？",
             "enText": "I'd love to see the reaction of the ladies.\"　Can we live up to \ntheir expectations~!",
             "nextBlock": 6,
@@ -121,7 +121,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "問題ありませんわ。\r\nなにが来ようと冷静に対処するだけですもの。",
             "enText": "No problem. Whatever comes, we just deal with it calmly.",
             "nextBlock": 7,
@@ -149,7 +149,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "（くぅっ……！　皆さんからの投票とはいえ、\r\nどうしてこんなよくわからない催しに！？）",
             "enText": "(Kooooooooo ......!　How did we end up with this obscure event, \neven though you voted for it?)",
             "nextBlock": 8,
@@ -177,7 +177,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "（他にもっとまともな催しが\r\nいくらでもあるはずですのに～……っ！！）",
             "enText": "(I'm sure there are plenty of other more \ndecent events to choose from - ......!)",
             "nextBlock": 9,
@@ -205,7 +205,7 @@
         },
         {
             "jpName": "ゴールドシップ",
-            "enName": "",
+            "enName": "Gold Ship",
             "jpText": "そんじゃいくぜー！！\r\n箱、持ってこおぉ～～いっ！！",
             "enText": "Let's go! Bring the box!",
             "nextBlock": 10,
@@ -233,7 +233,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "（ああ、もう……！\r\nこうなったらなんでも来いですわ……！）",
             "enText": "(Oh my god, ......! I'll come up with \nanything if this happens. ......!)",
             "nextBlock": 11,
@@ -261,7 +261,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ひぃぃっ、冷たい……っ！！\r\nなんですのこれ！？",
             "enText": "Hiii, cold ......! What is this!",
             "nextBlock": 12,
@@ -289,7 +289,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "生き物！？\r\nまさか、生き物ではないですわよね……！？",
             "enText": "A living creature! No way, it's not a living creature. ......!",
             "nextBlock": 13,
@@ -299,7 +299,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "しばらくの間、メジロマックイーンは\r\n1人での攻防を続け――",
             "enText": "For a while, the white-coated McQueen continued to attack alone--",
             "nextBlock": 14,
@@ -309,7 +309,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "や、やっぱり無理です～～……っ！！\r\nいかに皆さんからの投票といえど！！",
             "enText": "Ya, I still can't~~~......! No matter \nhow many of you voted for me!",
             "nextBlock": 15,
@@ -329,7 +329,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "これだけは……！！\r\nこれだけはどうかご勘弁を～～っ！！",
             "enText": "Please don't let this one go to ......!!!!!!!!!!!!!!!!!!!!! \nPlease don't let this one go~!!!!",
             "nextBlock": 16,
@@ -349,7 +349,7 @@
         },
         {
             "jpName": "ゴールドシップ",
-            "enName": "",
+            "enName": "Gold Ship",
             "jpText": "ったく、しょうがねえお嬢様だな。\r\nこんにゃくに怯えちまって。",
             "enText": "What a useless young lady you are. You're scared of konnyaku.",
             "nextBlock": 17,
@@ -377,7 +377,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "え……こんにゃく？",
             "enText": "What, ...... konjac?",
             "nextBlock": 18,
@@ -405,7 +405,7 @@
         },
         {
             "jpName": "ゴールドシップ",
-            "enName": "",
+            "enName": "Gold Ship",
             "jpText": "しかし、まー見事だったぜ。\r\nお嬢様がこんにゃくに踊らされるサマはよ。",
             "enText": "But, it was really brilliant. The way the \nlady was made to dance by the konnyaku.",
             "nextBlock": 19,
@@ -433,7 +433,7 @@
         },
         {
             "jpName": "ゴールドシップ",
-            "enName": "",
+            "enName": "Gold Ship",
             "jpText": "みんな、見てくれてありがとなーっ！",
             "enText": "Thanks for watching, guys!",
             "nextBlock": 20,
@@ -461,7 +461,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "こ、こんにゃく……。",
             "enText": "Ko, konnyaku. ......",
             "nextBlock": 21,
@@ -489,7 +489,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "こんにゃくに向かって……\r\n1人であたふたしてましたのね、私……。",
             "enText": "You were fumbling ...... alone towards the konnyaku, I .......",
             "nextBlock": 22,
@@ -517,7 +517,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "――その日の夜、\r\nメジロマックイーンは巨大こんにゃくに\n追いかけられる夢を見たそうだ。",
             "enText": "--That night, he dreamed that he was \nbeing chased by a giant konjac.",
             "nextBlock": -1,
@@ -545,7 +545,7 @@
         },
         {
             "jpName": "子どもA",
-            "enName": "",
+            "enName": "Child A",
             "jpText": "だいじょうぶ！　こわくないよーっ！",
             "enText": "It's okay!　I'm not afraid!",
             "nextBlock": 24,
@@ -569,7 +569,7 @@
         },
         {
             "jpName": "観客A",
-            "enName": "",
+            "enName": "Spectator A",
             "jpText": "頑張れー！　マックイーン！",
             "enText": "Come on!　McQueen!",
             "nextBlock": 25,
@@ -593,7 +593,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "み、皆さん……！",
             "enText": "Mi, everybody, ......!",
             "nextBlock": 26,
@@ -617,7 +617,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "（そうですわ……せっかく皆さんが\r\n見てくださっているのですもの！）",
             "enText": "(Yes, ......, since you're all watching!)",
             "nextBlock": 27,
@@ -637,7 +637,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "（情けない姿をお見せするわけには……！）",
             "enText": "(I can't let you see how pathetic I look at ......!)",
             "nextBlock": 28,
@@ -661,7 +661,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "くぅぅぅっ――それっ！！",
             "enText": "Kuhhhh--that!",
             "nextBlock": 29,
@@ -685,7 +685,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "あ、あら……？",
             "enText": "Oh, my. ......?",
             "nextBlock": 30,
@@ -705,7 +705,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "もしかして……こんにゃく、ですか？",
             "enText": "Perhaps ...... konjac, is it?",
             "nextBlock": 31,
@@ -725,7 +725,7 @@
         },
         {
             "jpName": "ゴールドシップ",
-            "enName": "",
+            "enName": "Gold Ship",
             "jpText": "うおおおおお！　大・正・解ッ！\r\nやるじゃねーかお嬢様！",
             "enText": "Whoa, whoa, whoa!　You did it! Way to go, lady!",
             "nextBlock": 32,
@@ -745,7 +745,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ふぅ、よかった……。",
             "enText": "Whew, thank goodness. ......",
             "nextBlock": 33,
@@ -765,7 +765,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ふふっ、いかがでした？\r\n見事なものだったでしょう？",
             "enText": "Phew, how was it? Wasn't it spectacular?",
             "nextBlock": 34,
@@ -797,7 +797,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ええ。最初は生き物かと思って\r\n怖かったのですが――",
             "enText": "Yes, I did. I was scared at first, thinking it was a creature--",
             "nextBlock": 35,
@@ -817,7 +817,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ファンの方々の\r\n頼もしい声援が聞こえまして。",
             "enText": "I could hear the encouraging cheers of the fans.",
             "nextBlock": 36,
@@ -837,7 +837,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "思い切って自ら掴みにいってみたら、\r\n案外簡単なものでしたの。",
             "enText": "I took the plunge and tried to grab it myself, and it turned out \nto be easier than I thought.",
             "nextBlock": 37,
@@ -857,7 +857,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "恐れず挑むことで未来が切り拓けると、\r\n改めて思い知った気分ですわ。",
             "enText": "I am reminded once again that we can open up the future by taking \non challenges without fear.",
             "nextBlock": 38,
@@ -889,7 +889,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ええ。そうですわね。\r\nいつも応援してくださる皆さんに感謝です。",
             "enText": "Yes. Yes, I do. Thanks to all of you who always support me.",
             "nextBlock": 39,
@@ -909,7 +909,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "――その日の夜、メジロマックイーンは\r\nファンに感謝しながら\nこんにゃく料理を食べたそうだ。",
             "enText": "-- That night, the white-tailed McQueen thanked \nhis fans and ate a konjac dish.",
             "nextBlock": -1,

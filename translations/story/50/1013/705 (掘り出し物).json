@@ -27,7 +27,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "あら……フリーマーケット？\nなるほど、それで人がこんなに。",
             "enText": "Oh, ...... flea market? I see, so that's why so many people.",
             "nextBlock": 3,
@@ -47,7 +47,7 @@
         },
         {
             "jpName": "アイネスフウジン",
-            "enName": "",
+            "enName": "Ines Fujin",
             "jpText": "あれ？　そこにいるのは――",
             "enText": "Huh?　There he is...",
             "nextBlock": 4,
@@ -67,7 +67,7 @@
         },
         {
             "jpName": "アイネスフウジン",
-            "enName": "",
+            "enName": "Ines Fujin",
             "jpText": "やっぱり！　マックイーンちゃんたちだ！",
             "enText": "I knew it!　It's McQueen and his friends!",
             "nextBlock": 5,
@@ -95,7 +95,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "アイネスさん！\nごきげんよう。お買い物ですか？",
             "enText": "Mr. Inez! How do you do? Are you shopping?",
             "nextBlock": 6,
@@ -123,7 +123,7 @@
         },
         {
             "jpName": "アイネスフウジン",
-            "enName": "",
+            "enName": "Ines Fujin",
             "jpText": "ううん、違う違う。\nここのフリマでお手伝い中なの！",
             "enText": "No, no, no. I'm helping out at the flea market here!",
             "nextBlock": 7,
@@ -151,7 +151,7 @@
         },
         {
             "jpName": "アイネスフウジン",
-            "enName": "",
+            "enName": "Ines Fujin",
             "jpText": "結構いろいろ置いててさ、\n掘り出し物があるんだよ～。",
             "enText": "They have quite a variety of items, and there \nare some great bargains to be had!",
             "nextBlock": 8,
@@ -179,7 +179,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "まあ……！\n本当にたくさん売っていますわね。",
             "enText": "Well, ......! They really do sell a lot of these.",
             "nextBlock": 9,
@@ -207,7 +207,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "絵本にお人形、アクセサリー……。\nふふっ、おもちゃ箱の中にいるみたい。",
             "enText": "Picture books, dolls and accessories ....... \nPhew, it's like being in a toy box.",
             "nextBlock": 10,
@@ -242,7 +242,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "よろしいのですか？\nでは、ぜひ……！",
             "enText": "Are you sure? Then by all means, please visit ......!",
             "nextBlock": 11,
@@ -270,7 +270,7 @@
         },
         {
             "jpName": "アイネスフウジン",
-            "enName": "",
+            "enName": "Ines Fujin",
             "jpText": "オッケー！　ゆっくり見てってね。\n目星つけたら、気軽に声かけてほしいの！",
             "enText": "Ok!　Take your time to look around. If you see something you like, \nfeel free to call me!",
             "nextBlock": 12,
@@ -298,7 +298,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "う～ん。\nどれも素敵で目移りしてしまいますわね。",
             "enText": "Hmmm. They are all so beautiful, I can't stop looking at them.",
             "nextBlock": 13,
@@ -326,7 +326,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "トレーナーさんはいかがです？\nなにか気になる物はありまして？",
             "enText": "How's your trainer? Is there anything you're interested in?",
             "nextBlock": 14,
@@ -358,7 +358,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "あら！　その本、私も拝見しましたわ。\nどのお料理も上品で。",
             "enText": "Oh my!　I saw that book too. All the dishes are so elegant.",
             "nextBlock": 15,
@@ -378,7 +378,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "もしかして、これでお料理を？",
             "enText": "Perhaps you cook with it?",
             "nextBlock": 16,
@@ -405,7 +405,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ええ、お安い御用ですわ！\n私、味にはちょっぴり厳しいですわよ。",
             "enText": "Yes, it's a bargain! I'm a bit strict about taste.",
             "nextBlock": 17,
@@ -425,7 +425,7 @@
         },
         {
             "jpName": "アイネスフウジン",
-            "enName": "",
+            "enName": "Ines Fujin",
             "jpText": "あ！　買うもの決まった？",
             "enText": "Ah!　Have you decided what to buy?",
             "nextBlock": 18,
@@ -453,7 +453,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ええ、素敵な出会いがありました！\nぜひあちらを包んでください。",
             "enText": "Yes, we've had some great encounters! Please wrap up over there.",
             "nextBlock": 19,
@@ -481,7 +481,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ふふっ♪\nフリーマーケット、侮れませんわね！",
             "enText": "Hmmm... Flea markets are not to be underestimated!",
             "nextBlock": -1,
@@ -509,7 +509,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "んな！？\nいったいどこにそんなものが……！？",
             "enText": "What the heck! Where in the world is that ......!",
             "nextBlock": 21,
@@ -529,7 +529,7 @@
         },
         {
             "jpName": "アイネスフウジン",
-            "enName": "",
+            "enName": "Ines Fujin",
             "jpText": "あー！　それ、最後の1枚なの！\n子連れのご家族に大人気で。",
             "enText": "Aah!　That's the last one! It was very \npopular with families with children.",
             "nextBlock": 22,
@@ -557,7 +557,7 @@
         },
         {
             "jpName": "アイネスフウジン",
-            "enName": "",
+            "enName": "Ines Fujin",
             "jpText": "まあ……本人が突然それ持ってきた時は、\nびっくりしたけど……。あははっ……。",
             "enText": "Well, I was surprised when ...... himself suddenly brought it to \nme. ...... Haha .......",
             "nextBlock": 23,
@@ -585,7 +585,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "心労……お察ししますわ。",
             "enText": "I'm sorry for your heartache .......",
             "nextBlock": 24,
@@ -613,7 +613,7 @@
         },
         {
             "jpName": "アイネスフウジン",
-            "enName": "",
+            "enName": "Ines Fujin",
             "jpText": "それで？　これをお買い上げって感じかな？",
             "enText": "And then what?　I guess you're like, \"I'm buying this.",
             "nextBlock": 25,
@@ -641,7 +641,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "……トレーナーさん？　少しよろしいですか？",
             "enText": "...... trainer?　May I have a moment?",
             "nextBlock": 26,
@@ -669,7 +669,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "今一度、考えましょう。\r\nもう1度、よく、じっくりと……。",
             "enText": "Think about it once more. Once more, well and carefully. ......",
             "nextBlock": 27,

@@ -7,7 +7,7 @@
     "text": [
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "レース前まで曇っていた空は、\r\n晴れやかに冴え渡り――",
             "enText": "The sky, which had been cloudy before \nthe race, was clear and bright.",
             "nextBlock": 2,
@@ -17,7 +17,7 @@
         },
         {
             "jpName": "歓声",
-            "enName": "",
+            "enName": "Cheers",
             "jpText": "（ワアアアアアア――……！！）",
             "enText": "(Waaaaaaaa--......!!!)",
             "nextBlock": 3,
@@ -37,7 +37,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "……なんと、圧倒的な光景でしょう。",
             "enText": "...... What an overwhelming sight!",
             "nextBlock": 4,
@@ -57,7 +57,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "おめでとう、マックイーン！！",
             "enText": "Congratulations, McQueen!",
             "nextBlock": 5,
@@ -93,7 +93,7 @@
         },
         {
             "jpName": "メジロドーベル",
-            "enName": "",
+            "enName": "Mejiro Dober",
             "jpText": "すごいよ……ホントよく頑張った！！",
             "enText": "That's awesome ...... You really did a great job!",
             "nextBlock": 6,
@@ -121,7 +121,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "観客の皆さんも……\r\nメジロ家の皆さんも――",
             "enText": "The audience and the ...... Mejillo family--",
             "nextBlock": 7,
@@ -157,7 +157,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "これほど多くの方々が\r\n私の勝利を祝福してくれているなんて……。",
             "enText": "I can't believe so many people have congratulated \nme on my victory. ......",
             "nextBlock": 8,
@@ -189,7 +189,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "……はい。今になってようやく\r\nわかったような気がいたします。",
             "enText": "...... Yes. I think I finally understand now.",
             "nextBlock": 9,
@@ -209,7 +209,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "自分がどのような目標を\r\n掲げていたのか――",
             "enText": "What goals did I set for myself?",
             "nextBlock": 10,
@@ -229,7 +229,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "その目標を達成した先に、\r\nどれほどの喜びがあるのか……。",
             "enText": "How much joy there is in achieving that goal. ......",
             "nextBlock": 11,
@@ -256,7 +256,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "はい…………言葉にできないほど！",
             "enText": "Yes ............ I can't even put it into words!",
             "nextBlock": 12,
@@ -276,7 +276,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "時には迷い、葛藤しました。\r\nですが、諦めないで良かった……！",
             "enText": "I was lost and conflicted at times. But \nI'm glad I didn't give up. ......!",
             "nextBlock": 13,
@@ -296,7 +296,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "メジロ家初の春秋連覇――それを\r\n成し遂げることができたのですから……！！",
             "enText": "The Mejiros were the first family to win back-to-back spring and \nfall championships - and they did it! ......!",
             "nextBlock": -1,

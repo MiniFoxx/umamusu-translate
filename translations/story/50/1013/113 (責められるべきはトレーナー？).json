@@ -17,7 +17,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ふぅっ……。",
             "enText": "Phew. .......",
             "nextBlock": 3,
@@ -37,7 +37,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "これで2着、ですか……。",
             "enText": "Now that's two pieces, right? .......",
             "nextBlock": 4,
@@ -57,7 +57,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "全力を出したつもりですが、\r\nやはり直線での争いになると……。",
             "enText": "I thought I gave it my all, but after all, when it comes to the \nbattle in the straight line, .......",
             "nextBlock": 5,
@@ -107,7 +107,7 @@
         },
         {
             "jpName": "中堅トレーナーA",
-            "enName": "",
+            "enName": "Average Trainer A",
             "jpText": "……なあ彼女、メジロ家の秘蔵っ子だろ？\r\nかなり才能があるって聞いたが――",
             "enText": "...... Hey, she's the Mejiro family's prized possession, right? I \nhear she's quite talented.",
             "nextBlock": 8,
@@ -117,7 +117,7 @@
         },
         {
             "jpName": "中堅トレーナーA",
-            "enName": "",
+            "enName": "Average Trainer A",
             "jpText": "正直、微妙だったよな。反応も悪いし、\r\nレースに対応できてないっていうか……。",
             "enText": "To be honest, it was subtle. It wasn't responsive, it wasn't \nrace-ready, or .......",
             "nextBlock": 9,
@@ -127,7 +127,7 @@
         },
         {
             "jpName": "中堅トレーナーB",
-            "enName": "",
+            "enName": "Average Trainer B",
             "jpText": "ああ、あの子ね。いまだに\r\n基礎トレーニングしかしていないそうよ。",
             "enText": "Oh, that girl. She still only does basic training.",
             "nextBlock": 10,
@@ -137,7 +137,7 @@
         },
         {
             "jpName": "中堅トレーナーA",
-            "enName": "",
+            "enName": "Average Trainer A",
             "jpText": "はあ？　基礎トレーニング？",
             "enText": "Huh?　Basic training?",
             "nextBlock": 11,
@@ -147,7 +147,7 @@
         },
         {
             "jpName": "中堅トレーナーB",
-            "enName": "",
+            "enName": "Average Trainer B",
             "jpText": "レースに対応できてないのは\r\nきっとそのせいでしょう。",
             "enText": "I'm sure that's why he's not ready for the race.",
             "nextBlock": 12,
@@ -157,7 +157,7 @@
         },
         {
             "jpName": "中堅トレーナーA",
-            "enName": "",
+            "enName": "Average Trainer A",
             "jpText": "勝つための実践的なトレーニングは後回し、\r\nねえ……それだけ自信があるってことか？",
             "enText": "Practical training to win is an afterthought, hey ...... that's \nhow confident you are?",
             "nextBlock": 13,
@@ -167,7 +167,7 @@
         },
         {
             "jpName": "中堅トレーナーB",
-            "enName": "",
+            "enName": "Average Trainer B",
             "jpText": "ええ。けれどここでモタモタしてたら来年の\r\nクラシックレースに間に合わなくなる。",
             "enText": "Yes, but if we wait too long, we won't make it to the Classic \nnext year. But if I'm too slow, I won't be able to make it to \nnext year's Classic race.",
             "nextBlock": 14,
@@ -177,7 +177,7 @@
         },
         {
             "jpName": "中堅トレーナーB",
-            "enName": "",
+            "enName": "Average Trainer B",
             "jpText": "私だったらそんなことできないわ。担当の\r\n子たちもクラシックで勝負したいでしょうし。",
             "enText": "I wouldn't be able to do that. The girls in charge would want to \ncompete in the classics.",
             "nextBlock": 15,
@@ -207,7 +207,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "――レーナーさん！",
             "enText": "--Mr.-Ms. Rainer!",
             "nextBlock": 18,
@@ -217,7 +217,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "トレーナーさん、トレーナーさんったら！\r\n……どうしましたの、ぼんやりして。",
             "enText": "Oh, trainer, oh trainer! ...... What's wrong, blah blah blah.",
             "nextBlock": 19,
@@ -249,7 +249,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "そうですか……？",
             "enText": "Is that right ......?",
             "nextBlock": 20,
@@ -269,7 +269,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "…………。",
             "enText": ".............",
             "nextBlock": 21,
@@ -317,7 +317,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "あの、トレーナーさん……\r\nこちらを見ていただけますか？",
             "enText": "Um, trainer, can you take a look at ...... here?",
             "nextBlock": 23,
@@ -357,7 +357,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "私なりに新しいトレーニングメニューを\r\n考えてみたのです。",
             "enText": "I have come up with a new training menu in my own way.",
             "nextBlock": 25,
@@ -377,7 +377,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "長期的な体力作りは重要ですが、\r\nジュニア級で勝つ方法も\n考えた方がいいのかも、と思いまして……。",
             "enText": "Long-term fitness is important, but I was wondering \nif we should also think about how to win at the junior \nlevel. I thought it might be a good idea to think about \nhow to win at the junior level. ......",
             "nextBlock": 26,
@@ -430,7 +430,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "……！　いえ、そういうことでは……！",
             "enText": "I mean ......!　No, that's not what I meant: ......!",
             "nextBlock": 28,
@@ -450,7 +450,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "と、とにかくメニューの件、\r\nご検討よろしくお願いしますわ！",
             "enText": "Anyway, I'd appreciate your thoughts on the menu!",
             "nextBlock": 29,
@@ -480,7 +480,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "…………。",
             "enText": ".............",
             "nextBlock": 31,
@@ -500,7 +500,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "……あれ？\r\nそこにいるの、マックイーン？",
             "enText": "...... Huh? Is that McQueen there?",
             "nextBlock": 32,
@@ -520,7 +520,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "あっ……ライアン……。",
             "enText": "Oh, ...... Ryan .......",
             "nextBlock": 33,
@@ -554,7 +554,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "どうしたの？　浮かない顔して。",
             "enText": "What's wrong?　You look unhappy.",
             "nextBlock": 34,
@@ -582,7 +582,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "そういえば、さっき模擬レースに\r\n出てたみたいだけど……何かあった？",
             "enText": "By the way, I saw that you were in a mock \nrace earlier. ...... anything going on?",
             "nextBlock": 35,
@@ -610,7 +610,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "実は、その……。",
             "enText": "Actually, its .......",
             "nextBlock": 36,
@@ -638,7 +638,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "私のせいで、トレーナーさんが\r\n非難を浴びてしまっているようで――",
             "enText": "I'm afraid my trainer is taking the blame for this.",
             "nextBlock": 37,
@@ -694,7 +694,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "……なるほど。\r\nだからトレーニングメニューの変更を、かあ。",
             "enText": "...... I see. So, a change in training menu, huh?",
             "nextBlock": 39,
@@ -722,7 +722,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "だけどそれって、本当にマックイーンと\r\nトレーナーさんが望んでること？",
             "enText": "But is that really what McQueen and his trainer want?",
             "nextBlock": 40,
@@ -750,7 +750,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "え……？",
             "enText": "え......?",
             "nextBlock": 41,
@@ -778,7 +778,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "『天皇賞』っていう目標に向けて、\r\n一緒に頑張ろうって約束したんでしょ？",
             "enText": "We promised to work together toward the goal of winning the \nTennou-sho, didn't we?",
             "nextBlock": 42,
@@ -806,7 +806,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "なら、その約束を守りたいって\r\n思ってるはずじゃないかな。",
             "enText": "Then I'm sure he wants to keep that promise.",
             "nextBlock": 43,
@@ -834,7 +834,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "マックイーンも、トレーナーさんも。",
             "enText": "McQueen and his trainer.",
             "nextBlock": 44,
@@ -862,7 +862,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "そ、それは……。\r\n…………。",
             "enText": "Well, that's ....... .............",
             "nextBlock": 45,
@@ -955,7 +955,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "――トレーナーさん、\r\n申し訳ございませんでした……っ！",
             "enText": "--Trainer, I'm so sorry ......!",
             "nextBlock": 50,
@@ -975,7 +975,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "やはり昨日の自主トレメニューの件、\r\nなしにしてくださいませ！",
             "enText": "I still ask that you please disregard \nyesterday's voluntary training menu!",
             "nextBlock": 51,
@@ -995,7 +995,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "あれは、その……\r\n本心からのものではなかったので……。",
             "enText": "That was because that ...... was not \nwhat I really wanted to .......",
             "nextBlock": 52,
@@ -1027,7 +1027,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "き……気づかれておりましたのね。",
             "enText": "I see that you have noticed the .......",
             "nextBlock": 53,
@@ -1047,7 +1047,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "本当は今のメニューのままでいいと\r\n思っております。",
             "enText": "In fact, I would like to keep the menu as it is now.",
             "nextBlock": 54,
@@ -1067,7 +1067,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "『天皇賞』を共に目指そうと、\r\nトレーナーさんと約束したんですもの！",
             "enText": "I promised my trainer that we would \naim for the Tennou-sho together!",
             "nextBlock": 55,
@@ -1099,7 +1099,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "はい……！　これからも春の『天皇賞』へ\r\n向けて努力いたします……！",
             "enText": "Yes, ......!　We will continue to work towards the Spring \n\"Tennou-sho\" ......!",
             "nextBlock": 56,

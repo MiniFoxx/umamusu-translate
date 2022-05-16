@@ -7,7 +7,7 @@
     "text": [
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "前回の不甲斐ない走り……。\r\n頭に浮かぶ度、苦い思いをしてきました。",
             "enText": "The last time I had a disappointing run ....... Every time it \ncame to mind, I was bitter.",
             "nextBlock": 2,
@@ -27,7 +27,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "あの日の雪辱を、ここで果たす。\r\n……いえ、果たさなければならないのです。",
             "enText": "We will fulfill the humiliation of that day here. We have to \nfulfill it. ...... No, we have to fulfill it.",
             "nextBlock": 3,
@@ -47,7 +47,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "私は、メジロ家のウマ娘なのだから……！",
             "enText": "I am the horse girl of the Mejiro family. ......!",
             "nextBlock": 4,
@@ -79,7 +79,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ええ！　私の力、覚悟……\r\nすべてをぶつけてきますわ！",
             "enText": "Yes!　I'm going to give it everything I've \ngot, I'm ready ...... to do it!",
             "nextBlock": -1,

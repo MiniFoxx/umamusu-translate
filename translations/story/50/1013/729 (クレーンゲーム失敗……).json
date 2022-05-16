@@ -7,7 +7,7 @@
     "text": [
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "あぁ……。",
             "enText": "Oh, .......",
             "nextBlock": 2,
@@ -43,7 +43,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "……いえ、お気になさらず。\n取れなかったのは残念ですけど……。",
             "enText": "...... No, I hope you don't mind. I'm \nsorry you didn't get it. ......",
             "nextBlock": 3,
@@ -67,7 +67,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "で、でも、トレーナーさんのお気持ちは、\nとても嬉しかったですわ……。",
             "enText": "But, I was very happy to hear your trainer's sentiments. ......",
             "nextBlock": 4,

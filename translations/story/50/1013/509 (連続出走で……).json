@@ -27,7 +27,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ぷるぷるプリンに、\r\nホイップたっぷりケーキ……。",
             "enText": "The pudding is soft and fluffy, and the cake is filled with \nwhipped topping. ......",
             "nextBlock": 3,
@@ -47,7 +47,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "……はぁ。\r\nなぜ……なぜでしょう。",
             "enText": "...... Huh. Why ...... why?",
             "nextBlock": 4,
@@ -67,7 +67,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "大好きなスイーツが食べられるというのに、\r\nまったく食指が……。",
             "enText": "I can eat my favorite sweets, but I \nhave no appetite at all. ......",
             "nextBlock": 5,
@@ -87,7 +87,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "食べ過ぎないことは喜ばしいですが、\r\nなんだか……ショックですわ。",
             "enText": "I'm glad you don't overeat, but I'm kind of ...... shocked.",
             "nextBlock": 6,

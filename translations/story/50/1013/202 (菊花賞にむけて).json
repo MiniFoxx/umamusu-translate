@@ -7,7 +7,7 @@
     "text": [
         {
             "jpName": "観客A",
-            "enName": "",
+            "enName": "Spectator A",
             "jpText": "くぅ～、楽しみだな！　『菊花賞』！",
             "enText": "Darn, I'm looking forward to it!　The Chrysanthemum Prize!",
             "nextBlock": 2,
@@ -17,7 +17,7 @@
         },
         {
             "jpName": "観客B",
-            "enName": "",
+            "enName": "Spectator B",
             "jpText": "しかも今回は、\r\nメジロ家対決もあるんでしょ！？",
             "enText": "And this time, there will be a showdown \nbetween the Mejiro family!",
             "nextBlock": 3,
@@ -27,7 +27,7 @@
         },
         {
             "jpName": "観客A",
-            "enName": "",
+            "enName": "Spectator A",
             "jpText": "ああ！　クラシックでの対決とか\r\nアツすぎるよな！",
             "enText": "Oh, my God!　I'm in love with this classic showdown!",
             "nextBlock": 4,
@@ -37,7 +37,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "すごい盛り上がり……\r\nここからでも聞こえてきますわね。",
             "enText": "Great turnout ...... I can hear it even from here.",
             "nextBlock": 5,
@@ -69,7 +69,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ええ、ウマ娘なら誰もが憧れる\r\n三冠レース――",
             "enText": "Yes, the Triple Crown race that every Uma girl dreams of--",
             "nextBlock": 6,
@@ -89,7 +89,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "それに加えて、私にとっては\r\nライアンとの真剣勝負……。",
             "enText": "In addition to that, for me, I have a serious \ncompetition with Ryan: .......",
             "nextBlock": 7,
@@ -109,7 +109,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "…………。",
             "enText": ".............",
             "nextBlock": 8,
@@ -129,7 +129,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "不思議なものですわね。昔、たった2人で\r\n走っていた頃は観客なんていなかったのに。",
             "enText": "It's a strange thing, isn't it? When I used to run with just the \ntwo of us, there were no spectators.",
             "nextBlock": 9,
@@ -149,7 +149,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "今ではこうして皆さんが\r\n注目してくださっている……。",
             "enText": "Now that you are paying attention to .......",
             "nextBlock": 10,
@@ -169,7 +169,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "きっとメジロ家の皆も\r\n見守ってくださっていることでしょう。",
             "enText": "I am sure that everyone in the Mejiro family is watching over us.",
             "nextBlock": 11,
@@ -196,7 +196,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ええ。情けない姿を\r\nお見せするわけには参りません。",
             "enText": "Yes. I cannot let you see me in such a pathetic state.",
             "nextBlock": 12,
@@ -216,7 +216,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "相手がライアンでも――",
             "enText": "Even with Ryan on the other side--",
             "nextBlock": 13,
@@ -236,7 +236,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "いえ、尊敬するライアンだからこそ、\r\n堂々と勝ってみせますわ！",
             "enText": "No, because I respect Ryan, and I'm \ngoing to win with flying colors!",
             "nextBlock": -1,

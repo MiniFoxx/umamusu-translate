@@ -7,7 +7,7 @@
     "text": [
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "メジロマックイーンは、奮闘するも、\r\nメジロライアンとの勝負に敗れてしまった。",
             "enText": "Mejiro McQueen fought hard, but lost \nthe race against Mejiro Ryan.",
             "nextBlock": 2,
@@ -35,7 +35,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "しかし、このまま俯いてはいられない。\r\n自分を鍛えなおすのだと、気勢を上げる。",
             "enText": "But I can't stay down like this. I must retrain myself,\" he said, \nraising his spirits.",
             "nextBlock": 3,
@@ -63,7 +63,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "メジロライアンは、そんな彼女の背中に\r\n本気で戦ってくれたことへの感謝と、\n次も負けないという決意の言葉を投げかけた。",
             "enText": "Mejiro Ryan thanked her back for fighting so earnestly and \nand his determination not to lose the next race.",
             "nextBlock": 4,
@@ -91,7 +91,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "そして……次なる目標は『天皇賞（春）』。\r\n集大成を見せると意気込む\nメジロマックイーンだった。",
             "enText": "And ...... next target is \"Tennou-sho (Spring)\". He is determined \nto show the culmination of his efforts. Mejiro McQueen, who is \ndetermined to show the culmination of his efforts.",
             "nextBlock": -1,

@@ -7,7 +7,7 @@
     "text": [
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "すみません、店員さん。\r\nそちらの大福豆と、新鮮なミルクを――",
             "enText": "Excuse me, waiter. Daifuku beans from there and fresh milk--",
             "nextBlock": 2,
@@ -27,7 +27,7 @@
         },
         {
             "jpName": "店員",
-            "enName": "",
+            "enName": "Shop Assistant",
             "jpText": "おっ、お嬢ちゃん！　うちの大福豆に\r\n目をつけるなんて、なかなかやるね～！",
             "enText": "Oh, girl!　You've got a good eye for our daifuku beans!",
             "nextBlock": 3,
@@ -47,7 +47,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ええ。こちらで非常に質のいい商品を\r\n取り扱っていると聞きましたので。",
             "enText": "Yes. I heard they have very good quality products here.",
             "nextBlock": 4,
@@ -74,7 +74,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "あら、トレーナーさん！　好物というか……\r\n『おばあ様のお汁粉』のために必要なんです。",
             "enText": "Oh my, my trainer!　I need it for my favorite \nfood or ...... \"Grandma's Soup\".",
             "nextBlock": 5,
@@ -94,7 +94,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "幼い頃、風邪で寝込んだ日に、\r\nよくおばあ様が作ってくれた真っ白なお汁粉。",
             "enText": "When I was a child, my grandmother used to make \npure white oshiruko (soup stock) for me on days \nwhen I was sick in bed with a cold.",
             "nextBlock": 6,
@@ -114,7 +114,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "目を閉じれば思い出せる、優しい温かみ――\r\nあの味を、自分でも再現してみたくて。",
             "enText": "I wanted to recreate the gentle warmth that \nI can remember when I close my eyes.",
             "nextBlock": 7,
@@ -146,7 +146,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "えっ？　ト、トレーナーさんがですか！？",
             "enText": "What?　You are a trainer?",
             "nextBlock": 8,
@@ -166,7 +166,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "構いませんが、その……えっと、うぅん……。",
             "enText": "I don't mind, but that ......, umm, .......",
             "nextBlock": 9,
@@ -193,7 +193,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "い、いえっ！　そんなことはありません。",
             "enText": "No, no, no!　That's not true.",
             "nextBlock": 10,
@@ -213,7 +213,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "メジロ家の味を知ってもらうこの貴重な機会。\r\n腕によりをかけて、ご馳走いたします……！",
             "enText": "This is a rare opportunity for people to get \na taste of the Mejiro family. We will put our \nskills to the test and serve you ......!",
             "nextBlock": 11,
@@ -233,7 +233,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "カフェテリアのキッチンも借りられました。\r\n準備は万全。さあ――",
             "enText": "We were also able to rent the cafeteria kitchen. \nEverything is ready. Let's go--",
             "nextBlock": 12,
@@ -265,7 +265,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "す、少し待ってください！\r\nええっと、確かおばあ様の教えでは――",
             "enText": "Wait a minute! Well, I'm pretty sure my grandmother taught me...",
             "nextBlock": 13,
@@ -289,7 +289,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "そう！　豆！　まずは豆を煮込むんですの！\r\n完璧に思い出しましたわ……！",
             "enText": "Yes!　Beans!　First you have to cook the beans! \nI just remembered perfectly: ......!",
             "nextBlock": 14,
@@ -313,7 +313,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "…………。",
             "enText": ".............",
             "nextBlock": 15,
@@ -333,7 +333,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "……あ、あの。トレーナーさん。\r\n質問なのですが――",
             "enText": "...... Oh, um. Trainer. I have a question--",
             "nextBlock": 16,
@@ -353,7 +353,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "“煮込む”とは……どうすればいいんですの？",
             "enText": "What does \"stew\" mean? ......",
             "nextBlock": 17,
@@ -380,7 +380,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "い、いえっ！　あのですね！\r\nこれは、その……うぅ……！",
             "enText": "No, no, no!　You know what? It's that ...... ugh ......!",
             "nextBlock": 18,
@@ -400,7 +400,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "……はぁ。すみません、白状いたします。\r\n私、料理はまだまだ修行中の身でして――",
             "enText": "...... Huh. Sorry, I must confess. \nI'm still learning how to cook.",
             "nextBlock": 19,
@@ -420,7 +420,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "思い出のあの味を、\r\nうまく再現できる自信がないのです。",
             "enText": "I am not confident that I can successfully \nrecreate that memorable taste.",
             "nextBlock": 20,
@@ -447,7 +447,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "本当ですかっ？　ご馳走すると言った手前、\r\n申し訳ないのですが……お願いいたします！",
             "enText": "Are you sure?　I'm sorry, I know I said \nI'd treat you, but please ......!",
             "nextBlock": 21,
@@ -487,7 +487,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "――なるほど、完璧に理解いたしました。\r\n弱火でコトコト、ですね。お任せください！",
             "enText": "--I see, I understand perfectly. Low heat and slow cooking, \nright? Leave it to me!",
             "nextBlock": 23,
@@ -507,7 +507,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "…………ところで。\r\n弱火というのは一体どのくらいの火力で？",
             "enText": "............ By the way. What exactly is low heat?",
             "nextBlock": 24,
@@ -547,7 +547,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "完成です！　このミルクの芳しい香り……\r\nふふっ、幼い頃の記憶と同じですわ！",
             "enText": "It's done!　The aromatic smell of this milk...... phew, it's just \nlike I remember it from my childhood!",
             "nextBlock": 26,
@@ -579,7 +579,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ふふっ。ええ、もちろん。\r\nおばあ様の味を再現するためですもの。",
             "enText": "Phew. Yes, of course. It's to recreate my grandmother's taste.",
             "nextBlock": 27,
@@ -599,7 +599,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "それに……トレーナーさんの\r\n協力があったからこそ、ですわ。",
             "enText": "Plus, I had the help of my ...... trainer.",
             "nextBlock": 28,
@@ -619,7 +619,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "なので、トレーナーさんからひと口どうぞ。\r\n感謝のしるしです。さ、温かいうちに。",
             "enText": "So please take a bite from your trainer. It's a token of our \nappreciation. Now, while it's still warm.",
             "nextBlock": 29,
@@ -651,7 +651,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "……おばあ様にも、\r\n昔似たようなことを言われましたわ。",
             "enText": "...... My grandmother told me something similar a long time ago.",
             "nextBlock": 30,
@@ -671,7 +671,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "『一緒に食べてたら風邪も平気でしょう』と。\r\n実際、その時は病気の辛さを忘れられました。",
             "enText": "If we ate together, we wouldn't have to worry \nabout catching a cold. In fact, I was able to \nforget the pain of my illness at that time.",
             "nextBlock": 31,
@@ -691,7 +691,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "苦しい病気が楽しい出来事になってしまう――\r\nそれもふまえて、思い出の味なんです。",
             "enText": "A painful illness becomes a pleasant event - it's a taste of \nmemories, in addition to that.",
             "nextBlock": 32,
@@ -718,7 +718,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ええ、今度はトレーナーさんと一緒に。\r\nそれでは――いただきます！",
             "enText": "Yes, this time with the trainer. Well then -- Bon appétit!",
             "nextBlock": 33,
@@ -758,7 +758,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "そんなに一気に！\r\nくれぐれも、火傷には気をつけてくださいね。",
             "enText": "That much at once! Please be careful not to burn yourself.",
             "nextBlock": 35,
@@ -785,7 +785,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "まあ、本当ですか？　……ふふ、よかった。\r\n不慣れなお料理でしたが、ひと安心です。",
             "enText": "Well, really?　...... Hmmm, I'm glad. I was unfamiliar with the \ndish, but it's a relief.",
             "nextBlock": 36,
@@ -805,7 +805,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "……この味に、\r\n貴方との新しい思い出が増えたのですから。",
             "enText": "...... I have new memories of you in this taste.",
             "nextBlock": 37,

@@ -27,7 +27,7 @@
         },
         {
             "jpName": "？？？",
-            "enName": "",
+            "enName": "???",
             "jpText": "あっ、はいはーい！　お客さ……じゃない、\r\n生徒さんね！",
             "enText": "Oh, yes, yes, yes!　You're not a customer \n......, you're a student!",
             "nextBlock": 3,
@@ -47,7 +47,7 @@
         },
         {
             "jpName": "？？？",
-            "enName": "",
+            "enName": "???",
             "jpText": "ケガ？　病気？　それともメンタルケア？\r\nま、ぜーんぶドドンと任せちゃってよ！",
             "enText": "Injury?　Illness?　Or mental care? Leave it all to us!",
             "nextBlock": 4,
@@ -94,7 +94,7 @@
         },
         {
             "jpName": "？？？",
-            "enName": "",
+            "enName": "???",
             "jpText": "え？　そりゃー保健室にいるんだから……\r\nちょっぴりファンタスティックな保健の先生？\n的な？",
             "enText": "What?　Well, you're in the infirmary. ...... A little fantastic \ninfirmary teacher? Sort of?",
             "nextBlock": 5,
@@ -141,7 +141,7 @@
         },
         {
             "jpName": "？？？",
-            "enName": "",
+            "enName": "???",
             "jpText": "あっはっは、さすがに騙されないか。\r\nやっぱ普通に名乗る感じでいくわね。",
             "enText": "Haha, you're not fooling me, are you? I'm going to go with a \nnormal name, after all.",
             "nextBlock": 6,
@@ -177,7 +177,7 @@
         },
         {
             "jpName": "？？？",
-            "enName": "",
+            "enName": "???",
             "jpText": "ぉほん！　何を隠そう、このあたしこそ――",
             "enText": "Oh-ho!　I'm the one who's hiding something.",
             "nextBlock": 7,
@@ -213,7 +213,7 @@
         },
         {
             "jpName": "？？？",
-            "enName": "",
+            "enName": "???",
             "jpText": "数多のウマ娘を（たぶん）導く救世主！\r\n奇跡の腕を持つ（自称）伝説的笹針師！",
             "enText": "The savior who (supposedly) guides numerous Uma Musume! A \n(self-proclaimed) legendary sasa-needler with miraculous skills!",
             "nextBlock": 8,
@@ -249,7 +249,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "その名も、『安心沢　刺々美』よっ！！\r\nワォ、あんし～ん☆",
             "enText": "The name is \"Anshizawa Stinging Beauty\"! Wow, Anshin~n☆!",
             "nextBlock": 9,
@@ -302,7 +302,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "……説得力が皆無、ですわね。",
             "enText": "......Not all that persuasive, I'm afraid.",
             "nextBlock": 10,
@@ -342,7 +342,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "ワォ、あんし～んしてなさそ～う☆",
             "enText": "Wow, you don't look so anxious.",
             "nextBlock": 11,
@@ -382,7 +382,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "まあまあまあまあ、とりあえずね。\r\n自己紹介も済んだし、ブスッといっとく？",
             "enText": "Well, well, well, well, anyway. Now that we've introduced \nourselves, let's just get it out of the way, shall we?",
             "nextBlock": 12,
@@ -422,7 +422,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "んな！？\r\n話の流れがおかしいのではなくて！？",
             "enText": "Nah! It's not that there's something wrong with the story!",
             "nextBlock": 13,
@@ -466,7 +466,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "あっはっは！　怖がらなくていいのよ？\r\n秘伝の笹針でちょっと秘孔的なのを突くだけ。",
             "enText": "Ha-ha-ha!　Don't be afraid, okay? Just a little secret poke with \nthe secret bamboo needle.",
             "nextBlock": 14,
@@ -510,7 +510,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "そしたらもー、メキメキと……モリモリと……\r\nとにかくすんんんごいことになるんだから！",
             "enText": "Then, you'll be ...... all over the place anyway!",
             "nextBlock": 15,
@@ -553,7 +553,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "あ！　言っとくけど怪しくないわよ！\r\n失敗したことなんか1度もないんだから！",
             "enText": "Ah!　Just for the record, I'm not suspicious! \nI've never failed at anything!",
             "nextBlock": 16,
@@ -589,7 +589,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "……師匠は。",
             "enText": "...... Master is.",
             "nextBlock": 17,
@@ -636,7 +636,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "まーまーあたしだってこれが初仕事なんだし\r\n広義じゃ失敗したことないわよ！",
             "enText": "Well, well, well, this is my first job, too, and I've never \nfailed in the broadest sense of the word!",
             "nextBlock": 18,
@@ -676,7 +676,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "伝説の師匠の元で10年もの間お茶くみ……\r\nじゃない、修行した経験もあるんだから。",
             "enText": "I'm not a tea drinker ...... for 10 years under a legendary \nmaster, I've been trained by him.",
             "nextBlock": 19,
@@ -716,7 +716,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "ワォ、あんし～ん☆",
             "enText": "Wow, Anshin~!",
             "nextBlock": 20,
@@ -799,7 +799,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "ま、待って待って待って、待ってってば！！",
             "enText": "Well, wait, wait, wait, wait!",
             "nextBlock": 22,
@@ -839,7 +839,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "あなたメジロマックイーンちゃんでしょっ！？\r\nメジロ家の悲願達成を志す、\n気高き名家のウマ娘っ！！",
             "enText": "You're the Mejiro McQueen, aren't you? You are \nthe noble horse girl of the Mejiro family! The \nnoble horse girl of the famous family!",
             "nextBlock": 23,
@@ -886,7 +886,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "そりゃ知ってるわよ！　見たもの！！\r\nファンだものっ！！",
             "enText": "Of course I know!　I've seen it! I'm a fan!",
             "nextBlock": 24,
@@ -926,7 +926,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "あたし、あなたたちを応援しに来たの！\r\n手助けしに来たのよ、これでもっ！！",
             "enText": "I'm here to cheer you on! I'm here to help you, with this!",
             "nextBlock": 25,
@@ -966,7 +966,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "だからお願いぃ～～～！！\r\nあたしにチャンスをちょうだいよぉ～！！",
             "enText": "So please~~! Please give me a chance~~!",
             "nextBlock": 26,
@@ -1006,7 +1006,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "不審者の常套句ですわね……伊達に\r\nゴールドシップさんの相手をしてませんわよ。",
             "enText": "That's a common phrase for suspicious people. ...... I'm not \ndealing with Mr. Goldship.",
             "nextBlock": 27,
@@ -1046,7 +1046,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "お願いお願いお願いっ！\r\n秘孔の場所も選ばせてあげるから！",
             "enText": "Please, please, please, please! I'll even \nlet you choose where the secret hole is!",
             "nextBlock": 28,
@@ -1086,7 +1086,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "ぜ～ったい失敗しないからぁ～！！",
             "enText": "I never fail!",
             "nextBlock": 29,
@@ -1126,7 +1126,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "……多分。",
             "enText": "...... more points.",
             "nextBlock": 30,
@@ -1169,7 +1169,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "あーいや多分に程近い絶対？　みたいな？\r\n……まあ細かいことはいいのよ！",
             "enText": "Uh, no, maybe close to absolutely?　Like what? ...... Well, the \ndetails don't matter!",
             "nextBlock": 31,
@@ -1205,7 +1205,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "それよりどんな秘孔を狙っちゃう！？\r\n能力アップに健康度アップ……\n魅力アップな～んてのもあるわよ！！",
             "enText": "What secret hole would you go for more than that! Increased \nability and health: ...... And there's even a charm boost!",
             "nextBlock": 32,
@@ -1352,7 +1352,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "ほむほむ、\r\n『強いウマ娘になれる秘孔』ね！",
             "enText": "Hom-hom-hom, the \"secret to becoming a strong horse girl\"!",
             "nextBlock": 35,
@@ -1392,7 +1392,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "じゃあブスッといくわよ？　いいのね？\r\n……本ッッッッッッッ当に、いいのね？",
             "enText": "Then I'm gonna go ugly, okay?　Are you sure? ...... are you sure \nyou want to do this?",
             "nextBlock": 36,
@@ -1444,7 +1444,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "おっけーおっけー任しといて！\r\n出でよ笹針！　見つかれ秘孔！",
             "enText": "I got it, I got it, I got it, I got it, I got it! Come on out, \nSasahari!　Find the secret hole!",
             "nextBlock": 37,
@@ -1476,7 +1476,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "さあ力を抜いて～……ワォ、あんし～ん☆",
             "enText": "Now relax~...... Wow, Anshin*!",
             "nextBlock": 38,
@@ -1504,7 +1504,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "ブスッとな！！",
             "enText": "Busuuuut!!!!!!!!",
             "nextBlock": 39,
@@ -1514,7 +1514,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "はうっ……！？",
             "enText": "Hah ......!",
             "nextBlock": 40,
@@ -1602,7 +1602,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "こ、これは！？",
             "enText": "This is it!",
             "nextBlock": 42,
@@ -1646,7 +1646,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "全身に、力が湧き上がってきます！\r\n本懐を遂げろと言わんばかりに……！",
             "enText": "My whole body, I feel a surge of power! I'm telling you to get to \nyour true heart's content. ......!",
             "nextBlock": 43,
@@ -1690,7 +1690,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "……えっ、成功？　マジ！？　え！？",
             "enText": "...... What, success?　Seriously!　Eh!",
             "nextBlock": 44,
@@ -1730,7 +1730,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "うっそ～～～！！\r\nあたし、どうやったんだろ～！？！？\n天才～～～～！！",
             "enText": "Oh my gosh~!!!! I don't know how I did that~! Genius ～～～～!!!!",
             "nextBlock": 45,
@@ -1842,7 +1842,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ト、トレーナーさん……。",
             "enText": "T, trainer. .......",
             "nextBlock": 48,
@@ -1882,7 +1882,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "うぅっ……ダメ……目が回って……\r\n脚に、力が……入らない、ですわ……。",
             "enText": "Ugh,...... no,...... my eyes are rolling,...... my legs,...... I \ncan't get any strength,...... I can't get any strength,......",
             "nextBlock": 49,
@@ -1958,7 +1958,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "あ～……まあ、その……ね？",
             "enText": "Oh, ...... well, that ......, right?",
             "nextBlock": 51,
@@ -1994,7 +1994,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "……ワォ、さようなら～☆",
             "enText": "...... Wow, goodbye~☆☆",
             "nextBlock": 52,
@@ -2050,7 +2050,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "ほむほむ、\r\n『レースで勝てる秘孔を狙う』ね！",
             "enText": "Hom-hom-hom, \"Aiming for the race-winning pothole\"!",
             "nextBlock": 54,
@@ -2090,7 +2090,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "じゃあブスッといくわよ？　いいのね？\r\n……本ッッッッッッッ当に、いいのね？",
             "enText": "Then I'm gonna go ugly, okay?　Are you sure? ...... are you sure \nyou want to do this?",
             "nextBlock": 55,
@@ -2142,7 +2142,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "おっけーおっけー任しといて！\r\n出でよ笹針！　見つかれ秘孔！",
             "enText": "I got it, I got it, I got it, I got it, I got it! Come on out, \nSasahari!　Find the secret hole!",
             "nextBlock": 56,
@@ -2174,7 +2174,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "さあ力を抜いて～……ワォ、あんし～ん☆",
             "enText": "Now relax~...... Wow, Anshin*!",
             "nextBlock": 57,
@@ -2202,7 +2202,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "ブスッとな！！",
             "enText": "Busuuuut!!!!!!!!",
             "nextBlock": 58,
@@ -2212,7 +2212,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "はうっ……！？",
             "enText": "Hah ......!",
             "nextBlock": 59,
@@ -2300,7 +2300,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "こ、これは！？",
             "enText": "This is it!",
             "nextBlock": 61,
@@ -2344,7 +2344,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "全身に、力が湧き上がってきます！\r\n本懐を遂げろと言わんばかりに……！",
             "enText": "My whole body, I feel a surge of power! I'm telling you to get to \nyour true heart's content. ......!",
             "nextBlock": 62,
@@ -2388,7 +2388,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "……えっ、成功？　マジ！？　え！？",
             "enText": "...... What, success?　Seriously!　Eh!",
             "nextBlock": 63,
@@ -2428,7 +2428,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "うっそ～～～！！\r\nあたし、どうやったんだろ～！？！？\n天才～～～～！！",
             "enText": "Oh my gosh~!!!! I don't know how I did that~! Genius ～～～～!!!!",
             "nextBlock": 64,
@@ -2540,7 +2540,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ト、トレーナーさん……。",
             "enText": "T, trainer. .......",
             "nextBlock": 67,
@@ -2580,7 +2580,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "うぅっ……ダメ……目が回って……\r\n脚に、力が……入らない、ですわ……。",
             "enText": "Ugh,...... no,...... my eyes are rolling,...... my legs,...... I \ncan't get any strength,...... I can't get any strength,......",
             "nextBlock": 68,
@@ -2656,7 +2656,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "あ～……まあ、その……ね？",
             "enText": "Oh, ...... well, that ......, right?",
             "nextBlock": 70,
@@ -2692,7 +2692,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "……ワォ、さようなら～☆",
             "enText": "...... Wow, goodbye~☆☆",
             "nextBlock": 71,
@@ -2748,7 +2748,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "ほむほむ、\r\n『元気で健康になれる秘孔を狙う』ね！",
             "enText": "Hom-hom-hom, \"Aiming for the Secret \nPit of Good Health and Vitality\"!",
             "nextBlock": 73,
@@ -2788,7 +2788,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "じゃあブスッといくわよ？　いいのね？\r\n……本ッッッッッッッ当に、いいのね？",
             "enText": "Then I'm gonna go ugly, okay?　Are you sure? ...... are you sure \nyou want to do this?",
             "nextBlock": 74,
@@ -2840,7 +2840,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "おっけーおっけー任しといて！\r\n出でよ笹針！　見つかれ秘孔！",
             "enText": "I got it, I got it, I got it, I got it, I got it! Come on out, \nSasahari!　Find the secret hole!",
             "nextBlock": 75,
@@ -2872,7 +2872,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "さあ力を抜いて～……ワォ、あんし～ん☆",
             "enText": "Now relax~...... Wow, Anshin*!",
             "nextBlock": 76,
@@ -2900,7 +2900,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "ブスッとな！！",
             "enText": "Busuuuut!!!!!!!!",
             "nextBlock": 77,
@@ -2910,7 +2910,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "はうっ……！？",
             "enText": "Hah ......!",
             "nextBlock": 78,
@@ -2998,7 +2998,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "こ、これは！？",
             "enText": "This is it!",
             "nextBlock": 80,
@@ -3042,7 +3042,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "全身に、力が湧き上がってきます！\r\n本懐を遂げろと言わんばかりに……！",
             "enText": "My whole body, I feel a surge of power! I'm telling you to get to \nyour true heart's content. ......!",
             "nextBlock": 81,
@@ -3086,7 +3086,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "……えっ、成功？　マジ！？　え！？",
             "enText": "...... What, success?　Seriously!　Eh!",
             "nextBlock": 82,
@@ -3126,7 +3126,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "うっそ～～～！！\r\nあたし、どうやったんだろ～！？！？\n天才～～～～！！",
             "enText": "Oh my gosh~!!!! I don't know how I did that~! Genius ～～～～!!!!",
             "nextBlock": 83,
@@ -3238,7 +3238,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ト、トレーナーさん……。",
             "enText": "T, trainer. .......",
             "nextBlock": 86,
@@ -3278,7 +3278,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "うぅっ……ダメ……目が回って……\r\n脚に、力が……入らない、ですわ……。",
             "enText": "Ugh,...... no,...... my eyes are rolling,...... my legs,...... I \ncan't get any strength,...... I can't get any strength,......",
             "nextBlock": 87,
@@ -3354,7 +3354,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "あ～……まあ、その……ね？",
             "enText": "Oh, ...... well, that ......, right?",
             "nextBlock": 89,
@@ -3390,7 +3390,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "……ワォ、さようなら～☆",
             "enText": "...... Wow, goodbye~☆☆",
             "nextBlock": 90,
@@ -3446,7 +3446,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "ほむほむ、\r\n『魅力アップの秘孔を狙う』ね！",
             "enText": "Hom-hom-hom, \"Aiming for the Secret Pit of Charm!\"",
             "nextBlock": 92,
@@ -3486,7 +3486,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "じゃあブスッといくわよ？　いいのね？\r\n……本ッッッッッッッ当に、いいのね？",
             "enText": "Then I'm gonna go ugly, okay?　Are you sure? ...... are you sure \nyou want to do this?",
             "nextBlock": 93,
@@ -3538,7 +3538,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "おっけーおっけー任しといて！\r\n出でよ笹針！　見つかれ秘孔！",
             "enText": "I got it, I got it, I got it, I got it, I got it! Come on out, \nSasahari!　Find the secret hole!",
             "nextBlock": 94,
@@ -3570,7 +3570,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "さあ力を抜いて～……ワォ、あんし～ん☆",
             "enText": "Now relax~...... Wow, Anshin*!",
             "nextBlock": 95,
@@ -3598,7 +3598,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "ブスッとな！！",
             "enText": "Busuuuut!!!!!!!!",
             "nextBlock": 96,
@@ -3608,7 +3608,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "はうっ……！？",
             "enText": "Hah ......!",
             "nextBlock": 97,
@@ -3696,7 +3696,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "こ、これは！？",
             "enText": "This is it!",
             "nextBlock": 99,
@@ -3740,7 +3740,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "全身に、力が湧き上がってきます！\r\n本懐を遂げろと言わんばかりに……！",
             "enText": "My whole body, I feel a surge of power! I'm telling you to get to \nyour true heart's content. ......!",
             "nextBlock": 100,
@@ -3784,7 +3784,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "……えっ、成功？　マジ！？　え！？",
             "enText": "...... What, success?　Seriously!　Eh!",
             "nextBlock": 101,
@@ -3824,7 +3824,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "うっそ～～～！！\r\nあたし、どうやったんだろ～！？！？\n天才～～～～！！",
             "enText": "Oh my gosh~!!!! I don't know how I did that~! Genius ～～～～!!!!",
             "nextBlock": 102,
@@ -3936,7 +3936,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ト、トレーナーさん……。",
             "enText": "T, trainer. .......",
             "nextBlock": 105,
@@ -3976,7 +3976,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "うぅっ……ダメ……目が回って……\r\n脚に、力が……入らない、ですわ……。",
             "enText": "Ugh,...... no,...... my eyes are rolling,...... my legs,...... I \ncan't get any strength,...... I can't get any strength,......",
             "nextBlock": 106,
@@ -4052,7 +4052,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "あ～……まあ、その……ね？",
             "enText": "Oh, ...... well, that ......, right?",
             "nextBlock": 108,
@@ -4088,7 +4088,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "……ワォ、さようなら～☆",
             "enText": "...... Wow, goodbye~☆☆",
             "nextBlock": 109,
@@ -4144,7 +4144,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "ええ！？　そ、そう言わずに～……。",
             "enText": "Yeah!　Don't say that ~ .......",
             "nextBlock": 111,
@@ -4196,7 +4196,7 @@
         },
         {
             "jpName": "駿川たづな",
-            "enName": "",
+            "enName": "Hayakawa Tazuna",
             "jpText": "――こらっ、あなた！\r\n学園に不法侵入しましたねっ！？",
             "enText": "--Hey, you! You're trespassing on campus!",
             "nextBlock": 112,
@@ -4244,7 +4244,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "ぎゃはー！？　やば、見つかった！",
             "enText": "Oh no!　Oh no, they found me!",
             "nextBlock": 113,
@@ -4284,7 +4284,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "……ワォ、退散～☆",
             "enText": "...... Wow, I'm out!",
             "nextBlock": 114,
@@ -4324,7 +4324,7 @@
         },
         {
             "jpName": "駿川たづな",
-            "enName": "",
+            "enName": "Hayakawa Tazuna",
             "jpText": "あ！？　ま、待ちなさぁーいっ！！",
             "enText": "Ah!　Wait for me!",
             "nextBlock": 115,
@@ -4344,7 +4344,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "いろいろと、危なかったですわね……。",
             "enText": "In many ways, it was a close call. ......",
             "nextBlock": 116,
@@ -4364,7 +4364,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "宿志は、己の力で叶えてこそ意味がある。\r\n……ですわよね、トレーナーさん。",
             "enText": "The lodge aspiration is meaningful only if you make it come true \non your own. It's ......, isn't it, trainer?",
             "nextBlock": 117,
@@ -4416,7 +4416,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "ありゃま、間違えちゃった？\r\nまーあるある、あるわよねーそういうの！",
             "enText": "Oh no, did I make a mistake? Yes, I know, I know, I know, I know!",
             "nextBlock": 119,
@@ -4456,7 +4456,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "じゃ、もう1回教えてちょーだいな。\r\nどの秘孔狙っちゃう！？",
             "enText": "So, tell me one more time. Which secret hole are you going for?",
             "nextBlock": 33,
@@ -4496,7 +4496,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "焦らすわね～！？\r\nいやでも待って、こんな時間かけてると――",
             "enText": "I'm going to rush you~! No, but wait, if you take this long--",
             "nextBlock": 121,
@@ -4536,7 +4536,7 @@
         },
         {
             "jpName": "駿川たづな",
-            "enName": "",
+            "enName": "Hayakawa Tazuna",
             "jpText": "――こらっ、あなた！\r\n学園に不法侵入しましたねっ！？",
             "enText": "--Hey, you! You're trespassing on campus!",
             "nextBlock": 122,
@@ -4584,7 +4584,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "ぎゃはー！？　やば、見つかった！",
             "enText": "Oh no!　Oh no, they found me!",
             "nextBlock": 123,
@@ -4624,7 +4624,7 @@
         },
         {
             "jpName": "安心沢刺々美",
-            "enName": "",
+            "enName": "Anshinzawa Sasami",
             "jpText": "……ワォ、退散～☆",
             "enText": "...... Wow, I'm out!",
             "nextBlock": 124,
@@ -4664,7 +4664,7 @@
         },
         {
             "jpName": "駿川たづな",
-            "enName": "",
+            "enName": "Hayakawa Tazuna",
             "jpText": "あ！？　ま、待ちなさぁーいっ！！",
             "enText": "Ah!　Wait for me!",
             "nextBlock": 125,

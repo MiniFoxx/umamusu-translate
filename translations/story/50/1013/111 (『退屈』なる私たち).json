@@ -7,7 +7,7 @@
     "text": [
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ふふっ、トレーナーさんがご褒美に\r\nスイーツをご馳走してくださるなんて♪",
             "enText": "I can't believe my trainer is treating \nme to sweets as a reward...",
             "nextBlock": 2,
@@ -27,7 +27,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "さあ、限定品なのですから\r\nなくならないうちに行かなくては！",
             "enText": "Come on, it's a limited edition, you've \ngot to go before it's gone!",
             "nextBlock": 3,
@@ -107,7 +107,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "それでは『イチゴたっぷりの\r\nアフタヌーンティーセット』を2つ！",
             "enText": "Now for two \"Strawberry-filled Afternoon Tea Sets\"!",
             "nextBlock": 7,
@@ -127,7 +127,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "写真で見た通りなら、3段いっぱいに\r\n色とりどりのスイーツが……！",
             "enText": "If it's anything like the picture, it's three tiers full of \ncolorful sweets: ......!",
             "nextBlock": 8,
@@ -147,7 +147,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ふふっ、想像しただけで\r\n楽しみですわ♪",
             "enText": "I'm looking forward to it just by imagining it.",
             "nextBlock": 9,
@@ -179,7 +179,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "うっ……それ、今おっしゃいますの？",
             "enText": "Ugh ...... are you saying that now?",
             "nextBlock": 10,
@@ -199,7 +199,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "せっかく緊張から解き放たれて\r\nリラックスしている時ですのに……。",
             "enText": "You are relaxing and free from tension. ......",
             "nextBlock": 11,
@@ -219,7 +219,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "けれど、思えばトレーナーさんとの\r\n出会いもスイーツがきっかけでしたわね。",
             "enText": "But thinking back, it was also through \nsweets that I met my trainer.",
             "nextBlock": 12,
@@ -243,7 +243,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "おかげさまで私はスイーツもレースも諦めず\r\n目標を達成できたわけですし。",
             "enText": "Thanks to you, I didn't give up on sweets and racing, and I was \nable to achieve my goal.",
             "nextBlock": 13,
@@ -279,7 +279,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "全くもう、調子がいいですこと。",
             "enText": "I'm in great shape.",
             "nextBlock": 14,
@@ -299,7 +299,7 @@
         },
         {
             "jpName": "男性客",
-            "enName": "",
+            "enName": "Male Customer",
             "jpText": "――あっ、始まった！\r\n『今をときめくウマ娘』特集！",
             "enText": "--Oh, it's started! The \"Uma Musume of the Moment\" special!",
             "nextBlock": 15,
@@ -319,7 +319,7 @@
         },
         {
             "jpName": "女性客",
-            "enName": "",
+            "enName": "Female Customer",
             "jpText": "アンタそれ好きだよねー。\r\nいつもチェックしてるじゃん。",
             "enText": "You like that, don't you? You're always checking it out.",
             "nextBlock": 16,
@@ -329,7 +329,7 @@
         },
         {
             "jpName": "男性客",
-            "enName": "",
+            "enName": "Male Customer",
             "jpText": "今マジアツいんだって！\r\nこないだだってさ、秋の『天皇賞』で――",
             "enText": "He says he's having a hard time right now! The other day, in the \nautumn Tennou-sho...",
             "nextBlock": 17,
@@ -339,7 +339,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "まあ……秋の『天皇賞』？",
             "enText": "Well, ...... fall \"Emperor's Award\"?",
             "nextBlock": 18,
@@ -359,7 +359,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "番組の配信でも\r\nやっているのでしょうか。",
             "enText": "Are they distributing programs?",
             "nextBlock": 19,
@@ -399,7 +399,7 @@
         },
         {
             "jpName": "インタビュアー",
-            "enName": "",
+            "enName": "Interviewer",
             "jpText": "マックイーンさん、こんにちは！",
             "enText": "Hello, Mr. McQueen!",
             "nextBlock": 21,
@@ -419,7 +419,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "あら、ご機嫌よう。\r\nそういえば取材の日でしたわね。",
             "enText": "Oh, how are you? Oh, by the way, it's the day of the interview.",
             "nextBlock": 22,
@@ -439,7 +439,7 @@
         },
         {
             "jpName": "インタビュアー",
-            "enName": "",
+            "enName": "Interviewer",
             "jpText": "いくつか質問があるのですが、\r\nお答えいただけますか？",
             "enText": "I have a couple of questions that I was \nwondering if you could answer for me.",
             "nextBlock": 23,
@@ -459,7 +459,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ええ、構いません。\r\nなんなりとお聞きくださいませ。",
             "enText": "Yes, that's fine. Please feel free to ask me anything.",
             "nextBlock": 24,
@@ -479,7 +479,7 @@
         },
         {
             "jpName": "インタビュアー",
-            "enName": "",
+            "enName": "Interviewer",
             "jpText": "まずは春と秋の『天皇賞』連覇、\r\nおめでとうございます。",
             "enText": "First of all, congratulations on winning \nboth the Spring and Autumn Tennou-sho.",
             "nextBlock": 25,
@@ -499,7 +499,7 @@
         },
         {
             "jpName": "インタビュアー",
-            "enName": "",
+            "enName": "Interviewer",
             "jpText": "ここからひと息つくところだと思いますが、\r\nまずは何をされたいですか？",
             "enText": "I think we're about to take a breather here.",
             "nextBlock": 26,
@@ -519,7 +519,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "そうですわね。まずはスイーツを\r\n心ゆくまで――……はっ！！",
             "enText": "Yes, you're right. First, sweets to \nyour heart's content--...... ha!",
             "nextBlock": 27,
@@ -539,7 +539,7 @@
         },
         {
             "jpName": "インタビュアー",
-            "enName": "",
+            "enName": "Interviewer",
             "jpText": "え、スイーツ？",
             "enText": "What, Sweets?",
             "nextBlock": 28,
@@ -559,7 +559,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ち、違います！　違いますわ！\r\nええと……トレーニングですわ！",
             "enText": "No, sir!　No, sir! It's, uh, ...... training!",
             "nextBlock": 29,
@@ -579,7 +579,7 @@
         },
         {
             "jpName": "インタビュアー",
-            "enName": "",
+            "enName": "Interviewer",
             "jpText": "おおっ！　トレーニングですか！",
             "enText": "Oh!　Training!",
             "nextBlock": 30,
@@ -599,7 +599,7 @@
         },
         {
             "jpName": "インタビュアー",
-            "enName": "",
+            "enName": "Interviewer",
             "jpText": "目標を達成してもまだ高みを目指し続ける\r\nなんて、さすがマックイーンさん！",
             "enText": "You've achieved your goal, but you still keep aiming higher!",
             "nextBlock": 31,
@@ -619,7 +619,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "あ、いえ……！\r\nごめんなさい、今のはつい――",
             "enText": "Oh, no, ......! Sorry, that was just--",
             "nextBlock": 32,
@@ -639,7 +639,7 @@
         },
         {
             "jpName": "インタビュアー",
-            "enName": "",
+            "enName": "Interviewer",
             "jpText": "トゥインクル・シリーズを終えたとはいえ、\r\nまだまだ目が離せません！",
             "enText": "Even though we've wrapped up the Twinkle Series, we're still \nkeeping our eyes peeled for more!",
             "nextBlock": 33,
@@ -659,7 +659,7 @@
         },
         {
             "jpName": "インタビュアー",
-            "enName": "",
+            "enName": "Interviewer",
             "jpText": "今後も彼女のご活躍に\r\n注目していきましょう！",
             "enText": "Let's keep an eye on her for more to come!",
             "nextBlock": 34,
@@ -679,7 +679,7 @@
         },
         {
             "jpName": "男性客",
-            "enName": "",
+            "enName": "Male Customer",
             "jpText": "やっべー……すげえよマックイーン！\r\nまだまだ上に行くってよ！",
             "enText": "Yay ...... awesome McQueen! He's still going up!",
             "nextBlock": 35,
@@ -699,7 +699,7 @@
         },
         {
             "jpName": "女性客",
-            "enName": "",
+            "enName": "Female Customer",
             "jpText": "え、ホント！？\r\nちょっと私にも見せて！",
             "enText": "Oh, really! Let me have a look!",
             "nextBlock": 36,
@@ -709,7 +709,7 @@
         },
         {
             "jpName": "男性客",
-            "enName": "",
+            "enName": "Male Customer",
             "jpText": "けど、これ以上強くなってどうすんだ～？\r\nさすがに退屈になってくるぜ。",
             "enText": "But what are you going to do when it gets any stronger~? It's \ngetting tedious indeed.",
             "nextBlock": 37,
@@ -719,7 +719,7 @@
         },
         {
             "jpName": "女性客",
-            "enName": "",
+            "enName": "Female Customer",
             "jpText": "あはは、確かに。どんなレースでも\r\n絶対勝っちゃうもんね。",
             "enText": "Haha, indeed. I would definitely win any race.",
             "nextBlock": 38,
@@ -729,7 +729,7 @@
         },
         {
             "jpName": "女性客",
-            "enName": "",
+            "enName": "Female Customer",
             "jpText": "でも、退屈になっちゃうくらい強いなんて\r\nちょっとカッコイイなあ～。",
             "enText": "But it's kinda cool that you're strong enough to get bored!",
             "nextBlock": 39,
@@ -739,7 +739,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "なっ――あの時の映像ではありませんか！\r\n恥ずかしい……！",
             "enText": "Nah--isn't that the footage from that time! Shame on you ......!",
             "nextBlock": 40,
@@ -759,7 +759,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "……それにしても、\r\n『退屈なくらい強い』、ですか。",
             "enText": "...... But still, \"boringly strong\"?",
             "nextBlock": 41,
@@ -791,7 +791,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "……ええ。絶対に勝つと思われていなければ、\r\n言われることのない表現ですわね。",
             "enText": "......Yes. It's an expression that wouldn't be uttered if people \ndidn't think they were going to win.",
             "nextBlock": 42,
@@ -811,7 +811,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "あ、ですが……それでしたら\r\nトレーナーさんもまた『退屈』\nということになるのでは？",
             "enText": "Oh, but ...... then wouldn't that also mean \nthat the trainer is also 'bored'?",
             "nextBlock": 43,
@@ -831,7 +831,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "だって貴方は、『退屈』な私の\r\nトレーナーさんなのでしょう？",
             "enText": "Because you are my trainer, right?",
             "nextBlock": 44,
@@ -858,7 +858,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ふふっ、そうやってすぐに\r\n調子に乗ってしまうんですから。",
             "enText": "Hmmm...you get carried away so easily.",
             "nextBlock": 45,
@@ -878,7 +878,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "でも、いいですわね、その響き。",
             "enText": "But it's nice, the way it sounds.",
             "nextBlock": 46,
@@ -898,7 +898,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "『退屈なくらい最強な相棒』……！\r\nふふっ！",
             "enText": "The Most Boringly Powerful Sidekick Ever: ......! Phew!",
             "nextBlock": -1,

@@ -17,7 +17,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "メガホンの準備も万全！　……いざ、球場へ！",
             "enText": "Megaphones at the ready!　...... Now, off to the ballpark!",
             "nextBlock": 3,
@@ -44,7 +44,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ひゃっ！　トレーナーさん！？",
             "enText": "Hyah!　Trainer!",
             "nextBlock": 4,
@@ -64,7 +64,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "コホン……いきなりなんですの？\r\n私、これから少し行くところが……。",
             "enText": "I'm going to ...... now. I'm going \nto ...... for a little while now.",
             "nextBlock": 5,
@@ -96,7 +96,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "――……はっ！！",
             "enText": "--...... Ha!",
             "nextBlock": 6,
@@ -116,7 +116,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "あわわ……わ、わ、私としたことがっ！\r\n連続安打記録のことで、頭が……。",
             "enText": "Aww ...... wow, wow, what have I done! I've been thinking about \nthe record for consecutive hits. ......",
             "nextBlock": 7,
@@ -143,7 +143,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "あ……な、なんでもありませんわ！\r\n申し訳ありませんっ……。",
             "enText": "Oh ......, it's nothing! I'm sorry! ......",
             "nextBlock": 8,
@@ -175,7 +175,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "はい……今一度、自分を律します。\r\nそしてこの失態……必ず挽回しますわっ！",
             "enText": "Yes...... I will discipline myself once again. And I will surely \nrecover from this blunder......!",
             "nextBlock": -1,

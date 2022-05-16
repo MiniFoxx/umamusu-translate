@@ -17,7 +17,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "……おじい様、おばあ様。\r\nとうとうこの日を迎えることができました。",
             "enText": "......Grandfather and Grandmother. \nAt last we have reached this day.",
             "nextBlock": 3,
@@ -37,7 +37,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "どうか見ていてくださいませ、\r\n私の走りを――勝利を掴む瞬間を。",
             "enText": "Please watch me run - the moment I win.",
             "nextBlock": 4,
@@ -61,7 +61,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "…………。",
             "enText": ".............",
             "nextBlock": 5,
@@ -85,7 +85,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "よし……もう大丈夫です。\r\n行けそうですわ！",
             "enText": "Okay, ...... we're good to go. I think we can go!",
             "nextBlock": 6,
@@ -117,7 +117,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "はい……！　どうかトレーナーさんも\r\n見守っていてくださいませ！",
             "enText": "Yes, ......!　Please, trainers, keep an eye on us!",
             "nextBlock": 7,
@@ -137,7 +137,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "（ふぅ……。\r\n大丈夫、落ち着いて……）",
             "enText": "(Phew. ....... It's okay, calm down. ......)",
             "nextBlock": 8,
@@ -157,7 +157,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "――あ。",
             "enText": "--Ah.",
             "nextBlock": 9,
@@ -189,7 +189,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "あら、ライアン……。",
             "enText": "Oh my, Ryan .......",
             "nextBlock": 10,
@@ -221,7 +221,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "頑張りましょう。\r\nお互いに、メジロ家のウマ娘として。",
             "enText": "Let's do our best. As each other, as \nhorse girls of the Mejiro family.",
             "nextBlock": 11,
@@ -249,7 +249,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "……うん！",
             "enText": "...... Yeah!",
             "nextBlock": -1,

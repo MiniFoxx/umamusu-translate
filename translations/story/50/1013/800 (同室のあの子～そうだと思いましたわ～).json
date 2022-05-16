@@ -7,7 +7,7 @@
     "text": [
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ふぅ……。",
             "enText": "Phew. .......",
             "nextBlock": 2,
@@ -67,7 +67,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ありがとうございます、トレーナーさん。\nおかげで少しリラックスできましたわ。",
             "enText": "Thank you, trainer. It helped me relax a bit.",
             "nextBlock": 5,
@@ -94,7 +94,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "実は昨夜、少しばかり\n予習に時間がかかってしまいまして。",
             "enText": "Actually, I spent a little bit of time last night prepping.",
             "nextBlock": 6,
@@ -114,7 +114,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "いつものように、同室のイクノさんを\n頼ることができなかったものですから……。",
             "enText": "As usual, I couldn't rely on my roommate, Mr. Ikuno. ......",
             "nextBlock": 7,
@@ -141,7 +141,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "勉強で詰まった時、普段はイクノさんに\n協力していただくことが多いんです。",
             "enText": "When I get stuck in my studies, I usually \nask Ikuno to help me out.",
             "nextBlock": 8,
@@ -161,7 +161,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "勤勉な上に、彼女自身がとても\n他者に心を砕いてくださる方ですので。",
             "enText": "She is not only hardworking, but she is \nalso a very caring person herself.",
             "nextBlock": 9,
@@ -185,7 +185,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "しかし近々……レースを控えていて。",
             "enText": "But I have a ...... race coming up soon.",
             "nextBlock": 10,
@@ -209,7 +209,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "友人として、ライバルとして、今は\n彼女自身の夢を大切にしてほしいのです。",
             "enText": "As a friend and a competitor, I want her \nto take care of her own dreams now.",
             "nextBlock": 11,
@@ -253,7 +253,7 @@
         },
         {
             "jpName": "イクノディクタス",
-            "enName": "",
+            "enName": "Ikuno Dictus",
             "jpText": "おや――",
             "enText": "Oh--",
             "nextBlock": 13,
@@ -281,7 +281,7 @@
         },
         {
             "jpName": "イクノディクタス",
-            "enName": "",
+            "enName": "Ikuno Dictus",
             "jpText": "メジロマックイーンさんにトレーナーさん。\n本日もお疲れ様です。",
             "enText": "To Mr. Mejiro McQueen and his trainer. \nThank you for your hard work today.",
             "nextBlock": 14,
@@ -309,7 +309,7 @@
         },
         {
             "jpName": "イクノディクタス",
-            "enName": "",
+            "enName": "Ikuno Dictus",
             "jpText": "先刻、私の名前が聞こえたような気が\nしたのですが、何かご用でしょうか？",
             "enText": "I thought I heard my name mentioned the other day.",
             "nextBlock": 15,
@@ -337,7 +337,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ああ、いえ……！\n大したことではございませんのよ。",
             "enText": "Oh, no, ......! It's no big deal.",
             "nextBlock": 16,
@@ -369,7 +369,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "まずいですわ……\n今の話がバレてしまっては……！",
             "enText": "It's not good ...... if they know what \nwe're talking about now ......!",
             "nextBlock": 17,
@@ -497,7 +497,7 @@
         },
         {
             "jpName": "イクノディクタス",
-            "enName": "",
+            "enName": "Ikuno Dictus",
             "jpText": "私が……ですか？",
             "enText": "Am I ......?",
             "nextBlock": 20,
@@ -525,7 +525,7 @@
         },
         {
             "jpName": "イクノディクタス",
-            "enName": "",
+            "enName": "Ikuno Dictus",
             "jpText": "いえ、それを言うのなら、\nマックイーンさんこそ素晴らしい友人です。",
             "enText": "No, if you insist, Mr. McQueen is a great friend.",
             "nextBlock": 21,
@@ -553,7 +553,7 @@
         },
         {
             "jpName": "イクノディクタス",
-            "enName": "",
+            "enName": "Ikuno Dictus",
             "jpText": "こう言うのもなんですが――\n忠告しても暴走しがちな方々と比べて、\nマックイーンさんは打てば響く方ですので。",
             "enText": "Let me put it this way--compared to those who tend \nto go off the rails when you give them advice. McQueen \nis a man who can hit the nail on the head.",
             "nextBlock": 22,
@@ -585,7 +585,7 @@
         },
         {
             "jpName": "イクノディクタス",
-            "enName": "",
+            "enName": "Ikuno Dictus",
             "jpText": "見守る立場になった時は、\n非常に助かっているのですよ。",
             "enText": "When I am in a position to look after \nthem, they are very helpful.",
             "nextBlock": 23,
@@ -648,7 +648,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "え……そうですか？",
             "enText": "Eh ...... is that right?",
             "nextBlock": 25,
@@ -676,7 +676,7 @@
         },
         {
             "jpName": "イクノディクタス",
-            "enName": "",
+            "enName": "Ikuno Dictus",
             "jpText": "トレーナーさんもそう思われますか！\nやはりマックイーンさんは勤勉で、\n努力家で、吸収力があり――",
             "enText": "I'm sure your trainer thinks so too! After all, Mr. McQueen is a \nhard worker. Hardworking, absorbent...",
             "nextBlock": 26,
@@ -740,7 +740,7 @@
         },
         {
             "jpName": "イクノディクタス",
-            "enName": "",
+            "enName": "Ikuno Dictus",
             "jpText": "……と。\n貴重なお話をありがとうございました、\nトレーナーさん。",
             "enText": "With ....... Thank you for your valuable talk, Trainer.",
             "nextBlock": 28,
@@ -772,7 +772,7 @@
         },
         {
             "jpName": "イクノディクタス",
-            "enName": "",
+            "enName": "Ikuno Dictus",
             "jpText": "お時間があれば、\n是非とも続きをお聞かせください。",
             "enText": "If you have time, I would be very interested \nin hearing the rest of your story.",
             "nextBlock": 29,
@@ -808,7 +808,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "……ま、まったくもう。\n2人して盛り上がってしまうんですから。",
             "enText": "......Well, you know, it's just so \nmuch fun. We both get so excited.",
             "nextBlock": 30,
@@ -840,7 +840,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "私のことはいいのです。イクノさんは\nどうかご自身のことに集中してください。",
             "enText": "It doesn't matter what you think about me. Please concentrate on \nyourself, Mr. Ikuno.",
             "nextBlock": 31,
@@ -872,7 +872,7 @@
         },
         {
             "jpName": "イクノディクタス",
-            "enName": "",
+            "enName": "Ikuno Dictus",
             "jpText": "ありがとうございます。ですが自分のことも\n気をつけていますのでご心配なく。",
             "enText": "Thank you very much. But don't worry, I take care of myself too.",
             "nextBlock": 32,
@@ -928,7 +928,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ちょ、ちょっとトレーナーさん！\nそんなストレートに……！",
             "enText": "Hey, hey, hey trainer! It's that straight ......!",
             "nextBlock": 34,
@@ -956,7 +956,7 @@
         },
         {
             "jpName": "イクノディクタス",
-            "enName": "",
+            "enName": "Ikuno Dictus",
             "jpText": "ふふ、ありがとうございます。",
             "enText": "Hmmm, thank you very much.",
             "nextBlock": 35,
@@ -984,7 +984,7 @@
         },
         {
             "jpName": "イクノディクタス",
-            "enName": "",
+            "enName": "Ikuno Dictus",
             "jpText": "ですが心配はご無用。容量を超えないよう\n常に気をつけていますので。\nそれより――",
             "enText": "But don't worry. We are always careful not to exceed our \ncapacity. More importantly...",
             "nextBlock": 36,
@@ -1012,7 +1012,7 @@
         },
         {
             "jpName": "イクノディクタス",
-            "enName": "",
+            "enName": "Ikuno Dictus",
             "jpText": "マックイーンさんは問題ありませんか？\n幾分、疲れているように見えるのですが……。",
             "enText": "Is everything OK Mr. McQueen? He seems somewhat tired. ......",
             "nextBlock": 37,
@@ -1040,7 +1040,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "……！　わ、私だって心配は無用です！\n本当に、なんともありませんので！",
             "enText": "......!　Wow, don't worry about me either! Really, I'm fine!",
             "nextBlock": 38,
@@ -1068,7 +1068,7 @@
         },
         {
             "jpName": "イクノディクタス",
-            "enName": "",
+            "enName": "Ikuno Dictus",
             "jpText": "そうでしょうか？\n不要であればこれ以上は申しませんが――",
             "enText": "Is that so? I will say no more if you don't want me to--",
             "nextBlock": 39,
@@ -1096,7 +1096,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "いえ、不要とか、そういうことではなく……！",
             "enText": "No, not that it's unnecessary or anything, but ......!",
             "nextBlock": 40,
@@ -1167,7 +1167,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "なっ……！",
             "enText": "Nah. ......!",
             "nextBlock": 42,
@@ -1199,7 +1199,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "そ、そこまで言っておりません！\n子ども扱いはやめていただきたいですわ！",
             "enText": "I didn't say that! I wish you would \nstop treating me like a child!",
             "nextBlock": 43,
@@ -1227,7 +1227,7 @@
         },
         {
             "jpName": "イクノディクタス",
-            "enName": "",
+            "enName": "Ikuno Dictus",
             "jpText": "ああ、なるほど……そうでしたか。",
             "enText": "Oh, I see. ...... I see.",
             "nextBlock": 44,
@@ -1259,7 +1259,7 @@
         },
         {
             "jpName": "イクノディクタス",
-            "enName": "",
+            "enName": "Ikuno Dictus",
             "jpText": "承知いたしました。でしたら\n私も構いすぎないよう気をつけますね。",
             "enText": "I understand. If so, I'll be careful \nnot to be too much of a bother.",
             "nextBlock": 45,
@@ -1287,7 +1287,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ちょっと、もう……！\nイクノさんまでっ……！",
             "enText": "Hey, hey, hey, ......! Even Mr. Ikuno! ......!",
             "nextBlock": 46,

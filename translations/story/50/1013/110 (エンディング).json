@@ -37,7 +37,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ふむふむ、なるほど……。\r\nまあっ、それはいい考えですわね。",
             "enText": "Hmmm... I see... ....... Well, that's a good idea.",
             "nextBlock": 5,
@@ -59,7 +59,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "メジロ家から手紙が届きまして。今度、私の\r\n祝勝パーティーを開いてくれるそうですの。",
             "enText": "I received a letter from the Mejiro family. They are going to \nhold a party to celebrate my victory.",
             "nextBlock": 6,
@@ -79,7 +79,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "しかもそのパーティーに是非、\r\nトレーナーさんも参加して下さいと\n書かれているんです！",
             "enText": "And it also says that trainers are welcome to attend the party!",
             "nextBlock": 7,
@@ -99,7 +99,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "『マックイーンを勝利へ導いてくださった\r\nトレーナーさんをおもてなしさせてください』\nですって。ふふっ。",
             "enText": "Please allow me to entertain the trainer who led McQueen to \nvictory.\" He said. Hmmm.",
             "nextBlock": 8,
@@ -126,7 +126,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "あら、それほど身構えなくとも大丈夫ですわ。",
             "enText": "Oh, you don't have to be so defensive.",
             "nextBlock": 9,
@@ -146,7 +146,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "淑女の皆さんは簡単なドレスを、紳士の\r\n皆さんはスーツを着ていけば問題ありません。",
             "enText": "Ladies should wear a simple dress, \nand gentlemen should wear a suit.",
             "nextBlock": 10,
@@ -178,7 +178,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "そうでしょうか？\r\nそれでしたら……あ！",
             "enText": "Is that right? If so, then ...... Ah!",
             "nextBlock": 11,
@@ -198,7 +198,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "では次の休日、一緒にお召し物を\r\n買いに参りましょう！",
             "enText": "So, let's go shopping together on our next day off!",
             "nextBlock": 12,
@@ -218,7 +218,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "自慢のトレーナーさんのことは、\r\nきちんとご紹介したいですもの。",
             "enText": "We are proud of our trainers, and we \nwant to introduce them properly.",
             "nextBlock": 13,
@@ -238,7 +238,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "トレーナーさん、\r\n心の準備はよろしくて？",
             "enText": "Trainer, are you ready for this?",
             "nextBlock": -1,

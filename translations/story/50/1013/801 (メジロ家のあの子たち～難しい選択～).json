@@ -7,7 +7,7 @@
     "text": [
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "メジロマックイーンとのトレーニングを\n終えた日の夜。1人で仕事をしていると――",
             "enText": "The night after a day of training with the \nwhite meat McQueen, I was working alone.",
             "nextBlock": 2,
@@ -17,7 +17,7 @@
         },
         {
             "jpName": "メジロパーマー",
-            "enName": "",
+            "enName": "Mejiro Palmer",
             "jpText": "こんばんはー！　失礼しまーす！",
             "enText": "Good evening!　Excuse me!",
             "nextBlock": 3,
@@ -49,7 +49,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "ごめんなさい、\nこんな時間にいきなり来ちゃって。",
             "enText": "I'm sorry for suddenly showing up here at this hour.",
             "nextBlock": 4,
@@ -92,7 +92,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "まあ、驚きますわよね。\n事情を説明いたしますわ。",
             "enText": "Well, you'd be surprised, wouldn't you? \nLet me tell you what happened.",
             "nextBlock": 5,
@@ -136,7 +136,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "突然現れた3人から話を聞いた。\n映画を観ようとしたところ、\n寮のテレビが壊れていたらしく――",
             "enText": "We heard from three people who showed up out of the \nblue. We were about to watch a movie when Apparently, \nthe TV in their dorm was broken--and",
             "nextBlock": 6,
@@ -168,7 +168,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "トレーナー室で\n観られないかという話になったそうだ。",
             "enText": "They asked if they could watch it in the trainer's room.",
             "nextBlock": 7,
@@ -178,7 +178,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "突然で申し訳ありませんが、よろしければ\nトレーナーさんも一緒にいかがでしょう？",
             "enText": "Sorry for the abruptness, but if you don't mind, would you like \nto join us and your trainer?",
             "nextBlock": 8,
@@ -205,7 +205,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "まあ、よかった。\nでは準備をいたしますわね。",
             "enText": "Well, good. Now let me get you ready.",
             "nextBlock": 9,
@@ -225,7 +225,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "こうして、4人で映画を観ることになり――",
             "enText": "Thus, the four of us would watch a movie together--",
             "nextBlock": 10,
@@ -245,7 +245,7 @@
         },
         {
             "jpName": "3人",
-            "enName": "",
+            "enName": "All 3",
             "jpText": "きゃーーーっ！！",
             "enText": "Yikes!",
             "nextBlock": 11,
@@ -255,7 +255,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "なんてこと！　モンスターから逃げおおせた\nと思ったら、今度は密室だなんて……！",
             "enText": "Oh my God!　Just when you think you've escaped the monsters, you \nfind yourself in a locked room. ......!",
             "nextBlock": 12,
@@ -287,7 +287,7 @@
         },
         {
             "jpName": "メジロパーマー",
-            "enName": "",
+            "enName": "Mejiro Palmer",
             "jpText": "くーっ、四方八方壁固め……！\nこのままじゃ万事休すってかー！",
             "enText": "Damn, wall-fastening in all directions......! I'm going to lose \neverything if I don't do this!",
             "nextBlock": 13,
@@ -319,7 +319,7 @@
         },
         {
             "jpName": "メジロパーマー",
-            "enName": "",
+            "enName": "Mejiro Palmer",
             "jpText": "これはマズいね！　密室から逃げて\n安全な場所に避難しないと！",
             "enText": "This is not good!　We need to get out of the \nlocked room and get to a safe place!",
             "nextBlock": 14,
@@ -351,7 +351,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ええ、私もそう思――",
             "enText": "Yeah, I think so, too--",
             "nextBlock": 15,
@@ -383,7 +383,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "……いや、待った。",
             "enText": "...... No, wait.",
             "nextBlock": 16,
@@ -427,7 +427,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ライアン？",
             "enText": "Ryan?",
             "nextBlock": 17,
@@ -459,7 +459,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "みんな、よく考えて。ここは密室。\nヒーローとヒロインの2人しかいない。",
             "enText": "Think about it, people. This is a locked room. There are only two \npeople here: the hero and the heroine.",
             "nextBlock": 18,
@@ -487,7 +487,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "ということはつまり……チャンス！！",
             "enText": "That means ...... opportunity!",
             "nextBlock": 19,
@@ -515,7 +515,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "ならそのチャンスを活かすべきだよ！\nここに留まって――その時が来るまでっ！",
             "enText": "Then you should take advantage of the opportunity! Stay \nhere--until the time is right!",
             "nextBlock": 20,
@@ -543,7 +543,7 @@
         },
         {
             "jpName": "メジロパーマー",
-            "enName": "",
+            "enName": "Mejiro Palmer",
             "jpText": "いやー、ないない！　普通に危ないし！\n絶対逃げるべきだよね、マックイーン？",
             "enText": "Oh no, no!　It's just plain dangerous! We should definitely run \naway, right, McQueen?",
             "nextBlock": 21,
@@ -579,7 +579,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "え、私ですか？　ええと……\nトレーナーさんはどう思われますか？",
             "enText": "Oh, is it me?　Well, what do you think of ...... trainer?",
             "nextBlock": 22,
@@ -619,7 +619,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ええ、そうですわよね。",
             "enText": "Yes, I know.",
             "nextBlock": 23,
@@ -651,7 +651,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "パーマー、貴方の言う通り\n私も逃げるべきと考えますわ。",
             "enText": "Palmer, you're right, I think I should run too.",
             "nextBlock": 24,
@@ -679,7 +679,7 @@
         },
         {
             "jpName": "メジロパーマー",
-            "enName": "",
+            "enName": "Mejiro Palmer",
             "jpText": "おっ、いいねマックイーン！\n逃げガッツあるじゃん！",
             "enText": "Whoa, good one, McQueen! You've got the guts to run away!",
             "nextBlock": 25,
@@ -707,7 +707,7 @@
         },
         {
             "jpName": "メジロパーマー",
-            "enName": "",
+            "enName": "Mejiro Palmer",
             "jpText": "ついでになんだけど……逃げ方は？",
             "enText": "And while we're at it, how do you ...... escape?",
             "nextBlock": 26,
@@ -735,7 +735,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "……え？",
             "enText": "...... What?",
             "nextBlock": 27,
@@ -763,7 +763,7 @@
         },
         {
             "jpName": "メジロパーマー",
-            "enName": "",
+            "enName": "Mejiro Palmer",
             "jpText": "やっぱオープンスタンス気味？\nそれともクローズでバックスイング重視とか？",
             "enText": "Is it more of an open stance? Or closed, \nwith an emphasis on the backswing?",
             "nextBlock": 28,
@@ -791,7 +791,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "そんな……ゴルフ用語交じりに\n聞かれてもわかりませんわ～～！！",
             "enText": "I don't know what you're talking about when you ask me such \n...... golf terminology~!",
             "nextBlock": 29,
@@ -819,7 +819,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "こうして、しばし圧倒されていた\nメジロマックイーン。",
             "enText": "Thus, the often overwhelmed Mediterranean McQueen.",
             "nextBlock": 38,
@@ -847,7 +847,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "トレーナーさんがそう仰るなら……\n私もライアンに同意いたしますわ。",
             "enText": "If your trainer says so ...... I agree with Ryan.",
             "nextBlock": 31,
@@ -883,7 +883,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "え、ほんと？　嬉しいよ！",
             "enText": "Oh, really?　I'm so happy!",
             "nextBlock": 32,
@@ -911,7 +911,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "じゃあさ、マックイーンは\nここからどうなると思う……！？",
             "enText": "So, you know, what do you think McQueen \nwill do from here: ......!",
             "nextBlock": 33,
@@ -939,7 +939,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "……え？",
             "enText": "...... What?",
             "nextBlock": 34,
@@ -967,7 +967,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "やっぱ吊り橋効果的なやつが働いて、とか！？\nお互いの大切さを改めて実感して……とか！？",
             "enText": "I guess it's the suspension bridge effect thing \nworking! Like, when they realize how important \neach other is to each other again ......!",
             "nextBlock": 35,
@@ -995,7 +995,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "だって――なにしろ密室！！　これは\n絶っ対、何かあるよね！？　ねっ……！？",
             "enText": "Because - after all - it's a locked room!　This is definitely \nsomething!　See ......!",
             "nextBlock": 36,
@@ -1023,7 +1023,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "そんな……前のめりに聞かれても\nわかりませんわ～～！！",
             "enText": "I don't know what you're asking me in front of ...... like that~!",
             "nextBlock": 37,
@@ -1051,7 +1051,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "こうして、しばし圧倒されていた\nメジロマックイーン。",
             "enText": "Thus, the often overwhelmed Mediterranean McQueen.",
             "nextBlock": 38,
@@ -1079,7 +1079,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "しかし、物語も終盤になると――",
             "enText": "But as the story comes to a close--",
             "nextBlock": 39,
@@ -1115,7 +1115,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "いやあああ～～！！",
             "enText": "Oh no~!",
             "nextBlock": 40,
@@ -1125,7 +1125,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "モンスターが折り重なって……！！\nああっ……こっちを見ていますわ！！",
             "enText": "The monster folded over and ......! \nOh, ......, it's looking at me!",
             "nextBlock": 41,
@@ -1157,7 +1157,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "もうダメです！　レスキュー、レスキュー！\nメジロ防衛隊、出動です！！　早く\nモンスターをやっつけてくださいませ～～！！",
             "enText": "We're screwed!　Rescue, rescue! White-tailed Defenders, \nmobilise!　Quickly! Please kill the monsters~!",
             "nextBlock": 42,
@@ -1189,7 +1189,7 @@
         },
         {
             "jpName": "メジロパーマー",
-            "enName": "",
+            "enName": "Mejiro Palmer",
             "jpText": "あははっ、楽しそうでなにより。",
             "enText": "Haha, I'm glad you're having fun.",
             "nextBlock": 43,
@@ -1217,7 +1217,7 @@
         },
         {
             "jpName": "メジロライアン",
-            "enName": "",
+            "enName": "Mejiro Ryan",
             "jpText": "まぁ……さすがのメジロ家にも、\n防衛隊は存在しないけどね。",
             "enText": "Well, ...... there is no defense force, even in the Mejiro \nfamily, as expected.",
             "nextBlock": -1,

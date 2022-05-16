@@ -7,7 +7,7 @@
     "text": [
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "ここは某海域の無人島。\n呆然とするメジロマックイーンを置いて、\n船は去っていった。",
             "enText": "This is an uninhabited island in a certain sea area. The ship \nleft the stunned white-tailed McQueen behind.",
             "nextBlock": 2,
@@ -27,7 +27,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "これは……どういうことですの？　いきなり\nこの島で『一夜を生き延びろ』だなんて。",
             "enText": "What does this ...... mean?　What does it mean?",
             "nextBlock": 3,
@@ -47,7 +47,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "トレーナーさん、なにか聞いていまして？",
             "enText": "Trainer, did you hear something?",
             "nextBlock": 4,
@@ -74,7 +74,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "知っていることを話した。バラエティ記事\n『お嬢様・無人島サバイバル』のためだと。",
             "enText": "I told him what I knew. He said it was for a variety of articles, \n\"Miss, Deserted Island Survival.",
             "nextBlock": 5,
@@ -94,7 +94,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "なるほど、世間知らずの私がどう切り\n抜けるか見てみたい、ということですのね。",
             "enText": "I see, so you want to see how I, a naive \nperson, can get through this.",
             "nextBlock": 6,
@@ -114,7 +114,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ならばお受けしますわ。メジロの者として、\n島ごときに屈するわけにはいきません！",
             "enText": "Then I accept. As a member of Mejiro, \nI will not bow down to the island!",
             "nextBlock": 7,
@@ -134,7 +134,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "と、とはいえ不気味ですわね。このような\n場所で過ごさなければならないとは……。",
             "enText": "It is creepy, though, isn't it? I never thought I would have to \nspend time in a place like this. ......",
             "nextBlock": 8,
@@ -154,7 +154,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ひゃああああっ！？　虎！？\nベンガル虎ですの！？",
             "enText": "Hiyaaaa!　A tiger! It's a Bengal tiger!",
             "nextBlock": 9,
@@ -174,7 +174,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "負けませんわよ、私……！",
             "enText": "I won't lose, I ......!",
             "nextBlock": 10,
@@ -194,7 +194,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "まずは具体的な立ち回りを考えねば。\nトレーナーさん、助言をくださいませ！",
             "enText": "I have to think of a specific way to get around \nfirst. Trainers, please advise me!",
             "nextBlock": 11,
@@ -214,7 +214,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "無人島を生き抜くのに、1番大切なものって\nなんですの？　さ、お答えを。",
             "enText": "What is the most important thing to survive on a deserted \nisland?　Now for the answer.",
             "nextBlock": 12,
@@ -234,7 +234,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "サバイバルのために、1番必要なものは――",
             "enText": "For survival, the number one thing you need is--",
             "nextBlock": 13,
@@ -266,7 +266,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "食料……。栄養補給さえできれば、どんな\n難事も恐るるに足らず、ということですわね。",
             "enText": "Food ....... No difficulty is too great to \nfear, as long as we are well nourished.",
             "nextBlock": 14,
@@ -286,7 +286,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "わかりましたわ。恐れに身をすくめていては、\n生還なんて不可能。私……甘えは捨てます！",
             "enText": "I understand. If you cower in fear, survival is impossible. I \n...... will not be naive!",
             "nextBlock": 15,
@@ -306,7 +306,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "さ、トレーナーさん、いつでもどうぞ。",
             "enText": "Come on, trainer, anytime.",
             "nextBlock": 16,
@@ -333,7 +333,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "食べ物ですわ。持ってきてくださいます？\n私、たくましく、なんでも食べてみせます。",
             "enText": "Food. Please bring me some. I am strong and will eat anything.",
             "nextBlock": 17,
@@ -353,7 +353,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "怖くてノドを通らない、なんて言いませんわ。\n果物でも海鮮でも食べてみせます。さあ！",
             "enText": "I won't say that I'm too scared to go down my throat. I will eat \nfruit and seafood. Come on!",
             "nextBlock": 18,
@@ -373,7 +373,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "――こうしてメジロマックイーンは自らの\n手を動かすことなく、食べ物を手に入れた。",
             "enText": "--Thus, White-Tailed McQueen got his food \nwithout having to move his hands.",
             "nextBlock": -1,
@@ -393,7 +393,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "体力……。なるほど、無尽蔵の体力なくして\n生還するなど夢のまた夢……。",
             "enText": "Physical strength ....... Well, without inexhaustible physical \nstrength, survival is a dream come true. ......",
             "nextBlock": 20,
@@ -413,7 +413,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "となれば先ほどのベンガル虎らしきもの。\nあれと一戦交えれば、さぞや強化に……。",
             "enText": "If that is the case, it looks like the Bengal tiger I mentioned \nearlier. If you have a fight with that one, I'm sure you'll be \nable to strengthen .......",
             "nextBlock": 21,
@@ -433,7 +433,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ひぃぃぃ、茂みの中にまだいる！？\nこんなのと戦うなんて、やはり無理ですわ～！",
             "enText": "Hiiiii, he's still in the bushes! Fighting \nsomething like this is still impossible~!",
             "nextBlock": 22,
@@ -453,7 +453,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "トレーナーさん、体力のことは諦めて\r\nください。私、到底……ひぃぃぃっ！",
             "enText": "Trainer, please give up on physical fitness. I'll never ...... \nhiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii!",
             "nextBlock": 23,
@@ -473,7 +473,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "メジロマックイーンは獣に追われて、走り\n続ける。これはこれで体力がついたようだ。",
             "enText": "The white-eared McQueen continues to run, pursued by the beast. \nThis seems to have given him a lot of stamina.",
             "nextBlock": -1,

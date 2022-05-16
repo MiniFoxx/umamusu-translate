@@ -7,7 +7,7 @@
     "text": [
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "ファミレス前。ハタハタとフェアの旗が\nはためいている。あれは……。",
             "enText": "In front of a family restaurant. The fluttering flags of the fair \nare flapping in the air. That's .......",
             "nextBlock": 2,
@@ -27,7 +27,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "トレーナーさん、これは……夢ですわよね？\nあの旗、なんて書いてあるように見えます？",
             "enText": "Trainer, this is a ...... dream, right? \nWhat does that flag look like it says?",
             "nextBlock": 3,
@@ -54,7 +54,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "夢ではないんですの！？　誰です！？\nこんな罪深いフェアを考えついたのは。",
             "enText": "It's not a dream!　Who is it! Who came up with this sinful fair.",
             "nextBlock": 4,
@@ -74,7 +74,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ああ、マロンクリームの芳香が、ここまで\n漂って……。しかも今は乙女心も揺らぐ\n午後3時……。",
             "enText": "Ah, the aroma of marron cream wafting up here to ....... And now \nthe maiden's heart is wavering too. It's 3:00 p.m........",
             "nextBlock": 5,
@@ -94,7 +94,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "この誘惑に、立ち向かう術はありませんわ。",
             "enText": "There is no way to fight this temptation.",
             "nextBlock": 6,
@@ -126,7 +126,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "……助かります。1人で行けと言われたら、\nさすがに自制する自信が……。",
             "enText": "...... will be helpful. If you ask me to go alone, I am indeed \nconfident ...... that I will be able to restrain myself.",
             "nextBlock": 7,
@@ -146,7 +146,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "それで、どうします？\n中山の坂ともいうべき、この魅惑の坂。",
             "enText": "So, what do you think? This enchanting slope, \nalso known as the Nakayama slope.",
             "nextBlock": 8,
@@ -166,7 +166,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "思い切り、駆け登ってもよいのでしょうか？",
             "enText": "Can I run up and down as fast as I can?",
             "nextBlock": 9,
@@ -198,7 +198,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "コホン、そ、そうですわね……。\r\nモンブランはあくまで優雅につまむもの。",
             "enText": "Cohon, yes, that's right. ...... Mont Blanc \nis only to be nibbled with elegance.",
             "nextBlock": 10,
@@ -218,7 +218,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "程々にしておきますわ。元より私もそう\n思っていましたの。当然ですわよね。",
             "enText": "I'll keep it to a minimum. That's what I thought. Of course.",
             "nextBlock": 11,
@@ -238,7 +238,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "……トレーナーさんのいじわる。",
             "enText": "...... trainer's tease.",
             "nextBlock": 12,
@@ -265,7 +265,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "いえ、なんでも。\nでは、そのように。",
             "enText": "No, anything. Then so be it.",
             "nextBlock": 13,
@@ -285,7 +285,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ふぅ、よかったですわ。最初の1つを\n食べて、舌を満たしたところで自制が効いて。",
             "enText": "Whew, that was good. I ate the first one, and when my tongue was \nfull, restraint kicked in.",
             "nextBlock": 14,
@@ -305,7 +305,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "しばらく、このお店には近づかないように\nいたしましょう。危うきに近寄らず、ですわ。",
             "enText": "Let's stay away from this store for \na while. Stay out of harm's way.",
             "nextBlock": 15,
@@ -325,7 +325,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "大食いは控えさせた。その結果、程々の\n糖分により、少し頭が冴えたようだ。",
             "enText": "I asked him to refrain from eating a large meal. \nAs a result, the moderate amount of sugar seemed \nto help him think a little clearer.",
             "nextBlock": -1,
@@ -345,7 +345,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "それが指示ですのね！　こんなにも貴方を\nまぶしく、憎く思ったことはありませんわ。",
             "enText": "That's what you told me to do!　I've never been so dazzled by you, \nand I've never hated you so much.",
             "nextBlock": 17,
@@ -365,7 +365,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "いいでしょう、覚悟を決めましたわ。\n行きましょう。坂の向こうの光景を見に。",
             "enText": "Okay, I'm ready. Let's go. To see the \nscene on the other side of the hill.",
             "nextBlock": 18,
@@ -385,7 +385,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "けぷっ……素晴らしくも嘆かわしい体験\nでしたわ。この充足感と背徳感……。",
             "enText": "Kepu...... was a wonderful and lamentable experience. This sense \nof fulfillment and immorality. ......",
             "nextBlock": 19,
@@ -405,7 +405,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "え、ミシッ？　トレーナーさん、今\n『ミシッ』て言いました？",
             "enText": "Oh, mish?　Did you just say \"mish mish\", trainer?",
             "nextBlock": 20,
@@ -432,7 +432,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "そ、そうですわよね。いくら食べすぎたとは\nいえ、アスファルトがきしむなんて……。",
             "enText": "Yes, that's right. No matter how much I ate, I can't believe the \nasphalt is creaking. ......",
             "nextBlock": 21,
@@ -452,7 +452,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "食べた分はトレーニングで消化しますわ。\nさあ、一心に打ち込みますわよ！",
             "enText": "I'll digest what I eat in training. Now, I'm going to devote \nmyself to it with all my heart!",
             "nextBlock": 22,
@@ -472,7 +472,7 @@
         },
         {
             "jpName": "モノローグ",
-            "enName": "",
+            "enName": "Monologue",
             "jpText": "つい甘やかしてしまった。でも摂取した\nカロリーの分だけ、伸びしろも広がった\nようだ。",
             "enText": "I spoiled them. But the amount of calories I took in seems to \nhave increased my growth potential.",
             "nextBlock": -1,

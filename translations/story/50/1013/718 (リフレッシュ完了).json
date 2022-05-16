@@ -7,7 +7,7 @@
     "text": [
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "おはようございます、トレーナーさん。",
             "enText": "Good morning, trainer.",
             "nextBlock": 2,
@@ -27,7 +27,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "私、おばあ様がくださったお香を\r\n寝る時によく使っているのですが……。",
             "enText": "I often use the incense my grandmother \ngave me when I sleep. ......",
             "nextBlock": 3,
@@ -47,7 +47,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ふわっと、落ち着きのある香りが部屋中に\n広がって……とてもよく眠れますの。",
             "enText": "A soft, calming scent pervades the room \nand ...... helps me sleep very well.",
             "nextBlock": 4,
@@ -67,7 +67,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "おかげで休息はきちんと取れましたわ。\nさあ、今日もトレーニングを始めましょう！",
             "enText": "Thanks to you, we've had a decent rest. \nLet's get another workout in today!",
             "nextBlock": -1,

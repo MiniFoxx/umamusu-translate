@@ -7,7 +7,7 @@
     "text": [
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "無事、『神戸新聞杯』で\r\n結果を出すことができましたわね。",
             "enText": "You were able to get a result in the \nKobe Shimbun Cup without incident.",
             "nextBlock": 2,
@@ -34,7 +34,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "ええ。今年の目標としてきたレースですから、\r\n絶対に落とすわけには参りません。",
             "enText": "Yes, I know. This is my goal for this year, \nand I cannot afford to lose this race.",
             "nextBlock": 3,
@@ -54,7 +54,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "しっかり勝って、\r\n繋いでいかなければなりませんね。",
             "enText": "We need to win and keep it going.",
             "nextBlock": 4,
@@ -74,7 +74,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "（それから――）",
             "enText": "(Then--)",
             "nextBlock": 5,
@@ -94,7 +94,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "（『菊花賞』はクラシック最後のレース。\r\n当然、ライアンも出走するはず……）",
             "enText": "(\"Kikka-sho\" is the last race of the Classic. Naturally, Ryan \nshould be running too ......)",
             "nextBlock": 6,
@@ -126,7 +126,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "……ああ、いえ！",
             "enText": "...... Oh, no!",
             "nextBlock": 7,
@@ -146,7 +146,7 @@
         },
         {
             "jpName": "メジロマックイーン",
-            "enName": "",
+            "enName": "Mejiro McQueen",
             "jpText": "改めて、勝利への道を思い描いていたのです。\r\n必ずや次も勝ってみせますわ！",
             "enText": "Once again, I was envisioning the path to victory. I will surely \nwin again next time!",
             "nextBlock": -1,
